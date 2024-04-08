@@ -1,0 +1,660 @@
+		DROP	Slider_1	Checkbox_1	DROP	Slider_2	DROP		DROP	Latitude	Longitude	DROP	DROP	Category_color
+Infobox_1	Infobox_2			Infobox_4				Infobox_3						
+Country	Project Name	Unit Name	Capacity (MW)	Status	Model	Start Year	Retirement Year	Owner	Operator	Latitude	Longitude	"Major Area (prefecture, district)"	State/Province	Reactor_type
+United States	SM-1A nuclear power plant	NA	1.64	retired	unknown	1962	1972	US Department of Defense	United States Army	63.97376	-145.7178	NA	Alaska	pressurized water reactor
+United States	Humboldt Bay nuclear power plant	NA	65	retired	Natural cir.	1963	1976	Pacific Gas and Electric CO	Pacific Gas and Electric CO	40.7407	-124.2091	NA	California	boiling water reactor
+United States	Trojan nuclear power plant	NA	1155	retired	unknown	1976	1992	NA	Portland General Electric CO	46.0392	-122.8843	NA	Oregon	pressurized water reactor
+United States	Vallecitos nuclear power plant	NA	24	retired	unknown	1957	1963	General Electric; Pacific Gas And Electric CO	General Electric	37.61101	-121.8368	NA	California	boiling water reactor
+United States	Rancho Seco nuclear power plant	1	917	retired	unknown	1975	1989	Sacramento Municipal Utility District	Sacramento Municipal Utility District	38.3445	-121.1206	NA	California	pressurized water reactor
+United States	Diablo Canyon nuclear power plant	1	1197	operating	WH 4LP (DRYAMB)	1985	2024	Pacific Gas and Electric CO	Pacific Gas and Electric CO	35.2115	-120.8555	CAL Fire Southern Region	California	pressurized water reactor
+United States	Diablo Canyon nuclear power plant	2	1197	operating	WH 4LP (DRYAMB)	1986	2025	Pacific Gas and Electric CO	Pacific Gas and Electric CO	35.2115	-120.8555	CAL Fire Southern Region	California	pressurized water reactor
+United States	Columbia nuclear power plant	NA	1190	operating	BWR-5 (Mark 2)	1984	NA	Energy Northwest	Energy Northwest	46.4711	-119.3339	NA	Washington	boiling water reactor
+United States	San Onofre nuclear power plant	2	1127	retired	CE (2-loop) DRYAMB	1983	2013	Southern California Edison (SCE)	Southern California Edison CO	33.3692	-117.5553	NA	California	pressurized water reactor
+United States	San Onofre nuclear power plant	1	456	retired	unknown	1968	1992	Southern California Edison (SCE)	Southern California Edison CO	33.3689	-117.5548	NA	California	pressurized water reactor
+United States	San Onofre nuclear power plant	3	1127	retired	CE (2-loop) DRYAMB	1984	2013	Southern California Edison (SCE)	Southern California Edison CO	33.3686	-117.5543	NA	California	pressurized water reactor
+United States	Experimental Breeder Reactor nuclear power plant	1	0.2	retired	unknown	1951	1964	US Department of Energy	Argonne National Laboratory-West	43.51151	-113.0087	NA	Idaho	other
+United States	Experimental Breeder Reactor nuclear power plant	2	19	retired	unknown	1965	1994	US Department of Energy	Argonne National Laboratory-West	43.59509	-113.0087	NA	Idaho	other
+United States	Palo Verde nuclear power plant	1	1414	operating	CE80 2LP (DRYAMB)	1986	NA	Arizona Public Service CO	Arizona Public Service CO	33.3881	-112.8617	NA	Arizona	pressurized water reactor
+United States	Palo Verde nuclear power plant	2	1414	operating	CE80 2LP (DRYAMB)	1986	NA	Arizona Public Service CO	Arizona Public Service CO	33.3881	-112.8617	NA	Arizona	pressurized water reactor
+United States	Palo Verde nuclear power plant	3	1414	operating	CE80 2LP (DRYAMB)	1988	NA	Arizona Public Service CO	Arizona Public Service CO	33.3881	-112.8617	NA	Arizona	pressurized water reactor
+United States	Fort St. Vrain nuclear power plant	NA	342	retired	unknown	1979	1989	NA	Public Service Company of Colorado (PSCo)	40.2453	-104.8742	NA	Colorado	other
+United States	Comanche Peak nuclear power plant	1	1259	operating	WH 4LP (DRYAMB)	1990	NA	Luminant Generation Company LLC	Luminant Generation CO LLC	32.2984	-97.7855	NA	Texas	pressurized water reactor
+United States	Comanche Peak nuclear power plant	2	1250	operating	WH 4LP (DRYAMB)	1993	NA	Luminant Generation Company LLC	Luminant Generation CO LLC	32.2984	-97.7855	NA	Texas	pressurized water reactor
+United States	Hallam nuclear power plant	NA	84	retired	LMGMR	1963	1964	Hallam Nuclear Power Facility	Atomic Energy Commission And Nebraska Public Power District	40.55901	-96.7848	NA	Nebraska	other
+United States	Pathfinder nuclear power plant	NA	63	retired	Prototype	1966	1967	Xcel Energy	Nuclear Management CO	43.6036	-96.6375	NA	South Dakota	boiling water reactor
+Mexico	Laguna Verde nuclear power plant	1	805	operating	BWR-5	1990	NA	Comision Federal De Electricidad	Comision Federal De Electricidad	19.7208	-96.4064	NA	Veracruz	boiling water reactor
+Mexico	Laguna Verde nuclear power plant	2	803	operating	BWR-5	1995	NA	Comision Federal De Electricidad	Comision Federal De Electricidad	19.7208	-96.4064	NA	Veracruz	boiling water reactor
+United States	Fort Calhoun nuclear power plant	1	512	retired	CE 2LP	1973	2016	Omaha Public Power District	Exelon Generation CO LLC	41.5182	-96.0775	NA	Nebraska	pressurized water reactor
+United States	South Texas nuclear power plant	1	1354	operating	WH 4LP (DRYAMB)	1988	NA	Constellation Energy [44%]; CPS Energy [40%]; Austin Energy [16%]	STP Nuclear Operating CO	28.79501	-96.0481	NA	Texas	pressurized water reactor
+United States	South Texas nuclear power plant	2	1354	operating	WH 4LP (DRYAMB)	1989	NA	Constellation Energy [44%]; CPS Energy [40%]; Austin Energy [16%]	STP Nuclear Operating CO	28.79501	-96.0481	NA	Texas	pressurized water reactor
+United States	Wolf Creek nuclear power plant	NA	1285	operating	WH 4LP (DRYAMB)	1985	NA	Kansas City Power & Light CO	Wolf Creek Nuclear Operating CORP	38.2393	-95.6898	NA	Kansas	pressurized water reactor
+United States	Cooper nuclear power plant	NA	801	operating	BWR-4 (Mark 1)	1974	NA	Nebraska Public Power District	Entergy Nuclear Operations INC	40.3628	-95.6408	NA	Nebraska	boiling water reactor
+United States	Monticello nuclear power plant	NA	691	operating	BWR-3 (Mark 1)	1971	NA	Xcel Energy	Northern States Power CO	45.3338	-93.8493	NA	Minnesota	boiling water reactor
+United States	Elk River nuclear power plant	NA	24	retired	unknown	1964	1968	US Department of Energy	Rural Cooperative Power Association	45.2963	-93.5555	NA	Minnesota	boiling water reactor
+United States	Arkansas Nuclear One nuclear power plant	1	903	operating	B&W LLP (DRYAMB)	1974	NA	Entergy Arkansas INC	Entergy Nuclear Operations INC	35.311	-93.2351	NA	Arkansas	pressurized water reactor
+United States	Arkansas Nuclear One nuclear power plant	2	1065	operating	CE 2LP (DRYAMB)	1980	NA	Entergy Arkansas INC	Entergy Nuclear Operations INC	35.311	-93.2351	NA	Arkansas	pressurized water reactor
+United States	Prairie Island nuclear power plant	1	566	operating	WH 2LP (DRYAMB)	1973	NA	Xcel Energy	Northern States Power CO	44.622	-92.6333	NA	Minnesota	pressurized water reactor
+United States	Prairie Island nuclear power plant	2	560	operating	WH 2LP (DRYAMB)	1974	NA	Xcel Energy	Northern States Power CO	44.622	-92.6333	NA	Minnesota	pressurized water reactor
+United States	Callaway nuclear power plant	1	1275	operating	WH 4LP (DRYAMB)	1984	NA	Ameren UE; Union Electric CO	Ameren UE; Union Electric CO	38.7589	-91.7788	NA	Missouri	pressurized water reactor
+United States	Duane Arnold nuclear power plant	1	624	retired	BWR-4 (Mark 1)	1975	2020	Nextera Energy Resources LLC	Nextera Energy Resources LLC	42.1011	-91.7781	NA	Iowa	boiling water reactor
+United States	River Bend nuclear power plant	1	1016	operating	BWR-6 (Mark 3)	1986	NA	Entergy Gulf States INC	Entergy Nuclear Operations INC	30.757	-91.3327	NA	Louisiana	boiling water reactor
+United States	Lacrosse nuclear power plant	NA	55	retired	unknown	1969	1987	NA	Dairyland Power Cooperative	43.5601	-91.2316	NA	Wisconsin	boiling water reactor
+United States	Grand Gulf nuclear power plant	1	1500	operating	BWR-6 (Mark 3)	1985	NA	Systems Energy Resources INC	Entergy Nuclear Operations INC	32.0081	-91.0478	NA	Mississippi	boiling water reactor
+United States	Waterford nuclear power plant	3	1250	operating	CE 2LP (DRYAMB)	1985	NA	Entergy Louisiana INC	Entergy Nuclear Operations INC	29.9953	-90.4716	NA	Louisiana	pressurized water reactor
+United States	Quad Cities nuclear power plant	1	940	operating	BWR-3 (Mark 1)	1973	NA	Exelon [75%]; Midamerican Energy [25%]	Exelon Generation CO LLC	41.7261	-90.3103	NA	Illinois	boiling water reactor
+United States	Quad Cities nuclear power plant	2	940	operating	BWR-3 (Mark 1)	1973	NA	Exelon [75%]; Midamerican Energy [25%]	Exelon Generation CO LLC	41.7261	-90.3103	NA	Illinois	boiling water reactor
+United States	Byron nuclear power plant	1	1242	operating	WH 4LP (DRYAMB)	1985	NA	Exelon	Exelon Generation CO LLC	42.0742	-89.2819	NA	Illinois	pressurized water reactor
+United States	Byron nuclear power plant	2	1210	operating	WH 4LP (DRYAMB)	1987	NA	Exelon	Exelon Generation CO LLC	42.0742	-89.2819	NA	Illinois	pressurized water reactor
+United States	Clinton nuclear power plant	1	1098	operating	BWR-6 (Mark 3)	1987	NA	Exelon	Exelon Generation CO LLC	40.1719	-88.8339	NA	Illinois	boiling water reactor
+United States	LaSalle nuclear power plant	1	1207	operating	BWR-5 (Mark 2)	1984	NA	Exelon	Exelon Generation CO LLC	41.2455	-88.6691	NA	Illinois	boiling water reactor
+United States	LaSalle nuclear power plant	2	1207	operating	BWR-5 (Mark 2)	1984	NA	Exelon	Exelon Generation CO LLC	41.2455	-88.6691	NA	Illinois	boiling water reactor
+United States	Dresden nuclear power plant	1	207	retired	unknown	1960	1978	NA	Exelon Generation CO LLC	41.3901	-88.2701	NA	Illinois	boiling water reactor
+United States	Dresden nuclear power plant	2	950	operating	BWR-3 (Mark 1)	1970	NA	Exelon	Exelon Generation CO LLC	41.3901	-88.2701	NA	Illinois	boiling water reactor
+United States	Dresden nuclear power plant	3	935	operating	BWR-3 (Mark 1)	1971	NA	Exelon	Exelon Generation CO LLC	41.3901	-88.2701	NA	Illinois	boiling water reactor
+United States	Braidwood nuclear power plant	1	1270	operating	WH 4LP (DRYAMB)	1988	NA	Exelon	Exelon Generation CO LLC	41.2435	-88.2286	NA	Illinois	pressurized water reactor
+United States	Braidwood nuclear power plant	2	1230	operating	WH 4LP (DRYAMB)	1988	NA	Exelon	Exelon Generation CO LLC	41.2435	-88.2286	NA	Illinois	pressurized water reactor
+United States	Experimental Boiling Water Reactor nuclear power plant	1	5	retired	unknown	1956	1967	US Department of Energy	Argonne National Laboratory-West	41.71944	-87.9891	NA	Illinois	other
+United States	Zion nuclear power plant	1	1085	retired	WH 4LP	1973	1998	Exelon Generation CO LLC	Exelon Generation CO LLC	42.4461	-87.8028	NA	Illinois	pressurized water reactor
+United States	Zion nuclear power plant	2	1085	retired	WH 4LP	1974	1998	Exelon Generation CO LLC	Exelon Generation CO LLC	42.4461	-87.8028	NA	Illinois	pressurized water reactor
+United States	Point Beach nuclear power plant	1	640	operating	WH 2LP (DRYAMB)	1970	NA	Nextera Energy Resources LLC	Nextera Energy Resources LLC	44.2806	-87.5369	NA	Wisconsin	pressurized water reactor
+United States	Point Beach nuclear power plant	2	640	operating	WH 2LP (DRYAMB)	1972	NA	Nextera Energy Resources LLC	Nextera Energy Resources LLC	44.2806	-87.5369	NA	Wisconsin	pressurized water reactor
+United States	Kewaunee nuclear power plant	NA	595	retired	WH 2LP (DRYAMB)	1974	2013	Dominion Energy	Dominion Energy	44.3426	-87.5357	NA	Wisconsin	pressurized water reactor
+United States	Browns Ferry nuclear power plant	1	1256	operating	BWR-4 (Mark 1)	1974	NA	Tennessee Valley Authority (TVA)	Tennessee Valley Authority (TVA)	34.7042	-87.1189	NA	Alabama	boiling water reactor
+United States	Browns Ferry nuclear power plant	2	1259	operating	BWR-4 (Mark 1)	1975	NA	Tennessee Valley Authority (TVA)	Tennessee Valley Authority (TVA)	34.7042	-87.1189	NA	Alabama	boiling water reactor
+United States	Browns Ferry nuclear power plant	3	1260	operating	BWR-4 (Mark 1)	1977	NA	Tennessee Valley Authority (TVA)	Tennessee Valley Authority (TVA)	34.7042	-87.1189	NA	Alabama	boiling water reactor
+United States	Donald C Cook nuclear power plant	1	1131	operating	WH 4LP (ICECDN)	1975	NA	American Electric Power CO INC	American Electric Power Company INC	41.9756	-86.5652	NA	Michigan	pressurized water reactor
+United States	Donald C Cook nuclear power plant	2	1231	operating	WH 4LP (ICECDN)	1978	NA	American Electric Power CO INC	American Electric Power Company INC	41.9756	-86.5652	NA	Michigan	pressurized water reactor
+United States	Palisades nuclear power plant	NA	850	retired	CE 2LP (DRYAMB)	1971	2022	Entergy Nuclear Operations INC	Entergy Nuclear Operations INC	42.323	-86.3146	NA	Michigan	pressurized water reactor
+United States	Big Rock Point nuclear power plant	NA	71	retired	unknown	1963	1997	Consumers Power CO	Consumers Power CO	45.3576	-85.2002	NA	Michigan	boiling water reactor
+United States	Joseph M Farley nuclear power plant	1	918	operating	WH 3LP (DRYAMB)	1977	NA	Alabama Power	Southern Nuclear Operating Company INC	31.2231	-85.1116	NA	Alabama	pressurized water reactor
+United States	Joseph M Farley nuclear power plant	2	928	operating	WH 3LP (DRYAMB)	1981	NA	Alabama Power	Southern Nuclear Operating Company INC	31.2231	-85.1116	NA	Alabama	pressurized water reactor
+United States	Sequoyah nuclear power plant	1	1221	operating	WH 4LP (ICECND)	1981	NA	Tennessee Valley Authority (TVA)	Tennessee Valley Authority (TVA)	35.2267	-85.0917	NA	Tennessee	pressurized water reactor
+United States	Sequoyah nuclear power plant	2	1200	operating	WH 4LP (ICECND)	1982	NA	Tennessee Valley Authority (TVA)	Tennessee Valley Authority (TVA)	35.2267	-85.0917	NA	Tennessee	pressurized water reactor
+United States	Watts Bar nuclear power plant	2	1218	operating	WH 4LP (ICECND)	2016	NA	Tennessee Valley Authority (TVA)	Tennessee Valley Authority (TVA)	35.6015	-84.7909	NA	Tennessee	pressurized water reactor
+United States	Watts Bar nuclear power plant	1	1210	operating	WH 4LP (ICECND)	1996	NA	Tennessee Valley Authority (TVA)	Tennessee Valley Authority (TVA)	35.6021	-84.7895	NA	Tennessee	pressurized water reactor
+United States	Piqua nuclear power plant	NA	12	retired	OCM (Organically Cooled and Moderated Reactor)	1963	1966	US Atomic Energy Commission	City Of Piqua Government	40.1319	-84.2348	NA	Ohio	other
+United States	Fermi nuclear power plant	1	65	retired	Liquid Metal FBR	1966	1972	Power Reactor Development Company (PRDC) (Consortium Of 34 Public Utilities)	Detroit Edison CO	41.96031	-83.2577	NA	Michigan	other
+United States	Fermi nuclear power plant	2	1198	operating	BWR-4 (Mark 1)	1988	NA	DTE Energy CO	Detroit Edison CO	41.96278	-83.2575	NA	Michigan	boiling water reactor
+United States	Davis Besse nuclear power plant	1	925	operating	B&W RLP (DRYAMB)	1978	NA	Cleveland Electric Illuminating CO	First Energy Nuclear Operating CO	41.5967	-83.0861	NA	Ohio	pressurized water reactor
+United States	Oconee nuclear power plant	1	891	operating	B&W LLP (DRYAMB)	1973	NA	Duke Energy CORP	Duke Energy CORP	34.7939	-82.8986	NA	South Carolina	pressurized water reactor
+United States	Oconee nuclear power plant	2	891	operating	B&W LLP (DRYAMB)	1974	NA	Duke Energy CORP	Duke Energy CORP	34.7939	-82.8986	NA	South Carolina	pressurized water reactor
+United States	Oconee nuclear power plant	3	900	operating	B&W LLP (DRYAMB)	1974	NA	Duke Energy CORP	Duke Energy CORP	34.7939	-82.8986	NA	South Carolina	pressurized water reactor
+United States	Crystal River nuclear power plant	3	890	retired	B&W LLP (DRYAMB)	1977	2013	Duke Energy CORP	Progress Energy	28.9578	-82.6983	NA	Florida	pressurized water reactor
+United States	Edwin I Hatch nuclear power plant	1	911	operating	BWR-4 (Mark 1)	1975	NA	Georgia Power CO	Southern Nuclear Operating Company INC	31.9342	-82.3447	NA	Georgia	boiling water reactor
+United States	Edwin I Hatch nuclear power plant	2	921	operating	BWR-4 (Mark 1)	1979	NA	Georgia Power CO	Southern Nuclear Operating Company INC	31.9342	-82.3447	NA	Georgia	boiling water reactor
+United States	Alvin W Vogtle nuclear power plant	1	1229	operating	WH 4LP (DRYAMB)	1987	NA	Georgia Power CO	Southern Nuclear Operating Company INC	33.13001	-81.7729	NA	Georgia	pressurized water reactor
+United States	Alvin W Vogtle nuclear power plant	2	1229	operating	WH 4LP (DRYAMB)	1989	NA	Georgia Power CO	Southern Nuclear Operating Company INC	33.13001	-81.7729	NA	Georgia	pressurized water reactor
+United States	Alvin W Vogtle nuclear power plant	3	1250	operating	AP-1000	2023	NA	Georgia Power CO	Southern Nuclear Operating Company INC	33.1429	-81.7681	NA	Georgia	pressurized water reactor
+Canada	Bruce nuclear power plant	B6	891	operating	CANDU 750B	1984	2064	Ontario Power Generation	Bruce Power	44.319	-81.6027	Southwestern Ontario	Ontario	pressurized heavy water reactor
+Canada	Bruce nuclear power plant	B5	872	operating	CANDU 750B	1985	2064	Ontario Power Generation	Bruce Power	44.319	-81.6027	Southwestern Ontario	Ontario	pressurized heavy water reactor
+Canada	Bruce nuclear power plant	B7	872	operating	CANDU 750B	1986	2064	Ontario Power Generation	Bruce Power	44.319	-81.6027	Southwestern Ontario	Ontario	pressurized heavy water reactor
+Canada	Bruce nuclear power plant	B8	872	operating	CANDU 750B	1987	2064	Ontario Power Generation	Bruce Power	44.319	-81.6027	Southwestern Ontario	Ontario	pressurized heavy water reactor
+Canada	Douglas Point (AECL) nuclear power plant	NA	218	retired	CANDU 200	1968	1984	Atomic Energy Of Canada LTD	Ontario Hydro	44.3265	-81.6006	Southwestern Ontario	Ontario	pressurized heavy water reactor
+Canada	Bruce nuclear power plant	A1	868	operating	CANDU 791	1977	2042	Ontario Power Generation	Bruce Power	44.3391	-81.5747	Southwestern Ontario	Ontario	pressurized heavy water reactor
+Canada	Bruce nuclear power plant	A2	836	operating	CANDU 791	1977	2043	Ontario Power Generation	Bruce Power	44.3391	-81.5747	Southwestern Ontario	Ontario	pressurized heavy water reactor
+Canada	Bruce nuclear power plant	A3	865	operating	CANDU 750A	1978	2064	Ontario Power Generation	Bruce Power	44.3391	-81.5747	Southwestern Ontario	Ontario	pressurized heavy water reactor
+Canada	Bruce nuclear power plant	A4	868	operating	CANDU 750A	1979	2064	Ontario Power Generation	Bruce Power	44.3391	-81.5747	Southwestern Ontario	Ontario	pressurized heavy water reactor
+United States	Carolinas-Virginia Tube Reactor nuclear power plant	NA	19	retired	Prototype	1963	1967	Carolinas-Virginia Nuclear Power Association	Carolinas-Virginia Nuclear Power Association	34.2625	-81.3292	NA	South Carolina	pressurized heavy water reactor
+United States	Virgil C Summer nuclear power plant	1	1006	operating	WH 3LP (DRYAMB)	1984	NA	South Carolina Electric & Gas CO	South Carolina Electric & Gas CO	34.2983	-81.3153	NA	South Carolina	pressurized water reactor
+United States	Perry nuclear power plant	1	1303	operating	BWR-6 (Mark 3)	1987	NA	Cleveland Electric Illuminating CO	First Energy Nuclear Operating CO	41.8006	-81.1439	NA	Ohio	boiling water reactor
+United States	Catawba nuclear power plant	1	1188	operating	WH 4LP (ICECND)	1985	NA	North Carolina Electric Membership CO	Duke Energy CORP	35.0514	-81.0694	NA	South Carolina	pressurized water reactor
+United States	Catawba nuclear power plant	2	1188	operating	WH 4LP (ICECND)	1986	NA	North Carolina Municipal Power Agency No.1	Duke Energy CORP	35.0514	-81.0694	NA	South Carolina	pressurized water reactor
+United States	McGuire nuclear power plant	1	1215	operating	WH 4LP (ICECND)	1981	NA	Duke Energy CORP	Duke Energy CORP	35.4331	-80.9486	NA	North Carolina	pressurized water reactor
+United States	McGuire nuclear power plant	2	1215	operating	WH 4LP (ICECND)	1984	NA	Duke Energy CORP	Duke Energy CORP	35.4331	-80.9486	NA	North Carolina	pressurized water reactor
+United States	Shippingport nuclear power plant	NA	68	retired	PLWBR	1958	1982	Department Of Energy And Duquesne Light CO	Department Of Energy And Duquesne Light CO	40.6211	-80.4353	NA	Pennsylvania	pressurized water reactor
+United States	Beaver Valley nuclear power plant	1	959	operating	WH 3LP (DRYSUB)	1976	NA	PPL Susquehanna LLC	First Energy Nuclear Operating CO	40.6219	-80.4336	NA	Pennsylvania	pressurized water reactor
+United States	Beaver Valley nuclear power plant	2	958	operating	WH 3LP (DRYSUB)	1987	NA	Ohio Edison CO	First Energy Nuclear Operating CO	40.6219	-80.4336	NA	Pennsylvania	pressurized water reactor
+United States	Turkey Point power station	3	829	operating	WH 3LP (DRYAMB)	1972	NA	Florida Power & Light CO	Florida Power & Light CO	25.43448	-80.3324	NA	Florida	pressurized water reactor
+United States	Turkey Point power station	4	829	operating	WH 3LP (DRYAMB)	1973	NA	Florida Power & Light CO	Florida Power & Light CO	25.43448	-80.3324	NA	Florida	pressurized water reactor
+United States	St. Lucie nuclear power plant	1	1045	operating	CE 2LP (DRYAMB)	1976	NA	Florida Power & Light CO	Florida Power & Light CO	27.3486	-80.2464	NA	Florida	pressurized water reactor
+United States	St. Lucie nuclear power plant	2	1050	operating	CE 2LP (DRYAMB)	1983	NA	Florida Power & Light CO	Florida Power & Light CO	27.3486	-80.2464	NA	Florida	pressurized water reactor
+United States	H. B. Robinson nuclear power plant	2	780	operating	WH 3LP (DRYAMB)	1971	NA	Progress Energy Carolinas INC	Progress Energy	34.4017	-80.1589	NA	South Carolina	pressurized water reactor
+Panama	MH-1A nuclear power plant	NA	10	retired	unknown	1968	1977	Department of Defense; US Army Corps of Engineers	NA	9.2647	-79.92701	NA	Colón	pressurized water reactor
+Canada	Pickering nuclear power plant	A1	542	operating	CANDU 500A	1971	NA	Ontario Power Generation	Ontario Power Generation	43.8107	-79.0689	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Pickering nuclear power plant	A2	542	retired	CANDU 500A	1971	2007	Ontario Power Generation	Ontario Power Generation	43.8107	-79.0689	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Pickering nuclear power plant	A3	542	retired	CANDU 500A	1972	2008	Ontario Power Generation	Ontario Power Generation	43.8107	-79.0689	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Pickering nuclear power plant	A4	542	operating	CANDU 500A	1973	NA	Ontario Power Generation	Ontario Power Generation	43.8107	-79.0689	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Pickering nuclear power plant	B5	540	operating	CANDU 500B	1983	NA	Ontario Power Generation	Ontario Power Generation	43.8096	-79.0639	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Pickering nuclear power plant	B6	540	operating	CANDU 500B	1984	NA	Ontario Power Generation	Ontario Power Generation	43.8096	-79.0639	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Pickering nuclear power plant	B7	540	operating	CANDU 500B	1985	NA	Ontario Power Generation	Ontario Power Generation	43.8096	-79.0639	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Pickering nuclear power plant	B8	540	operating	CANDU 500B	1986	NA	Ontario Power Generation	Ontario Power Generation	43.8096	-79.0639	Golden Horseshoe	Ontario	pressurized heavy water reactor
+United States	Shearon Harris nuclear power plant	1	980	operating	WH 3LP (DRYAMB)	1987	NA	Progress Energy Carolinas INC	Progress Energy	35.6334	-78.9556	NA	North Carolina	pressurized water reactor
+Canada	Darlington nuclear power plant	2	934	operating	CANDU 850	1990	NA	Ontario Power Generation	Ontario Power Generation	43.8697	-78.7239	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Darlington nuclear power plant	1	934	operating	CANDU 850	1992	NA	Ontario Power Generation	Ontario Power Generation	43.8697	-78.7239	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Darlington nuclear power plant	3	934	operating	CANDU 850	1993	NA	Ontario Power Generation	Ontario Power Generation	43.8697	-78.7239	Golden Horseshoe	Ontario	pressurized heavy water reactor
+Canada	Darlington nuclear power plant	4	934	operating	CANDU 850	1993	NA	Ontario Power Generation	Ontario Power Generation	43.8697	-78.7239	Golden Horseshoe	Ontario	pressurized heavy water reactor
+United States	Saxton nuclear power plant	NA	3	retired	unknown	1967	1972	Saxton Nuclear Experimental CO	Saxton Nuclear Experimental Reactor CORP	40.22601	-78.2417	NA	Pennsylvania	pressurized water reactor
+United States	Brunswick nuclear power plant	2	960	operating	BWR-4 (Mark 1)	1975	NA	Progress Energy Carolinas INC	Progress Energy	33.9597	-78.0114	NA	North Carolina	boiling water reactor
+United States	Brunswick nuclear power plant	1	990	operating	BWR-4 (Mark 1)	1977	NA	Progress Energy Carolinas INC	Progress Energy	33.9597	-78.0114	NA	North Carolina	boiling water reactor
+United States	North Anna nuclear power plant	1	990	operating	WH 3LP (DRYSUB)	1978	NA	Virginia Electric Power CO	Dominion Energy	38.0601	-77.7897	NA	Virginia	pressurized water reactor
+United States	North Anna nuclear power plant	2	1011	operating	WH 3LP (DRYSUB)	1980	NA	Virginia Electric Power CO	Dominion Energy	38.0601	-77.7897	NA	Virginia	pressurized water reactor
+Canada	Nuclear Power Demonstration (NPD) nuclear power plant	NA	25	retired	CANDU	1962	1987	AECL	Ontario Hydro	46.1867	-77.6578	Eastern Ontario	Ontario	pressurized heavy water reactor
+United States	Robert Emmett Ginna nuclear power plant	NA	608	operating	WH 2LP (DRYAMB)	1970	NA	Exelon	Exelon Generation CO LLC	43.2777	-77.3099	NA	New York	pressurized water reactor
+United States	SM-1 nuclear power plant	NA	2	retired	unknown	1957	1973	US Department of Defense	United States Army	38.67653	-77.1466	NA	Virginia	pressurized water reactor
+United States	Three Mile Island nuclear power plant	1	880	retired	B&W LLP (DRYAMB)	1974	2019	Exelon	Exelon Generation CO LLC	40.1539	-76.7248	NA	Pennsylvania	pressurized water reactor
+United States	Three Mile Island nuclear power plant	2	959	retired	unknown	1978	1979	NA	General Public Utilities	40.1539	-76.7248	NA	Pennsylvania	pressurized water reactor
+United States	Surry nuclear power plant	1	890	operating	WH 3LP (DRYSUB)	1972	NA	Dominion Resources INC	Dominion Energy	37.1661	-76.6986	NA	Virginia	pressurized water reactor
+United States	Surry nuclear power plant	2	890	operating	WH 3LP (DRYSUB)	1973	NA	Dominion Resources INC	Dominion Energy	37.1661	-76.6986	NA	Virginia	pressurized water reactor
+United States	Calvert Cliffs nuclear power plant	1	918	operating	CE 2LP (DRYAMB)	1975	NA	Exelon	Exelon Generation CO LLC	38.4344	-76.4417	NA	Maryland	pressurized water reactor
+United States	Calvert Cliffs nuclear power plant	2	911	operating	CE 2LP (DRYAMB)	1977	NA	Exelon	Exelon Generation CO LLC	38.4344	-76.4417	NA	Maryland	pressurized water reactor
+United States	Nine Mile Point nuclear power plant	1	642	operating	BWR-2 (Mark 1)	1969	NA	Exelon Nuclear; Electricité De France (EDF)	Exelon Generation CO LLC	43.5205	-76.4068	NA	New York	boiling water reactor
+United States	Nine Mile Point nuclear power plant	2	1320	operating	BWR-5 (Mark 2)	1988	NA	Exelon Nuclear; Electricité De France (EDF)	Exelon Generation CO LLC	43.5205	-76.4068	NA	New York	boiling water reactor
+United States	James A Fitzpatrick nuclear power plant	NA	849	operating	BWR-4 (Mark 1)	1975	NA	Exelon	Exelon Generation CO LLC	43.5223	-76.3955	NA	New York	boiling water reactor
+United States	Peach Bottom nuclear power plant	1	42	retired	unknown	1967	1974	Exelon Generation CO LLC	Exelon Generation CO LLC	39.7589	-76.2687	NA	Pennsylvania	other
+United States	Peach Bottom nuclear power plant	2	1412	operating	BWR-4 (Mark 1)	1974	NA	Exelon [50%]; PSEG Power [50%]	Exelon Generation CO LLC	39.7589	-76.2687	NA	Pennsylvania	boiling water reactor
+United States	Peach Bottom nuclear power plant	3	1412	operating	BWR-4 (Mark 1)	1974	NA	Exelon [50%]; PSEG Power [50%]	Exelon Generation CO LLC	39.7589	-76.2687	NA	Pennsylvania	boiling water reactor
+United States	Susquehanna nuclear power plant	1	1330	operating	BWR-4 (Mark 2)	1983	NA	PPL CORP (former Pennsylvania Power & Light CO (PP&L))	PPL Susquehanna LLC	41.0919	-76.1462	NA	Pennsylvania	boiling water reactor
+United States	Susquehanna nuclear power plant	2	1330	operating	BWR-4 (Mark 2)	1985	NA	PPL CORP (former Pennsylvania Power & Light CO (PP&L))	PPL Susquehanna LLC	41.0919	-76.1462	NA	Pennsylvania	boiling water reactor
+United States	Limerick nuclear power plant	1	1194	operating	BWR-4 (Mark 2)	1986	NA	Exelon	Exelon Generation CO LLC	40.2243	-75.5874	NA	Pennsylvania	boiling water reactor
+United States	Limerick nuclear power plant	2	1194	operating	BWR-4 (Mark 2)	1990	NA	Exelon	Exelon Generation CO LLC	40.2243	-75.5874	NA	Pennsylvania	boiling water reactor
+United States	Hope Creek nuclear power plant	1	1240	operating	BWR-4 (Mark 1)	1986	NA	PSEG Power INC	PSEG Nuclear LLC	39.4666	-75.5377	NA	New Jersey	boiling water reactor
+United States	Salem nuclear power plant	1	1254	operating	WH 4LP (DRYAMB)	1977	2036	PSEG Power INC	PSEG Nuclear LLC	39.4625	-75.5358	NA	New Jersey	pressurized water reactor
+United States	Salem nuclear power plant	2	1200	operating	WH 4LP (DRYAMB)	1981	2040	PSEG Power INC	PSEG Nuclear LLC	39.4625	-75.5358	NA	New Jersey	pressurized water reactor
+United States	Oyster Creek nuclear power plant	NA	652	retired	BWR-2 (Mark 1)	1969	2018	Exelon	Exelon Generation CO LLC	39.8144	-74.2058	NA	New Jersey	boiling water reactor
+United States	Indian Point nuclear power plant	1	277	retired	unknown	1962	1974	Entergy Nuclear Operations INC	Entergy Nuclear Operations INC	41.2706	-73.9527	NA	New York	pressurized water reactor
+United States	Indian Point nuclear power plant	2	1067	retired	WH 4LP (DRYAMB)	1974	2020	Entergy Nuclear Operations INC	Entergy Nuclear Operations INC	41.2706	-73.9527	NA	New York	pressurized water reactor
+United States	Indian Point nuclear power plant	3	1085	retired	WH 4LP (DRYAMB)	1976	2021	Entergy Nuclear Operations INC	Entergy Nuclear Operations INC	41.2706	-73.9527	NA	New York	pressurized water reactor
+United States	Yankee Rowe nuclear power plant	NA	180	retired	unknown	1961	1991	Yankee Atomic Electric CO	Yankee Atomic Electric CO	42.7269	-72.9271	NA	Massachusetts	pressurized water reactor
+United States	Shoreham nuclear power plant	NA	849	retired	BWR	1986	1989	Long Island Lighting CO	Long Island Power Authority	40.96001	-72.8657	NA	New York	boiling water reactor
+United States	Vermont Yankee nuclear power plant	NA	635	retired	BWR-4 (Mark 1)	1972	2014	Entergy Nuclear Operations INC	Entergy Nuclear Operations INC	42.77901	-72.51301	NA	Vermont	boiling water reactor
+United States	Connecticut Yankee nuclear power plant	NA	603	retired	unknown	1968	1996	Connecticut Yankee Atomic Power CO	Connecticut Yankee Atomic Power CO	41.4829	-72.5003	NA	Connecticut	pressurized water reactor
+Canada	Gentilly nuclear power plant	1	266	retired	HW BLWR 250	1972	1977	Canadian Nuclear Laboratories LTD	Hydro Quebec	46.3953	-72.3579	NA	Quebec	other
+Canada	Gentilly nuclear power plant	2	675	retired	CANDU 6	1983	2012	Hydro Quebec	Hydro Quebec	46.3955	-72.3556	NA	Quebec	pressurized heavy water reactor
+United States	Millstone nuclear power plant	1	684	retired	unknown	1971	1998	NA	Dominion Energy	41.3107	-72.1677	NA	Connecticut	boiling water reactor
+United States	Millstone nuclear power plant	2	918	operating	CE 2LP (DRYAMB)	1975	NA	Dominion Resources INC	Dominion Energy	41.3107	-72.1677	NA	Connecticut	pressurized water reactor
+United States	Millstone nuclear power plant	3	1280	operating	WH 4LP (DRYSUB)	1986	NA	Dominion Resources INC	Dominion Energy	41.3107	-72.1677	NA	Connecticut	pressurized water reactor
+United States	Seabrook nuclear power plant	1	1296	operating	WH 4LP (DRYAMB)	1990	NA	Nextera Energy Resources LLC	Nextera Energy Resources LLC	42.8992	-70.8489	NA	New Hampshire	pressurized water reactor
+United States	Pilgrim nuclear power plant	1	711	retired	BWR-3 (Mark 1)	1972	2019	Entergy Nuclear Operations INC	Entergy Nuclear Operations INC	41.9436	-70.5771	NA	Massachusetts	boiling water reactor
+United States	Maine Yankee nuclear power plant	NA	900	retired	unknown	1972	1997	NA	Maine Yankee Atomic Power CO	43.9511	-69.6953	NA	Maine	pressurized water reactor
+Puerto Rico	Boiling Nuclear Superheater (BONUS) nuclear power plant	NA	18	retired	Superheater	1965	1968	US DOE and Puerto Rico Electric Power Authority	US Department of Energy; Puerto Rico Water Resources	18.3652	-67.2687	NA	Puerto Rico	boiling water reactor
+Canada	Point Lepreau nuclear power plant	NA	705	operating	CANDU 6	1983	NA	New Brunswick Electric Power Commission	New Brunswick Electric Power Commission	45.0686	-66.4543	NA	New Brunswick	pressurized heavy water reactor
+Argentina	Embalse nuclear power plant	NA	656	operating	CANDU 6	1984	NA	Nucleoelectrica Argentina SA	Nucleoelectrica Argentina SA	-32.2316	-64.4422	Departamento Calamuchita	Córdoba	pressurized heavy water reactor
+Argentina	Atucha nuclear power plant	1	362	operating	PHWR KWU	1974	NA	Nucleoelectrica Argentina SA	Nucleoelectrica Argentina SA	-33.96701	-59.2095	Partido de Zárate	Buenos Aires	pressurized heavy water reactor
+Argentina	Atucha nuclear power plant	2	745	mothballed	PHWR KWU	2016	NA	Nucleoelectrica Argentina SA	Nucleoelectrica Argentina SA	-33.9672	-59.2073	Partido de Zárate	Buenos Aires	pressurized heavy water reactor
+Brazil	Angra nuclear power plant	2	1350	operating	PRE KONVOI	2001	NA	Eletrobras Eletronuclear SA	Eletrobras Eletronuclear SA	-23.0077	-44.4598	Região Geográfica Intermediária do Rio de Janeiro	Rio de Janeiro	pressurized water reactor
+Brazil	Angra nuclear power plant	1	640	operating	WH 2LP	1985	NA	Eletrobras Eletronuclear SA	Eletrobras Eletronuclear SA	-23.0069	-44.4585	Região Geográfica Intermediária do Rio de Janeiro	Rio de Janeiro	pressurized water reactor
+Spain	Almaraz nuclear power plant	1	1049	operating	WH 3LP	1983	NA	Iberdrola; Endesa; Gas Natural	Centrales Nucleares Almaraz-Trillo	39.807	-5.6986	Cáceres	Extremadura	pressurized water reactor
+Spain	Almaraz nuclear power plant	2	1044	operating	WH 3LP	1984	NA	Iberdrola; Endesa; Gas Natural	Centrales Nucleares Almaraz-Trillo	39.807	-5.6986	Cáceres	Extremadura	pressurized water reactor
+United Kingdom	Hunterston nuclear power plant	A1	173	retired	MAGNOX	1964	1990	Nuclear Decommissioning Authority	Magnox LTD	55.72001	-4.8975	NA	Scotland	other
+United Kingdom	Hunterston nuclear power plant	A2	173	retired	MAGNOX	1964	1989	Nuclear Decommissioning Authority	Magnox LTD	55.72001	-4.8975	NA	Scotland	other
+United Kingdom	Hunterston nuclear power plant	B1	644	retired	AGR	1976	2021	EDF Energy	EDF Energy	55.7229	-4.8913	NA	Scotland	other
+United Kingdom	Hunterston nuclear power plant	B2	644	retired	AGR	1977	2022	EDF Energy	EDF Energy	55.7229	-4.8913	NA	Scotland	other
+United Kingdom	Wylfa nuclear power plant	1	530	retired	MAGNOX	1971	2015	Nuclear Decommissioning Authority	Magnox LTD	53.4161	-4.4808	NA	Wales	other
+United Kingdom	Wylfa nuclear power plant	2	540	retired	MAGNOX	1972	2012	Nuclear Decommissioning Authority	Magnox LTD	53.4161	-4.4808	NA	Wales	other
+United Kingdom	Trawsfynydd nuclear power plant	1	235	retired	MAGNOX	1965	1991	Nuclear Decommissioning Authority	Magnox LTD	52.9252	-3.9474	NA	Wales	other
+United Kingdom	Trawsfynydd nuclear power plant	2	235	retired	MAGNOX	1965	1991	Nuclear Decommissioning Authority	Magnox LTD	52.9252	-3.9474	NA	Wales	other
+France	Brennilis nuclear power plant	NA	75	retired	MONTS-D'ARREE	1968	1985	Electricité De France (EDF)	Electricité De France (EDF)	48.3551	-3.8719	NA	Brittany	other
+United Kingdom	Dounreay nuclear power plant	DFR	15	retired	unknown	1962	1977	United Kingdom Atomic Energy Authority	United Kingdom Atomic Energy Authority	58.5805	-3.7374	NA	Scotland	other
+United Kingdom	Dounreay nuclear power plant	PFR	250	retired	unknown	1976	1994	United Kingdom Atomic Energy Authority	United Kingdom Atomic Energy Authority	58.5805	-3.7374	NA	Scotland	other
+United Kingdom	Windscale AGR nuclear power plant	NA	36	retired	AGR	1963	1981	United Kingdom Atomic Energy Authority	United Kingdom Atomic Energy Authority	54.4245	-3.4952	NA	England	other
+United Kingdom	Calder Hall nuclear power plant	1	60	retired	MAGNOX	1956	2003	Nuclear Decommissioning Authority	Sellafield LTD	54.4184	-3.4921	NA	England	other
+United Kingdom	Calder Hall nuclear power plant	4	60	retired	MAGNOX	1959	2003	Nuclear Decommissioning Authority	Sellafield LTD	54.4184	-3.4921	NA	England	other
+United Kingdom	Chapelcross nuclear power plant	1	60	retired	MAGNOX	1959	2004	Nuclear Decommissioning Authority	Magnox LTD	55.0169	-3.22401	NA	Scotland	other
+United Kingdom	Chapelcross nuclear power plant	2	60	retired	MAGNOX	1959	2004	Nuclear Decommissioning Authority	Magnox LTD	55.0169	-3.22401	NA	Scotland	other
+United Kingdom	Chapelcross nuclear power plant	3	60	retired	MAGNOX	1959	2004	Nuclear Decommissioning Authority	Magnox LTD	55.0169	-3.22401	NA	Scotland	other
+Spain	Santa Maria De Garona nuclear power plant	NA	466	retired	BWR-3	1971	2017	Nuclenor SA	Nuclenor SA	42.77501	-3.20701	Burgos	Castile and León	boiling water reactor
+United Kingdom	Hinkley Point nuclear power plant	B2	655	retired	AGR	1976	2022	EDF Energy	EDF Energy	51.2085	-3.1334	NA	England	other
+United Kingdom	Hinkley Point nuclear power plant	B1	655	retired	AGR	1978	2022	EDF Energy	EDF Energy	51.2085	-3.1334	NA	England	other
+United Kingdom	Hinkley Point nuclear power plant	A1	267	retired	MAGNOX	1965	2000	Nuclear Decommissioning Authority	Magnox LTD	51.207	-3.1316	NA	England	other
+United Kingdom	Hinkley Point nuclear power plant	A2	267	retired	MAGNOX	1965	2000	Nuclear Decommissioning Authority	Magnox LTD	51.207	-3.1316	NA	England	other
+United Kingdom	Heysham nuclear power plant	A1	625	operating	AGR	1989	NA	EDF Energy	EDF Energy	54.0295	-2.9149	NA	England	other
+United Kingdom	Heysham nuclear power plant	A2	625	operating	AGR	1989	NA	EDF Energy	EDF Energy	54.0295	-2.9149	NA	England	other
+United Kingdom	Heysham nuclear power plant	B1	680	operating	AGR	1989	NA	EDF Energy	EDF Energy	54.03101	-2.9112	NA	England	other
+United Kingdom	Heysham nuclear power plant	B2	680	operating	AGR	1989	NA	EDF Energy	EDF Energy	54.03101	-2.9112	NA	England	other
+Spain	Jose Cabrera nuclear power plant	1	150	retired	WH 1LP	1969	2006	Union Fenosa Generation SA	Union Fenosa Generation SA	40.3478	-2.8889	Guadalajara	Castile-La Mancha	pressurized water reactor
+Spain	Trillo nuclear power plant	1	1066	operating	PWR 3 Loop	1988	NA	Iberdrola; Gas Natural; Hidroeléctrica del Cantábrico; Nuclenor	Centrales Nucleares Almaraz-Trillo	40.7016	-2.6227	Guadalajara	Castile-La Mancha	pressurized water reactor
+United Kingdom	Oldbury nuclear power plant	A1	230	retired	MAGNOX	1967	2012	Nuclear Decommissioning Authority	Magnox LTD	51.6485	-2.5708	West of England	England	other
+United Kingdom	Oldbury nuclear power plant	A2	230	retired	MAGNOX	1968	2011	Nuclear Decommissioning Authority	Magnox LTD	51.6485	-2.5708	West of England	England	other
+United Kingdom	Berkeley nuclear power plant	1	166	retired	MAGNOX	1962	1989	Nuclear Decommissioning Authority	Magnox LTD	51.6927	-2.4938	NA	England	other
+United Kingdom	Berkeley nuclear power plant	2	166	retired	MAGNOX	1962	1988	Nuclear Decommissioning Authority	Magnox LTD	51.6927	-2.4938	NA	England	other
+United Kingdom	Torness nuclear power plant	1	682	operating	AGR	1988	NA	EDF Energy	EDF Energy	55.9679	-2.4086	NA	Scotland	other
+United Kingdom	Torness nuclear power plant	2	682	operating	AGR	1989	NA	EDF Energy	EDF Energy	55.9679	-2.4086	NA	Scotland	other
+United Kingdom	Winfrith SGHWR nuclear power plant	NA	100	retired	unknown	1968	1990	United Kingdom Atomic Energy Authority	United Kingdom Atomic Energy Authority	50.6825	-2.2649	NA	England	other
+France	Flamanville nuclear power plant	1	1382	operating	P4 REP 1300	1986	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.5366	-1.8823	NA	Normandy	pressurized water reactor
+France	Flamanville nuclear power plant	2	1382	operating	P4 REP 1300	1987	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.5366	-1.8823	NA	Normandy	pressurized water reactor
+United Kingdom	Hartlepool nuclear power plant	A1	655	operating	AGR	1989	NA	EDF Energy	EDF Energy	54.6341	-1.1801	Tees Valley	England	other
+United Kingdom	Hartlepool nuclear power plant	A2	655	operating	AGR	1989	NA	EDF Energy	EDF Energy	54.6341	-1.1801	Tees Valley	England	other
+Spain	Cofrentes nuclear power plant	NA	1102	operating	BWR-6 (Mark 3)	1985	NA	Iberdrola SA	Iberdrola SA	39.2134	-1.0509	Valencia	Valencian Community	boiling water reactor
+France	Blayais nuclear power plant	1	951	operating	CP1	1981	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.256	-0.6932	NA	Nouvelle-Aquitaine	pressurized water reactor
+France	Blayais nuclear power plant	2	951	operating	CP1	1983	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.256	-0.6932	NA	Nouvelle-Aquitaine	pressurized water reactor
+France	Blayais nuclear power plant	3	951	operating	CP1	1983	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.256	-0.6932	NA	Nouvelle-Aquitaine	pressurized water reactor
+France	Blayais nuclear power plant	4	951	operating	CP1	1983	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.256	-0.6932	NA	Nouvelle-Aquitaine	pressurized water reactor
+France	Chinon nuclear power plant	A-1	80	retired	Uranium Naturel Graphite Gaz	1964	1973	Electricité De France (EDF)	Electricité De France (EDF)	47.2254	0.1656	NA	Centre-Val de Loire	other
+France	Chinon nuclear power plant	A-2	230	retired	Uranium Naturel Graphite Gaz	1965	1985	Electricité De France (EDF)	Electricité De France (EDF)	47.2254	0.1656	NA	Centre-Val de Loire	other
+France	Chinon nuclear power plant	A-3	480	retired	Uranium Naturel Graphite Gaz	1966	1990	Electricité De France (EDF)	Electricité De France (EDF)	47.2254	0.1656	NA	Centre-Val de Loire	other
+France	Chinon nuclear power plant	B-1	954	operating	CP2	1984	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.2254	0.1656	NA	Centre-Val de Loire	pressurized water reactor
+France	Chinon nuclear power plant	B-2	954	operating	CP2	1984	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.2254	0.1656	NA	Centre-Val de Loire	pressurized water reactor
+France	Chinon nuclear power plant	B-3	954	operating	CP2	1987	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.2254	0.1656	NA	Centre-Val de Loire	pressurized water reactor
+France	Chinon nuclear power plant	B-4	954	operating	CP2	1988	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.2254	0.1656	NA	Centre-Val de Loire	pressurized water reactor
+Spain	Ascó nuclear power plant	1	1033	operating	WH 3LP	1984	NA	Endesa SA	Asociación Nuclear Ascó-Vandellós AIE	41.1993	0.5694	Tarragona	Catalonia	pressurized water reactor
+Spain	Ascó nuclear power plant	2	1027	operating	WH 3LP	1986	NA	Endesa; Iberdrola	Asociación Nuclear Ascó-Vandellós AIE	41.1993	0.5694	Tarragona	Catalonia	pressurized water reactor
+France	Paluel nuclear power plant	1	1382	operating	P4 REP 1300	1985	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.8582	0.6354	NA	Normandy	pressurized water reactor
+France	Paluel nuclear power plant	2	1382	operating	P4 REP 1300	1985	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.8582	0.6354	NA	Normandy	pressurized water reactor
+France	Paluel nuclear power plant	3	1382	operating	P4 REP 1300	1986	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.8582	0.6354	NA	Normandy	pressurized water reactor
+France	Paluel nuclear power plant	4	1382	operating	P4 REP 1300	1986	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.8582	0.6354	NA	Normandy	pressurized water reactor
+France	Civaux nuclear power plant	1	1561	operating	N4 REP 1450	2002	NA	Electricité De France (EDF)	Electricité De France (EDF)	46.4555	0.6582	NA	Nouvelle-Aquitaine	pressurized water reactor
+France	Civaux nuclear power plant	2	1561	operating	N4 REP 1450	2002	NA	Electricité De France (EDF)	Electricité De France (EDF)	46.4555	0.6582	NA	Nouvelle-Aquitaine	pressurized water reactor
+France	Golfech nuclear power plant	1	1363	operating	P4 REP 1300	1991	NA	Electricité De France (EDF)	Electricité De France (EDF)	44.106	0.8443	NA	Occitania	pressurized water reactor
+France	Golfech nuclear power plant	2	1363	operating	P4 REP 1300	1994	NA	Electricité De France (EDF)	Electricité De France (EDF)	44.106	0.8443	NA	Occitania	pressurized water reactor
+Spain	Vandellos nuclear power plant	1	500	retired	unknown	1972	1990	Hispano-Francesa De Energia Nuclear SA	Hispano-Francesa De Energia Nuclear SA	40.9511	0.8662	Tarragona	Catalonia	other
+Spain	Vandellos nuclear power plant	2	1087	operating	WH 3LP	1988	NA	Endesa; Iberdrola	Asociación Nuclear Ascó-Vandellós AIE	40.9511	0.8662	Tarragona	Catalonia	pressurized water reactor
+United Kingdom	Bradwell nuclear power plant	1	146	retired	MAGNOX	1962	2002	Nuclear Decommissioning Authority	Magnox LTD	51.7417	0.8994	NA	England	other
+United Kingdom	Bradwell nuclear power plant	2	146	retired	MAGNOX	1962	2002	Nuclear Decommissioning Authority	Magnox LTD	51.7417	0.8994	NA	England	other
+United Kingdom	Dungeness nuclear power plant	B1	615	retired	AGR	1985	2021	EDF Energy	EDF Energy	50.9138	0.9597	NA	England	other
+United Kingdom	Dungeness nuclear power plant	B2	615	retired	AGR	1989	2021	EDF Energy	EDF Energy	50.9138	0.9597	NA	England	other
+United Kingdom	Dungeness nuclear power plant	A1	230	retired	MAGNOX	1965	2006	Nuclear Decommissioning Authority	Magnox LTD	50.9139	0.96201	NA	England	other
+United Kingdom	Dungeness nuclear power plant	A2	230	retired	MAGNOX	1965	2006	Nuclear Decommissioning Authority	Magnox LTD	50.9139	0.96201	NA	England	other
+France	Penly nuclear power plant	1	1382	operating	P4 REP 1300	1990	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.9764	1.2107	NA	Normandy	pressurized water reactor
+France	Penly nuclear power plant	2	1382	operating	P4 REP 1300	1992	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.9764	1.2107	NA	Normandy	pressurized water reactor
+France	Saint-Laurent nuclear power plant	A-1	500	retired	Uranium Naturel Graphite Gaz	1969	1990	Electricité De France (EDF)	Electricité De France (EDF)	47.7197	1.5783	NA	Centre-Val de Loire	other
+France	Saint-Laurent nuclear power plant	A-2	530	retired	Uranium Naturel Graphite Gaz	1971	1992	Electricité De France (EDF)	Electricité De France (EDF)	47.7197	1.5783	NA	Centre-Val de Loire	other
+France	Saint-Laurent nuclear power plant	B-1	956	operating	CP2	1983	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.7197	1.5783	NA	Centre-Val de Loire	pressurized water reactor
+France	Saint-Laurent nuclear power plant	B-2	956	operating	CP2	1983	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.7197	1.5783	NA	Centre-Val de Loire	pressurized water reactor
+United Kingdom	Sizewell nuclear power plant	A1	245	retired	MAGNOX	1966	2006	Nuclear Decommissioning Authority	Magnox LTD	52.2123	1.6195	NA	England	other
+United Kingdom	Sizewell nuclear power plant	A2	245	retired	MAGNOX	1966	2006	Nuclear Decommissioning Authority	Magnox LTD	52.2123	1.6195	NA	England	other
+United Kingdom	Sizewell nuclear power plant	B	1250	operating	SNUPPS	1995	NA	EDF Energy	EDF Energy	52.2145	1.6206	NA	England	pressurized water reactor
+France	Gravelines nuclear power plant	1	951	operating	CP1	1980	NA	Electricité De France (EDF)	Electricité De France (EDF)	51.0141	2.1332	NA	Hauts-de-France	pressurized water reactor
+France	Gravelines nuclear power plant	2	951	operating	CP1	1980	NA	Electricité De France (EDF)	Electricité De France (EDF)	51.0141	2.1332	NA	Hauts-de-France	pressurized water reactor
+France	Gravelines nuclear power plant	3	951	operating	CP1	1981	NA	Electricité De France (EDF)	Electricité De France (EDF)	51.0141	2.1332	NA	Hauts-de-France	pressurized water reactor
+France	Gravelines nuclear power plant	4	951	operating	CP1	1981	NA	Electricité De France (EDF)	Electricité De France (EDF)	51.0141	2.1332	NA	Hauts-de-France	pressurized water reactor
+France	Gravelines nuclear power plant	5	951	operating	CP1	1985	NA	Electricité De France (EDF)	Electricité De France (EDF)	51.0141	2.1332	NA	Hauts-de-France	pressurized water reactor
+France	Gravelines nuclear power plant	6	951	operating	CP1	1985	NA	Electricité De France (EDF)	Electricité De France (EDF)	51.0141	2.1332	NA	Hauts-de-France	pressurized water reactor
+France	Dampierre nuclear power plant	1	937	operating	CP1	1980	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.7321	2.5185	NA	Centre-Val de Loire	pressurized water reactor
+France	Dampierre nuclear power plant	2	937	operating	CP1	1981	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.7321	2.5185	NA	Centre-Val de Loire	pressurized water reactor
+France	Dampierre nuclear power plant	3	937	operating	CP1	1981	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.7321	2.5185	NA	Centre-Val de Loire	pressurized water reactor
+France	Dampierre nuclear power plant	4	937	operating	CP1	1981	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.7321	2.5185	NA	Centre-Val de Loire	pressurized water reactor
+France	Belleville nuclear power plant	1	1363	operating	P4 REP 1300	1988	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.5103	2.87501	NA	Bourgogne-Franche-Comté	pressurized water reactor
+France	Belleville nuclear power plant	2	1363	operating	P4 REP 1300	1989	NA	Electricité De France (EDF)	Electricité De France (EDF)	47.5103	2.87501	NA	Bourgogne-Franche-Comté	pressurized water reactor
+France	Nogent nuclear power plant	1	1363	operating	P4 REP 1300	1988	NA	Electricité De France (EDF)	Electricité De France (EDF)	48.5171	3.5181	NA	Grand Est	pressurized water reactor
+France	Nogent nuclear power plant	2	1363	operating	P4 REP 1300	1989	NA	Electricité De France (EDF)	Electricité De France (EDF)	48.5171	3.5181	NA	Grand Est	pressurized water reactor
+Netherlands	Borssele nuclear power plant	1	515	operating	KWU 2LP	1973	2033	N.V. Elektriciteits-Produktiemaatschappij Zuid-Nederland	N.V. Elektriciteits-Produktiemaatschappij Zuid-Nederland	51.4312	3.7174	NA	Zeeland	pressurized water reactor
+Belgium	Doel nuclear power plant	1	454	operating	WH 2LP	1975	NA	Indivision Doel	Engie Electrabel; EDF Belgium; EDF Luminus	51.3254	4.2597	NA	East Flanders	pressurized water reactor
+Belgium	Doel nuclear power plant	2	454	operating	WH 2LP	1975	NA	Indivision Doel	Engie Electrabel; EDF Belgium; EDF Luminus	51.3254	4.2597	NA	East Flanders	pressurized water reactor
+Belgium	Doel nuclear power plant	3	1056	retired	WH 3LP	1982	2022	Societes Reunies D'Energie Du Bassin De L'Escaut SA	Engie Electrabel; EDF Belgium; EDF Luminus	51.3254	4.2597	NA	East Flanders	pressurized water reactor
+Belgium	Doel nuclear power plant	4	1090	operating	WH 3LP	1985	NA	Societes Reunies D'Energie Du Bassin De L'Escaut SA	Engie Electrabel; EDF Belgium; EDF Luminus	51.3254	4.2597	NA	East Flanders	pressurized water reactor
+France	Marcoule nuclear power plant	G1	7	retired	unknown	1956	1968	Commissariat À L'Energie Atomique	NA	44.1433	4.7094	NA	Occitania	other
+France	Marcoule nuclear power plant	G2	43	retired	unknown	1959	1980	Commissariat À L'Energie Atomique [80%]; Electricité De France (EDF) [20%]	Compagnie Generale Des Matieres Nucleaires	44.1433	4.7094	NA	Occitania	other
+France	Marcoule nuclear power plant	G3	43	retired	unknown	1960	1984	Commissariat À L'Energie Atomique	Compagnie Generale Des Matieres Nucleaires	44.1433	4.7094	NA	Occitania	other
+France	Phenix nuclear power plant	NA	142	retired	PH-250	1974	2010	Commissariat À L'Energie Atomique	Commissariat À L'Energie Atomique [80%]; Electricité De France (EDF) [20%]	44.1526	4.7139	NA	Occitania	other
+France	Tricastin nuclear power plant	1	955	operating	CP1	1980	NA	Electricité De France (EDF)	Electricité De France (EDF)	44.3311	4.7311	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Tricastin nuclear power plant	2	955	operating	CP1	1980	NA	Electricité De France (EDF)	Electricité De France (EDF)	44.3311	4.7311	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Tricastin nuclear power plant	3	955	operating	CP1	1981	NA	Electricité De France (EDF)	Electricité De France (EDF)	44.3311	4.7311	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Tricastin nuclear power plant	4	955	operating	CP1	1981	NA	Electricité De France (EDF)	Electricité De France (EDF)	44.3311	4.7311	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Cruas nuclear power plant	1	956	operating	CP2	1984	NA	Electricité De France (EDF)	Electricité De France (EDF)	44.6325	4.7546	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Cruas nuclear power plant	3	956	operating	CP2	1984	NA	Electricité De France (EDF)	Electricité De France (EDF)	44.6325	4.7546	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Cruas nuclear power plant	4	956	operating	CP2	1985	NA	Electricité De France (EDF)	Electricité De France (EDF)	44.6325	4.7546	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	St. Alban nuclear power plant	1	1381	operating	P4 REP 1300	1986	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.4043	4.7554	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	St. Alban nuclear power plant	2	1381	operating	P4 REP 1300	1987	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.4043	4.7554	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Chooz nuclear power plant	A	320	retired	CHOOZ-A	1967	1991	Electricité De France (EDF)	Societe D'Energie Nucleaire Franco-Belge Des Ardennes	50.0901	4.7872	NA	Grand Est	pressurized water reactor
+France	Chooz nuclear power plant	B-1	1560	operating	N4 REP 1450	2000	NA	Electricité De France (EDF)	Electricité De France (EDF)	50.0901	4.7872	NA	Grand Est	pressurized water reactor
+France	Chooz nuclear power plant	B-2	1560	operating	N4 REP 1450	2000	NA	Electricité De France (EDF)	Electricité De France (EDF)	50.0901	4.7872	NA	Grand Est	pressurized water reactor
+Belgium	BR3 nuclear power plant	3	12	retired	Prototype	1962	1987	Centre D'Etude De L'Energie Nucleaire; Studiecentrum Voor Kernenergie	Centre D'Etude De L'Energie Nucleaire; Studiecentrum Voor Kernenergie	51.2169	5.0998	NA	Antwerp	pressurized water reactor
+France	Bugey nuclear power plant	1	555	retired	Uranium Naturel Graphite Gaz	1972	1994	Electricité De France (EDF)	Electricité De France (EDF)	45.7973	5.2706	NA	Auvergne-Rhône-Alpes	other
+France	Bugey nuclear power plant	2	945	operating	CP0	1979	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.7973	5.2706	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Bugey nuclear power plant	3	945	operating	CP0	1979	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.7973	5.2706	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Bugey nuclear power plant	4	917	operating	CP0	1979	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.7973	5.2706	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+France	Bugey nuclear power plant	5	917	operating	CP0	1980	NA	Electricité De France (EDF)	Electricité De France (EDF)	45.7973	5.2706	NA	Auvergne-Rhône-Alpes	pressurized water reactor
+Belgium	Tihange nuclear power plant	1	1009	operating	Framatome 3 loops reactor	1975	NA	Engie Electrabel	Engie Electrabel	50.5334	5.2714	NA	Liège	pressurized water reactor
+Belgium	Tihange nuclear power plant	2	1055	retired	WH 3LP	1983	2023	Engie Electrabel	Engie Electrabel	50.5334	5.2714	NA	Liège	pressurized water reactor
+Belgium	Tihange nuclear power plant	3	1089	operating	WH 3LP	1985	NA	Engie Electrabel	Engie Electrabel	50.5334	5.2714	NA	Liège	pressurized water reactor
+France	Superphénix nuclear power plant	NA	1242	retired	Na-1200	1986	1998	Electricité De France (EDF)	Electricité De France (EDF)	45.7613	5.4701	NA	Auvergne-Rhône-Alpes	other
+Netherlands	Dodewaard nuclear power plant	NA	60	retired	GE design	1969	1997	BV Gemeenschappelijke Kernenergiecentrale Nederland (BV GKN)	BV Gemeenschappelijke Kernenergiecentrale Nederland (BV GKN)	51.8998	5.6868	NA	Gelderland	boiling water reactor
+France	Cattenom nuclear power plant	1	1362	operating	P4 REP 1300	1987	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.416	6.2169	NA	Grand Est	pressurized water reactor
+France	Cattenom nuclear power plant	2	1362	operating	P4 REP 1300	1988	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.416	6.2169	NA	Grand Est	pressurized water reactor
+France	Cattenom nuclear power plant	3	1362	operating	P4 REP 1300	1991	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.416	6.2169	NA	Grand Est	pressurized water reactor
+France	Cattenom nuclear power plant	4	1362	operating	P4 REP 1300	1992	NA	Electricité De France (EDF)	Electricité De France (EDF)	49.416	6.2169	NA	Grand Est	pressurized water reactor
+Germany	AVR Reactor nuclear power plant	NA	15	retired	Pebble bed reactor prototype	1969	1988	Arbeitsgemeinschaft Versuchsreaktor GMBH	Arbeitsgemeinschaft Versuchsreaktor GMBH	50.9026	6.4208	NA	North Rhine-Westphalia	other
+Switzerland	Lucens nuclear power plant	NA	7	retired	HWGCR: 2-loops	1968	1969	Nationale Gesellschaft Zur Förderung Der Industriellen Atomtechnik	Energie De L'Ouest Suisse	46.6927	6.8272	NA	Vaud	other
+Switzerland	Muehleberg nuclear power plant	1	390	retired	BWR-4	1972	2019	BKW Energie AG	BKW Energie AG	46.9689	7.2684	Bernese Mittelland administrative region	Bern	boiling water reactor
+Germany	Lingen nuclear power plant	NA	268	retired	BWR with fossil fuel-fired superheater	1968	1977	RWE Nuclear GMBH	Kernkraftwerk Lingen GMBH	52.4831	7.3005	NA	Lower Saxony	boiling water reactor
+Germany	Emsland nuclear power plant	NA	1406	retired	Konvoi	1988	2023	RWE Power AG [75%]; PreussenElektra GMBH [25%]	Kernkraftwerke Lippe-Ems GMBH	52.4716	7.3204	NA	Lower Saxony	pressurized water reactor
+Germany	Muelheim-Kaerlich nuclear power plant	NA	1302	retired	unknown	1987	1988	SCN Energy AG	Kernkraftwerk Gundremmingen GMBH	50.4086	7.4874	NA	Rhineland-Palatinate	pressurized water reactor
+France	Fessenheim nuclear power plant	1	920	retired	CP0	1978	2020	Electricité De France (EDF)	Electricité De France (EDF)	47.9032	7.5609	NA	Grand Est	pressurized water reactor
+France	Fessenheim nuclear power plant	2	920	retired	CP0	1978	2020	Electricité De France (EDF)	Electricité De France (EDF)	47.9032	7.5609	NA	Grand Est	pressurized water reactor
+Switzerland	Goesgen nuclear power plant	NA	1060	operating	PWR 3 Loop	1979	NA	Kernkraftwerk Gösgen-Däniken AG	Kernkraftwerk Gösgen-Däniken AG	47.3656	7.96801	NA	Solothurn	pressurized water reactor
+Germany	THTR-300 nuclear power plant	NA	308	retired	Pebble bed reactor	1987	1988	Hochtemperatur-Kernkraftwerk GMBH	Hochtemperatur-Kernkraftwerk GMBH	51.6803	7.97201	NA	North Rhine-Westphalia	other
+Switzerland	Leibstadt nuclear power plant	NA	1275	operating	BWR-6	1984	NA	Kernkraftwerk Leibstadt	Kernkraftwerk Leibstadt	47.6012	8.1845	NA	Aargau	boiling water reactor
+Switzerland	Beznau nuclear power plant	1	380	operating	WH 2LP	1969	NA	Kernkraftwerk Beznau Ch-5312 Döttingen	Kernkraftwerk Beznau Ch-5312 Döttingen	47.552	8.2281	NA	Aargau	pressurized water reactor
+Switzerland	Beznau nuclear power plant	2	380	operating	WH 2LP	1972	NA	Kernkraftwerk Beznau Ch-5312 Döttingen	Kernkraftwerk Beznau Ch-5312 Döttingen	47.552	8.2281	NA	Aargau	pressurized water reactor
+Italy	Enrico Fermi nuclear power plant	NA	270	retired	WH 4LP	1965	1990	Societa Gestione Impanti Nucleari SPA	Societa Gestione Impanti Nucleari SPA	45.1833	8.2773	NA	Piedmont	pressurized water reactor
+Germany	Biblis nuclear power plant	A	1225	retired	unknown	1975	2011	RWE Power AG	RWE Power AG	49.7093	8.4148	NA	Hesse	pressurized water reactor
+Germany	Biblis nuclear power plant	B	1300	retired	unknown	1977	2011	RWE Power AG	RWE Power AG	49.7093	8.4148	NA	Hesse	pressurized water reactor
+Germany	MZFR nuclear power plant	NA	57	retired	unknown	1966	1984	Kerntechnische Entsorgung Karlsruhe GMBH	Kernkraftwerk-Betriebsgesellschaft MBH	49.1041	8.4324	NA	Baden-Württemberg	pressurized heavy water reactor
+Germany	Philippsburg nuclear power plant	1	926	retired	BWR-69	1980	2011	EnBW Kraftwerke AG	EnBW Kernkraft GMBH	49.2529	8.4364	NA	Baden-Württemberg	boiling water reactor
+Germany	Philippsburg nuclear power plant	2	1468	retired	unknown	1985	2019	EnBW Kernkraft GMBH	EnBW Kernkraft GMBH	49.2529	8.4364	NA	Baden-Württemberg	pressurized water reactor
+Germany	KNK II nuclear power plant	NA	21	retired	Prototype	1979	1991	Karlsruhe Institute For Technology	Kernkraftwerk-Betriebsgesellschaft MBH	49.0967	8.4398	NA	Baden-Württemberg	other
+Germany	Unterweser nuclear power plant	NA	1410	retired	unknown	1979	2011	E.ON Kernkraft GMBH	E.ON Kernkraft GMBH	53.4282	8.4791	NA	Lower Saxony	pressurized water reactor
+Germany	Großwelzheim nuclear power plant	NA	27	retired	Superheated steam reactor	1969	1971	Heissdampfreaktor-Betriebsgesellschaft MBH	Heissdampfreaktor-Betriebsgesellschaft MBH	50.0581	8.9869	NA	Bavaria	boiling water reactor
+Germany	Kahl nuclear power plant	NA	16	retired	BWR	1961	1985	Versuchsatomkraftwerk Kahl GMBH	Versuchsatomkraftwerk Kahl GMBH	50.0596	8.99101	NA	Bavaria	boiling water reactor
+Germany	Obrigheim nuclear power plant	NA	357	retired	unknown	1969	2005	Kernkraftwerk Obrigheim GMBH	EnBW Kraftwerke AG	49.3655	9.0779	NA	Baden-Württemberg	pressurized water reactor
+Germany	Neckarwestheim nuclear power plant	1	840	retired	unknown	1976	2011	EnBW [98.45%]; four other owners [1.55%]	EnBW Kernkraft GMBH	49.0408	9.1759	NA	Baden-Württemberg	pressurized water reactor
+Germany	Neckarwestheim nuclear power plant	2	1400	retired	Konvoi	1989	2023	EnBW Kernkraft GMBH	EnBW Kernkraft GMBH	49.0408	9.1759	NA	Baden-Württemberg	pressurized water reactor
+Germany	Brunsbuettel nuclear power plant	NA	806	retired	BWR-69	1977	2011	Vattenfall Europe Nuclear Energy GMBH [66.6%]; E.ON Kernkraft GMBH [33.3%]	Kernkraftwerk Brunsbüttel GMBH & CO OHG	53.8912	9.2008	NA	Schleswig-Holstein	boiling water reactor
+Germany	Brokdorf nuclear power plant	NA	1480	retired	unknown	1986	2021	PreussenElektra GMBH [80%]; Vattenfall GMBH [20%]	PreussenElektra GMBH	53.8506	9.34501	NA	Schleswig-Holstein	pressurized water reactor
+Germany	Wuergassen nuclear power plant	NA	670	retired	unknown	1975	1994	PreussenElektra GMBH	PreussenElektra GMBH	51.6395	9.3919	NA	North Rhine-Westphalia	boiling water reactor
+Germany	Grohnde nuclear power plant	NA	1430	retired	unknown	1985	2021	PreussenElektra GMBH [83.3%]; Stadtwerke Bielefeld [16.7%]	PreussenElektra GMBH	52.0356	9.4135	NA	Lower Saxony	pressurized water reactor
+Germany	Stade nuclear power plant	NA	672	retired	unknown	1972	2003	Kernkraftwerk Stade GMBH	E.ON Kernkraft GMBH	53.6197	9.5308	NA	Lower Saxony	pressurized water reactor
+Italy	Caorso nuclear power plant	NA	882	retired	BWR-4 (Mark 2)	1981	1990	Societa Gestione Impanti Nucleari SPA	Societa Gestione Impanti Nucleari SPA	45.0729	9.8716	NA	Emilia-Romagna	boiling water reactor
+Germany	Grafenrheinfeld nuclear power plant	NA	1345	retired	unknown	1982	2015	E.ON Kernkraft GMBH	E.ON Kernkraft GMBH	49.9839	10.1848	NA	Bavaria	pressurized water reactor
+Germany	Gundremmingen nuclear power plant	A	250	retired	unknown	1967	1977	NA	Kernkraftwerke Gundremmingen Betriebsgesellschaft MBH	48.515	10.4016	NA	Bavaria	boiling water reactor
+Germany	Gundremmingen nuclear power plant	B	1344	retired	BWR-72	1984	2017	RWE Power AG [75%]; E.ON Kernkraft GMBH [25%]	Kernkraftwerk Gundremmingen GMBH	48.515	10.4016	NA	Bavaria	boiling water reactor
+Germany	Gundremmingen nuclear power plant	C	1344	retired	BWR-72	1985	2021	RWE Power AG [75%]; PreussenElektra GMBH [25%]	Kernkraftwerk Gundremmingen GMBH	48.515	10.4016	NA	Bavaria	boiling water reactor
+Germany	Kruemmel nuclear power plant	NA	1402	retired	BWR-69	1984	2011	Vattenfall Europe Nuclear Energy GMBH [50%]; E.ON Kernkraft GMBH [50%]	Kernkraftwerk Krümmel GMBH & CO OHG	53.4102	10.4096	NA	Schleswig-Holstein	boiling water reactor
+Sweden	Ringhals nuclear power plant	2	963	retired	WH 3LP	1975	2019	Ringhals AB	Ringhals AB	57.2574	12.1087	NA	NA	pressurized water reactor
+Sweden	Ringhals nuclear power plant	1	910	retired	AA-I	1976	2020	Ringhals AB	Ringhals AB	57.2574	12.1087	NA	NA	boiling water reactor
+Sweden	Ringhals nuclear power plant	3	1117	operating	WH 3LP	1981	NA	Ringhals AB	Ringhals AB	57.2574	12.1087	NA	NA	pressurized water reactor
+Sweden	Ringhals nuclear power plant	4	1171	operating	WH 3LP	1983	NA	Ringhals AB	Ringhals AB	57.2574	12.1087	NA	NA	pressurized water reactor
+Germany	Isar nuclear power plant	2	1485	retired	Konvoi	1988	2023	PreussenElektra GMBH [75%]; Stadtwerke München [25%]	PreussenElektra GMBH	48.6044	12.2927	NA	Bavaria	pressurized water reactor
+Germany	Isar nuclear power plant	1	912	retired	BWR-69	1979	2011	E.ON Kernkraft GMBH	E.ON Kernkraft GMBH	48.6048	12.2988	NA	Bavaria	boiling water reactor
+Germany	Niederaichbach nuclear power plant	1	106	retired	pressure tube reactor	1973	1974	Karlsruhe Institute For Technology	Kernkraftwerk Niederaichbach GMBH	48.6047	12.3039	NA	Bavaria	other
+Italy	Latina nuclear power plant	NA	160	retired	MAGNOX	1964	1987	Societa Gestione Impanti Nucleari SPA	Societa Gestione Impanti Nucleari SPA	41.4253	12.8067	NA	Lazio	other
+Sweden	Barseback nuclear power plant	1	615	retired	AA-II	1975	1999	Sydkraft Nuclear Power AB	Barsebäck Kraft AB	55.7435	12.9201	NA	NA	boiling water reactor
+Sweden	Barseback nuclear power plant	2	615	retired	AA-II	1977	2005	Sydkraft Nuclear Power AB	Barsebäck Kraft AB	55.7435	12.9201	NA	NA	boiling water reactor
+Germany	Rheinsberg nuclear power plant	NA	70	retired	VVER-70	1966	1990	Energiewerke Nord GMBH	Energiewerke Nord GMBH	53.1478	12.9904	NA	Brandenburg	pressurized water reactor
+Germany	Greifswald nuclear power plant	1	440	retired	VVER V-230	1974	1990	Energiewerke Nord GMBH	Energiewerke Nord GMBH	54.1416	13.6634	NA	Mecklenburg-Vorpommern	pressurized water reactor
+Germany	Greifswald nuclear power plant	2	440	retired	VVER V-230	1975	1990	Energiewerke Nord GMBH	Energiewerke Nord GMBH	54.1416	13.6634	NA	Mecklenburg-Vorpommern	pressurized water reactor
+Germany	Greifswald nuclear power plant	3	440	retired	VVER V-230	1978	1990	Energiewerke Nord GMBH	Energiewerke Nord GMBH	54.1416	13.6634	NA	Mecklenburg-Vorpommern	pressurized water reactor
+Germany	Greifswald nuclear power plant	4	440	retired	VVER V-230	1979	1990	Energiewerke Nord GMBH	Energiewerke Nord GMBH	54.1416	13.6634	NA	Mecklenburg-Vorpommern	pressurized water reactor
+Germany	Greifswald nuclear power plant	5	440	retired	VVER V-213	1989	1989	"VEB KKW \Bruno Leuschner\"""	Energiewerke Nord GMBH	54.1416	13.6634	NA	Mecklenburg-Vorpommern	pressurized water reactor
+Italy	Garigliano nuclear power plant	NA	160	retired	BWR-1	1964	1982	Societa Gestione Impanti Nucleari SPA	Societa Gestione Impanti Nucleari SPA	41.2584	13.8349	NA	Campania	boiling water reactor
+Czech Republic	Temelin nuclear power plant	1	1082	operating	VVER V-320	2002	NA	ČEZ AS	ČEZ AS	49.1796	14.3795	NA	Southwest	pressurized water reactor
+Czech Republic	Temelin nuclear power plant	2	1082	operating	VVER V-320	2003	NA	ČEZ AS	ČEZ AS	49.1796	14.3795	NA	Southwest	pressurized water reactor
+Slovenia	Krško nuclear power plant	1	727	operating	WH 2LP	1983	2043	Gen Energija DOO	Nuklearna Elektrarna Krško	45.9389	15.51601	NA	NA	pressurized water reactor
+Czech Republic	Dukovany nuclear power plant	1	500	operating	VVER V-213	1985	2037	ČEZ AS	ČEZ AS	49.0852	16.1479	NA	Southeast	pressurized water reactor
+Czech Republic	Dukovany nuclear power plant	2	500	operating	VVER V-213	1986	2037	ČEZ AS	ČEZ AS	49.0852	16.1479	NA	Southeast	pressurized water reactor
+Czech Republic	Dukovany nuclear power plant	3	500	operating	VVER V-213	1986	2037	ČEZ AS	ČEZ AS	49.0852	16.1479	NA	Southeast	pressurized water reactor
+Czech Republic	Dukovany nuclear power plant	4	500	operating	VVER V-213	1987	2037	ČEZ AS	ČEZ AS	49.0852	16.1479	NA	Southeast	pressurized water reactor
+Sweden	Oskarshamn nuclear power plant	1	492	retired	AA-I	1972	2017	Oskarshamns Kraftgrupp AB	Oskarshamns Kraftgrupp AB	57.4166	16.67301	NA	NA	boiling water reactor
+Sweden	Oskarshamn nuclear power plant	2	661	retired	AA-II	1975	2016	Oskarshamns Kraftgrupp AB	Oskarshamns Kraftgrupp AB	57.4166	16.67301	NA	NA	boiling water reactor
+Sweden	Oskarshamn nuclear power plant	3	1450	operating	"AA-IV, BWR-3000"	1985	NA	Oskarshamns Kraftgrupp AB	Oskarshamns Kraftgrupp AB	57.4166	16.67301	NA	NA	boiling water reactor
+Slovakia	Bohunice nuclear power plant	A1	143	retired	KS 150	1972	1977	Jadrova A Vyradovacia Spolocnost (Nuclear And Decommissioning Company PLC)	Jadrova A Vyradovacia Spolocnost (Nuclear And Decommissioning Company PLC)	48.4968	17.6907	NA	Region of Trnava	other
+Slovakia	Bohunice nuclear power plant	1	440	retired	VVER V-230	1980	2006	Jadrova A Vyradovacia Spolocnost (Nuclear And Decommissioning Company PLC)	Jadrova A Vyradovacia Spolocnost (Nuclear And Decommissioning Company PLC)	48.4968	17.6907	NA	Region of Trnava	pressurized water reactor
+Slovakia	Bohunice nuclear power plant	2	440	retired	VVER V-230	1981	2008	Jadrova A Vyradovacia Spolocnost (Nuclear And Decommissioning Company PLC)	Jadrova A Vyradovacia Spolocnost (Nuclear And Decommissioning Company PLC)	48.4968	17.6907	NA	Region of Trnava	pressurized water reactor
+Slovakia	Bohunice nuclear power plant	3	500	operating	VVER V-213	1985	NA	Slovenské Elektrárne AS	Slovenské Elektrárne AS	48.4968	17.6907	NA	Region of Trnava	pressurized water reactor
+Slovakia	Bohunice nuclear power plant	4	500	operating	VVER V-213	1985	NA	Slovenské Elektrárne AS	Slovenské Elektrárne AS	48.4968	17.6907	NA	Region of Trnava	pressurized water reactor
+Sweden	Agesta nuclear power plant	NA	12	retired	unknown	1964	1974	Vattenfall AB	Svafo AB	59.2062	18.0814	NA	NA	pressurized heavy water reactor
+Sweden	Forsmark nuclear power plant	1	1078	operating	"AA-III, BWR-2500"	1980	NA	Forsmark Kraftgrupp AB	Forsmark Kraftgrupp AB	60.4028	18.1744	NA	NA	boiling water reactor
+Sweden	Forsmark nuclear power plant	2	1160	operating	"AA-III, BWR-2500"	1981	NA	Forsmark Kraftgrupp AB	Forsmark Kraftgrupp AB	60.4028	18.1744	NA	NA	boiling water reactor
+Sweden	Forsmark nuclear power plant	3	1208	operating	"AA-IV, BWR-3000"	1985	NA	Forsmark Kraftgrupp AB	Forsmark Kraftgrupp AB	60.4028	18.1744	NA	NA	boiling water reactor
+South Africa	Koeberg nuclear power plant	1	970	operating	CP1	1984	NA	Eskom	Eskom	-33.6746	18.4321	NA	Western Cape	pressurized water reactor
+South Africa	Koeberg nuclear power plant	2	970	operating	CP1	1985	NA	Eskom	Eskom	-33.6746	18.4321	NA	Western Cape	pressurized water reactor
+Slovakia	Mochovce nuclear power plant	1	500	operating	VVER V-213	1998	NA	Slovenské Elektrárne AS	Slovenské Elektrárne AS	48.2572	18.4553	NA	Region of Nitra	pressurized water reactor
+Slovakia	Mochovce nuclear power plant	2	500	operating	VVER V-213	2000	NA	Slovenské Elektrárne AS	Slovenské Elektrárne AS	48.2572	18.4553	NA	Region of Nitra	pressurized water reactor
+Hungary	Paks nuclear power plant	1	509	operating	VVER V-213	1983	NA	MVM Hungarian Electricity LTD	MVM Paks Nuclear Power Plant LTD	46.57763	18.8532	NA	NA	pressurized water reactor
+Hungary	Paks nuclear power plant	2	506	operating	VVER V-213	1984	NA	MVM Hungarian Electricity LTD	MVM Paks Nuclear Power Plant LTD	46.57763	18.8532	NA	NA	pressurized water reactor
+Hungary	Paks nuclear power plant	3	506	operating	VVER V-213	1986	NA	MVM Hungarian Electricity LTD	MVM Paks Nuclear Power Plant LTD	46.57763	18.8532	NA	NA	pressurized water reactor
+Hungary	Paks nuclear power plant	4	506	operating	VVER V-213	1987	NA	MVM Hungarian Electricity LTD	MVM Paks Nuclear Power Plant LTD	46.57763	18.8532	NA	NA	pressurized water reactor
+Finland	Olkiluoto nuclear power plant	3	1720	operating	EPR	2022	NA	Teollisuuden Voima OYJ	Teollisuuden Voima OYJ	61.2356	21.4372	South-Western Finland	NA	pressurized water reactor
+Finland	Olkiluoto nuclear power plant	1	920	operating	"AA-III, BWR-2500"	1979	NA	Teollisuuden Voima OYJ	Teollisuuden Voima OYJ	61.2371	21.4433	South-Western Finland	NA	boiling water reactor
+Finland	Olkiluoto nuclear power plant	2	920	operating	"AA-III, BWR-2500"	1982	NA	Teollisuuden Voima OYJ	Teollisuuden Voima OYJ	61.2371	21.4433	South-Western Finland	NA	boiling water reactor
+Bulgaria	Kozloduy nuclear power plant	1	440	retired	VVER V-230	1974	2002	DP RAO (State Enterprise “Radio Active Waste”)	NA	43.7497	23.7685	NA	NA	pressurized water reactor
+Bulgaria	Kozloduy nuclear power plant	2	440	retired	VVER V-230	1975	2002	DP RAO (State Enterprise “Radio Active Waste”)	NA	43.7497	23.7685	NA	NA	pressurized water reactor
+Bulgaria	Kozloduy nuclear power plant	3	440	retired	VVER V-230	1981	2006	DP RAO (State Enterprise “Radio Active Waste”)	NA	43.7497	23.7685	NA	NA	pressurized water reactor
+Bulgaria	Kozloduy nuclear power plant	4	440	retired	VVER V-230	1982	2006	DP RAO (State Enterprise “Radio Active Waste”)	NA	43.7497	23.7685	NA	NA	pressurized water reactor
+Bulgaria	Kozloduy nuclear power plant	5	1040	operating	VVER V-320	1988	NA	Bulgarian Energy Holding CO	NA	43.7497	23.7685	NA	NA	pressurized water reactor
+Bulgaria	Kozloduy nuclear power plant	6	1040	operating	VVER V-320	1993	NA	Bulgarian Energy Holding CO	NA	43.7497	23.7685	NA	NA	pressurized water reactor
+Ukraine	Rivne nuclear power plant	1	420	operating	VVER V-213	1981	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	51.3245	25.8974	NA	Rivne Oblast	pressurized water reactor
+Ukraine	Rivne nuclear power plant	2	415	operating	VVER V-213	1982	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	51.3245	25.8974	NA	Rivne Oblast	pressurized water reactor
+Ukraine	Rivne nuclear power plant	3	1000	operating	VVER V-320	1987	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	51.3245	25.8974	NA	Rivne Oblast	pressurized water reactor
+Ukraine	Rivne nuclear power plant	4	1000	operating	VVER V-320	2006	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	51.3245	25.8974	NA	Rivne Oblast	pressurized water reactor
+Belarus	Astravets nuclear power plant	1	1194	operating	VVER V-491	2021	NA	"Republican Unitary Enterprise \Belarusian Nuclear Power Plant\"""	"Republican Unitary Enterprise \Belarusian Nuclear Power Plant\"""	54.7598	26.0937	NA	Hrodna Region	pressurized water reactor
+Finland	Loviisa nuclear power plant	1	531	operating	VVER V-213	1977	2050	Fortum Power And Heat OY (Former IVO)	Fortum Power And Heat OY (Former IVO)	60.3708	26.3468	Southern Finland	NA	pressurized water reactor
+Finland	Loviisa nuclear power plant	2	531	operating	VVER V-213	1981	2050	Fortum Power And Heat OY (Former IVO)	Fortum Power And Heat OY (Former IVO)	60.3708	26.3468	Southern Finland	NA	pressurized water reactor
+Lithuania	Ignalina nuclear power plant	1	1300	retired	RBMK-1500	1985	2004	The Republic of Lithuania	Ignalina Nuclear Power Plant	55.6023	26.5598	Visagino savivaldybė	Utena County	light water graphite reactor
+Lithuania	Ignalina nuclear power plant	2	1300	retired	RBMK-1500	1987	2009	The Republic of Lithuania	Ignalina Nuclear Power Plant	55.6023	26.5598	Visagino savivaldybė	Utena County	light water graphite reactor
+Ukraine	Khmelnitski nuclear power plant	1	1000	operating	VVER V-320	1988	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	50.3024	26.6473	NA	Khmelnytskyi Oblast	pressurized water reactor
+Ukraine	Khmelnitski nuclear power plant	2	1000	operating	VVER V-320	2005	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	50.3024	26.6473	NA	Khmelnytskyi Oblast	pressurized water reactor
+Romania	Cernavodă nuclear power plant	2	705	operating	CANDU 6	2007	NA	Ministerul Economiei; Comertului Si Mediului De Afaceri	Societatea Nationala Nuclearelectrica SA	44.3218	28.0586	NA	NA	pressurized heavy water reactor
+Romania	Cernavodă nuclear power plant	1	706	operating	CANDU 6	1996	NA	Ministerul Economiei; Comertului Si Mediului De Afaceri	Societatea Nationala Nuclearelectrica SA	44.3205	28.0598	NA	NA	pressurized heavy water reactor
+Russia	Leningrad nuclear power plant	1-1	1000	retired	RBMK-1000	1974	2018	Rosatom	Rosenergoatom	59.8525	29.0486	NA	Leningrad oblast	light water graphite reactor
+Russia	Leningrad nuclear power plant	1-2	1000	retired	RBMK-1000	1976	2020	Rosatom	Rosenergoatom	59.8525	29.0486	NA	Leningrad oblast	light water graphite reactor
+Russia	Leningrad nuclear power plant	1-3	1000	operating	RBMK-1000	1980	NA	Rosatom	Rosenergoatom	59.8525	29.0486	NA	Leningrad oblast	light water graphite reactor
+Russia	Leningrad nuclear power plant	1-4	1000	operating	RBMK-1000	1981	NA	Rosatom	Rosenergoatom	59.8525	29.0486	NA	Leningrad oblast	light water graphite reactor
+Russia	Leningrad nuclear power plant	2-1	1188	operating	VVER V-491	2018	NA	Rosatom	Rosenergoatom	59.8525	29.0486	NA	Leningrad oblast	pressurized water reactor
+Russia	Leningrad nuclear power plant	2-2	1188	operating	VVER V-491	2021	NA	Rosatom	Rosenergoatom	59.8525	29.0486	NA	Leningrad oblast	pressurized water reactor
+Ukraine	Chernobyl nuclear power plant	4	1000	retired	RBMK	1984	1986	"SE NNEGC \Energoatom\"""	Mintopenergo Of Ukraine	51.3893	30.0984	NA	Kyiv Oblast	light water graphite reactor
+Ukraine	Chernobyl nuclear power plant	3	1000	retired	RBMK	1982	2000	"SE NNEGC \Energoatom\"""	Mintopenergo Of Ukraine	51.3894	30.1007	NA	Kyiv Oblast	light water graphite reactor
+Ukraine	Chernobyl nuclear power plant	2	1000	retired	RBMK	1979	1991	"SE NNEGC \Energoatom\"""	Mintopenergo Of Ukraine	51.3894	30.1047	NA	Kyiv Oblast	light water graphite reactor
+Ukraine	Chernobyl nuclear power plant	1	800	retired	RBMK	1978	1996	"SE NNEGC \Energoatom\"""	Mintopenergo Of Ukraine	51.3893	30.1066	NA	Kyiv Oblast	light water graphite reactor
+Ukraine	South Ukraine nuclear power plant	1	1000	operating	VVER V-302	1983	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	47.81201	31.2201	NA	Mykolaiv Oblast	pressurized water reactor
+Ukraine	South Ukraine nuclear power plant	2	1000	operating	VVER V-338	1985	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	47.81201	31.2201	NA	Mykolaiv Oblast	pressurized water reactor
+Ukraine	South Ukraine nuclear power plant	3	1000	operating	VVER V-320	1989	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	47.81201	31.2201	NA	Mykolaiv Oblast	pressurized water reactor
+Russia	Kola nuclear power plant	1-1	440	operating	VVER V-230	1973	NA	Rosatom	Rosenergoatom	67.4648	32.4821	NA	Murmansk Oblast	pressurized water reactor
+Russia	Kola nuclear power plant	1-2	440	operating	VVER V-230	1975	NA	Rosatom	Rosenergoatom	67.4648	32.4821	NA	Murmansk Oblast	pressurized water reactor
+Russia	Kola nuclear power plant	1-3	440	operating	VVER V-213	1982	NA	Rosatom	Rosenergoatom	67.4648	32.4821	NA	Murmansk Oblast	pressurized water reactor
+Russia	Kola nuclear power plant	1-4	440	operating	VVER V-213	1984	NA	Rosatom	Rosenergoatom	67.4648	32.4821	NA	Murmansk Oblast	pressurized water reactor
+Russia	Smolensk nuclear power plant	1-1	1000	operating	RBMK-1000	1983	2034	Rosatom	Rosenergoatom	54.1658	33.2358	NA	Smolensk Oblast	light water graphite reactor
+Russia	Smolensk nuclear power plant	1-2	1000	operating	RBMK-1000	1985	2034	Rosatom	Rosenergoatom	54.1658	33.2358	NA	Smolensk Oblast	light water graphite reactor
+Russia	Smolensk nuclear power plant	1-3	1000	operating	RBMK-1000	1990	2034	Rosatom	Rosenergoatom	54.1658	33.2358	NA	Smolensk Oblast	light water graphite reactor
+Ukraine	Zaporizhzhia nuclear power plant	1	1000	operating	VVER V-320	1985	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	47.5067	34.5851	NA	Zaporizhia Oblast	pressurized water reactor
+Ukraine	Zaporizhzhia nuclear power plant	2	1000	operating	VVER V-320	1986	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	47.5067	34.5851	NA	Zaporizhia Oblast	pressurized water reactor
+Ukraine	Zaporizhzhia nuclear power plant	3	1000	operating	VVER V-320	1987	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	47.5067	34.5851	NA	Zaporizhia Oblast	pressurized water reactor
+Ukraine	Zaporizhzhia nuclear power plant	4	1000	operating	VVER V-320	1988	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	47.5067	34.5851	NA	Zaporizhia Oblast	pressurized water reactor
+Ukraine	Zaporizhzhia nuclear power plant	5	1000	operating	VVER V-320	1989	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	47.5067	34.5851	NA	Zaporizhia Oblast	pressurized water reactor
+Ukraine	Zaporizhzhia nuclear power plant	6	1000	operating	VVER V-320	1996	NA	"SE NNEGC \Energoatom\"""	"SE NNEGC \Energoatom\"""	47.5067	34.5851	NA	Zaporizhia Oblast	pressurized water reactor
+Russia	Kalinin nuclear power plant	1	1000	operating	VVER V-338	1985	NA	Rosatom	Rosenergoatom	57.905	35.0614	NA	Tver Oblast	pressurized water reactor
+Russia	Kalinin nuclear power plant	2	1000	operating	VVER V-338	1987	NA	Rosatom	Rosenergoatom	57.905	35.0614	NA	Tver Oblast	pressurized water reactor
+Russia	Kalinin nuclear power plant	3	1000	operating	VVER V-320	2005	NA	Rosatom	Rosenergoatom	57.905	35.0614	NA	Tver Oblast	pressurized water reactor
+Russia	Kursk nuclear power plant	1-1	1000	retired	RBMK-1000	1977	2021	Rosatom	Rosenergoatom	51.6764	35.6064	NA	Kursk Oblast	light water graphite reactor
+Russia	Kursk nuclear power plant	1-2	1000	operating	RBMK-1000	1979	NA	Rosatom	Rosenergoatom	51.6764	35.6064	NA	Kursk Oblast	light water graphite reactor
+Russia	Kursk nuclear power plant	1-3	1000	operating	RBMK-1000	1984	NA	Rosatom	Rosenergoatom	51.6764	35.6064	NA	Kursk Oblast	light water graphite reactor
+Russia	Kursk nuclear power plant	1-4	1000	operating	RBMK-1000	1986	NA	Rosatom	Rosenergoatom	51.6764	35.6064	NA	Kursk Oblast	light water graphite reactor
+Russia	Atomic Power Station 1 Obninsk nuclear power plant	NA	6	retired	AM-1	1954	2002	Ministry Of Medium Machine Building Of The USSR (Minsredmash)	Ministry Of Medium Machine Building Of The USSR (Minsredmash)	55.08901	36.5912	NA	Kaluga Oblast	light water graphite reactor
+Russia	Novovoronezh nuclear power plant	1-1	210	retired	VVER V-210	1964	1988	Ministry Of Medium Machine Building Of The USSR (Minsredmash)	Rosenergoatom	51.26677	39.2151	NA	Voronezh Oblast	pressurized water reactor
+Russia	Novovoronezh nuclear power plant	1-2	365	retired	VVER V-365	1970	1990	Ministry Of Medium Machine Building Of The USSR (Minsredmash)	Rosenergoatom	51.26677	39.2151	NA	Voronezh Oblast	pressurized water reactor
+Russia	Novovoronezh nuclear power plant	1-3	417	retired	VVER V-179	1972	2016	Rosatom	Rosenergoatom	51.26677	39.2151	NA	Voronezh Oblast	pressurized water reactor
+Russia	Novovoronezh nuclear power plant	1-4	417	operating	VVER V-179	1973	2032	Rosatom	Rosenergoatom	51.26677	39.2151	NA	Voronezh Oblast	pressurized water reactor
+Russia	Novovoronezh nuclear power plant	1-5	1000	operating	VVER V-187	1981	2040	Rosatom	Rosenergoatom	51.26677	39.2151	NA	Voronezh Oblast	pressurized water reactor
+Russia	Novovoronezh nuclear power plant	2-1	1180	operating	VVER V-392M	2017	NA	Rosatom	Rosenergoatom	51.26677	39.2151	NA	Voronezh Oblast	pressurized water reactor
+Russia	Novovoronezh nuclear power plant	2-2	1181	operating	VVER V-392M	2019	NA	Rosatom	Rosenergoatom	51.26677	39.2151	NA	Voronezh Oblast	pressurized water reactor
+Russia	Rostov nuclear power plant	1	1041	operating	VVER V-320	2001	NA	Rosatom	Rosenergoatom	47.6012	42.3677	NA	Rostov Oblast	pressurized water reactor
+Russia	Rostov nuclear power plant	2	1000	operating	VVER V-320	2010	NA	Rosatom	Rosenergoatom	47.6012	42.3677	NA	Rostov Oblast	pressurized water reactor
+Russia	Rostov nuclear power plant	3	1000	operating	VVER V-320	2015	NA	Rosatom	Rosenergoatom	47.6012	42.3677	NA	Rostov Oblast	pressurized water reactor
+Russia	Rostov nuclear power plant	4	1030	operating	VVER V-320	2018	NA	Rosatom	Rosenergoatom	47.6012	42.3677	NA	Rostov Oblast	pressurized water reactor
+Armenia	Armenian nuclear power plant	1	408	retired	VVER V-270	1977	1989	Ministry Of Territorial Administration And Infrastructure	Closed Joint Stock Company Armenian NPP	40.1817	44.1423	Vagharshapat region	Armavir Province	pressurized water reactor
+Armenia	Armenian nuclear power plant	2	448	operating	VVER V-270	1980	2026	Ministry Of Territorial Administration And Infrastructure	Closed Joint Stock Company Armenian NPP	40.1817	44.1423	Vagharshapat region	Armavir Province	pressurized water reactor
+Russia	Balakovo nuclear power plant	1	1000	operating	VVER V-320	1986	NA	Rosatom	Rosenergoatom	52.0928	47.9539	NA	Saratov Oblast	pressurized water reactor
+Russia	Balakovo nuclear power plant	2	1000	operating	VVER V-320	1988	NA	Rosatom	Rosenergoatom	52.0928	47.9539	NA	Saratov Oblast	pressurized water reactor
+Russia	Balakovo nuclear power plant	3	1000	operating	VVER V-320	1989	NA	Rosatom	Rosenergoatom	52.0928	47.9539	NA	Saratov Oblast	pressurized water reactor
+Russia	Balakovo nuclear power plant	4	1000	operating	VVER V-320	1993	NA	Rosatom	Rosenergoatom	52.0928	47.9539	NA	Saratov Oblast	pressurized water reactor
+Iran	Bushehr nuclear power plant	1	1000	operating	VVER V-446	2013	NA	Nuclear Power Production And Development CO Of Iran	Nuclear Power Production And Development CO Of Iran	28.82962	50.88601	NA	Bushehr Province	pressurized water reactor
+Kazakhstan	Aktau nuclear power plant	NA	90	retired	BN-350	1973	1999	Ministry Of Energy Of The Republic Of Kazakhstan	Mangistau Atomic Energy Complex; Kazatomprom	43.6092	51.28201	NA	Mangystau Region	other
+United Arab Emirates	Barakah nuclear power plant	1	1417	operating	APR-1400	2021	NA	Emirates Nuclear Energy CORP	Nawah Energy CO	23.9695	52.2361	NA	Abu Dhabi Emirate	pressurized water reactor
+United Arab Emirates	Barakah nuclear power plant	2	1417	operating	APR-1400	2022	NA	Emirates Nuclear Energy CORP	Nawah Energy CO	23.9695	52.2361	NA	Abu Dhabi Emirate	pressurized water reactor
+United Arab Emirates	Barakah nuclear power plant	3	1417	operating	APR-1400	2023	NA	Emirates Nuclear Energy CORP	Nawah Energy CO	23.9695	52.2361	NA	Abu Dhabi Emirate	pressurized water reactor
+Russia	Beloyarsk nuclear power plant	1	108	retired	AMB-100	1964	1983	Ministry Of Medium Machine Building Of The USSR (Minsredmash)	Rosenergoatom	56.8417	61.3225	NA	Sverdlovsk Oblast	light water graphite reactor
+Russia	Beloyarsk nuclear power plant	2	160	retired	AMB-200	1969	1990	Ministry Of Medium Machine Building Of The USSR (Minsredmash)	Rosenergoatom	56.8417	61.3225	NA	Sverdlovsk Oblast	light water graphite reactor
+Russia	Beloyarsk nuclear power plant	3	600	operating	BN-600	1981	NA	Rosatom	Rosenergoatom	56.8417	61.3225	NA	Sverdlovsk Oblast	other
+Russia	Beloyarsk nuclear power plant	4	885	operating	BN-800	2016	NA	Rosatom	Rosenergoatom	56.8417	61.3225	NA	Sverdlovsk Oblast	other
+Pakistan	Karachi nuclear power plant	1	100	retired	CANDU-137 MW	1972	2021	Pakistan Atomic Energy Commission	Pakistan Atomic Energy Commission	24.845	66.7888	NA	Sindh	pressurized heavy water reactor
+Pakistan	Karachi nuclear power plant	2	1100	operating	ACP-1000	2021	NA	Pakistan Atomic Energy Commission	Pakistan Atomic Energy Commission	24.845	66.7888	NA	Sindh	pressurized water reactor
+Pakistan	Karachi nuclear power plant	3	1100	operating	ACP-1000	2022	NA	Pakistan Atomic Energy Commission	Pakistan Atomic Energy Commission	24.845	66.7888	NA	Sindh	pressurized water reactor
+Pakistan	Chashma nuclear power plant	1	325	operating	CNP-300	2000	NA	Pakistan Atomic Energy Commission	Pakistan Atomic Energy Commission	32.392	71.4616	NA	Punjab	pressurized water reactor
+Pakistan	Chashma nuclear power plant	2	325	operating	CNP-300	2011	NA	Pakistan Atomic Energy Commission	Pakistan Atomic Energy Commission	32.392	71.4616	NA	Punjab	pressurized water reactor
+Pakistan	Chashma nuclear power plant	3	340	operating	CNP-300	2016	NA	Pakistan Atomic Energy Commission	Pakistan Atomic Energy Commission	32.392	71.4616	NA	Punjab	pressurized water reactor
+Pakistan	Chashma nuclear power plant	4	340	operating	CNP-300	2017	NA	Pakistan Atomic Energy Commission	Pakistan Atomic Energy Commission	32.392	71.4616	NA	Punjab	pressurized water reactor
+India	Tarapur nuclear power plant	1	160	mothballed	BWR-1 (Mark 2)	1969	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	19.8294	72.6617	Palghar	Maharashtra	boiling water reactor
+India	Tarapur nuclear power plant	2	160	mothballed	BWR-1 (Mark 2)	1969	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	19.8294	72.6617	Palghar	Maharashtra	boiling water reactor
+India	Tarapur nuclear power plant	4	540	operating	Horizontal Pressure Tube type	2005	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	19.8294	72.6617	Palghar	Maharashtra	pressurized heavy water reactor
+India	Tarapur nuclear power plant	3	540	operating	Horizontal Pressure Tube type	2006	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	19.8294	72.6617	Palghar	Maharashtra	pressurized heavy water reactor
+India	Kakrapar nuclear power plant	1	220	operating	Horizontal Pressure Tube type	1993	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	21.2384	73.3489	Surat	Gujarat	pressurized heavy water reactor
+India	Kakrapar nuclear power plant	2	220	operating	Horizontal Pressure Tube type	1995	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	21.2384	73.3489	Surat	Gujarat	pressurized heavy water reactor
+India	Kakrapar nuclear power plant	3	700	operating	PHWR-700	2023	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	21.2384	73.3489	Surat	Gujarat	pressurized heavy water reactor
+India	Kaiga nuclear power plant	1	220	operating	Horizontal Pressure Tube type	2000	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	14.86663	74.4398	Uttara Kannada	Karnataka	pressurized heavy water reactor
+India	Kaiga nuclear power plant	2	220	operating	Horizontal Pressure Tube type	2000	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	14.86663	74.4398	Uttara Kannada	Karnataka	pressurized heavy water reactor
+India	Kaiga nuclear power plant	3	220	operating	Horizontal Pressure Tube type	2007	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	14.86663	74.4398	Uttara Kannada	Karnataka	pressurized heavy water reactor
+India	Kaiga nuclear power plant	4	220	operating	Horizontal Pressure Tube type	2011	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	14.86663	74.4398	Uttara Kannada	Karnataka	pressurized heavy water reactor
+India	Rajasthan nuclear power plant	1	100	mothballed	Horizontal Pressure Tube type	1973	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	24.8747	75.6189	Chittorgarh District	Rajasthan	pressurized heavy water reactor
+India	Rajasthan nuclear power plant	2	200	operating	Horizontal Pressure Tube type	1981	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	24.8747	75.6189	Chittorgarh District	Rajasthan	pressurized heavy water reactor
+India	Rajasthan nuclear power plant	3	220	operating	Horizontal Pressure Tube type	2000	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	24.8747	75.6189	Chittorgarh District	Rajasthan	pressurized heavy water reactor
+India	Rajasthan nuclear power plant	4	220	operating	Horizontal Pressure Tube type	2000	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	24.8747	75.6189	Chittorgarh District	Rajasthan	pressurized heavy water reactor
+India	Rajasthan nuclear power plant	5	220	operating	Horizontal Pressure Tube type	2010	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	24.8747	75.6189	Chittorgarh District	Rajasthan	pressurized heavy water reactor
+India	Rajasthan nuclear power plant	6	220	operating	Horizontal Pressure Tube type	2010	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	24.8747	75.6189	Chittorgarh District	Rajasthan	pressurized heavy water reactor
+India	Kudankulam nuclear power plant	1	1000	operating	VVER V-412	2014	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	8.1689	77.7126	Tirunelveli District	Tamil Nadu	pressurized water reactor
+India	Kudankulam nuclear power plant	2	1000	operating	VVER V-412	2017	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	8.1689	77.7126	Tirunelveli District	Tamil Nadu	pressurized water reactor
+India	Narora nuclear power plant	1	220	operating	Horizontal Pressure Tube type	1991	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	28.156	78.4089	Bulandshahr	Uttar Pradesh	pressurized heavy water reactor
+India	Narora nuclear power plant	2	220	operating	Horizontal Pressure Tube type	1992	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	28.156	78.4089	Bulandshahr	Uttar Pradesh	pressurized heavy water reactor
+India	Madras nuclear power plant	1	220	mothballed	Horizontal Pressure Tube type	1984	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	12.5571	80.1754	Chengalpattu District	Tamil Nadu	pressurized heavy water reactor
+India	Madras nuclear power plant	2	220	operating	Horizontal Pressure Tube type	1986	NA	Nuclear Power Corporation Of India LTD	Nuclear Power Corporation Of India LTD	12.5571	80.1754	Chengalpattu District	Tamil Nadu	pressurized heavy water reactor
+Russia	Siberian nuclear power plant	I-1	50	retired	unknown	1955	1990	Rosatom	NA	56.6463	84.9127	NA	Tomsk Oblast	light water graphite reactor
+Russia	Siberian nuclear power plant	EI-2	50	retired	unknown	1958	1991	Rosatom	NA	56.6463	84.9127	NA	Tomsk Oblast	light water graphite reactor
+Russia	Siberian nuclear power plant	ADE-3	167	retired	unknown	1961	1992	Rosatom	NA	56.6463	84.9127	NA	Tomsk Oblast	light water graphite reactor
+Russia	Siberian nuclear power plant	ADE-4	167	retired	unknown	1964	2008	Rosatom	NA	56.6463	84.9127	NA	Tomsk Oblast	light water graphite reactor
+Russia	Siberian nuclear power plant	ADE-5	167	retired	unknown	1965	2008	Rosatom	NA	56.6463	84.9127	NA	Tomsk Oblast	light water graphite reactor
+China	Fangchenggang nuclear power plant	1-1	1086	operating	CPR-1000	2016	NA	Guangxi Fangchenggang CGN Nuclear Power Industry Investment CO LTD [61%]; Guangxi Guangtou Energy Group CO LTD [39%]	Guangxi Fangchenggang Nuclear Power CO LTD	21.5766	108.4795	Fangchenggang	Guangxi	pressurized water reactor
+China	Fangchenggang nuclear power plant	1-2	1086	operating	CPR-1000	2016	NA	Guangxi Fangchenggang CGN Nuclear Power Industry Investment CO LTD [61%]; Guangxi Guangtou Energy Group CO LTD [39%]	Guangxi Fangchenggang Nuclear Power CO LTD	21.5766	108.4795	Fangchenggang	Guangxi	pressurized water reactor
+China	Fangchenggang nuclear power plant	2-3	1180	operating	HPR-1000	2023	NA	Guangxi Fangchenggang CGN Nuclear Power Industry Investment CO LTD [61%]; Guangxi Guangtou Energy Group CO LTD [39%]	Guangxi Fangchenggang Nuclear Power CO LTD	21.5766	108.4795	Fangchenggang	Guangxi	pressurized water reactor
+China	Changjiang nuclear power plant	1	650	operating	CNP-600	2015	NA	Huaneng Nuclear Power Development CO LTD [51%]; China Nuclear Power CORP [49%]	Huaneng Hainan Changjiang Nuclear Power CO LTD	19.4606	108.9006	Changjiang	Hainan	pressurized water reactor
+China	Changjiang nuclear power plant	2	650	operating	CNP-600	2016	NA	Huaneng Nuclear Power Development CO LTD [51%]; China Nuclear Power CORP [49%]	Huaneng Hainan Changjiang Nuclear Power CO LTD	19.4606	108.9006	Changjiang	Hainan	pressurized water reactor
+China	Yangjiang nuclear power plant	1	1086	operating	CPR-1000	2014	NA	China General Nuclear Power CO LTD [34%]; Guangdong Nuclear Power Investment CO LTD [25%]; CLP Nuclear Power (Yangjiang) CO LTD [17%]; Guangdong Energy Group CO LTD [17%]; CGN Phase I Industrial Investment Fund CO LTD [7%]	Yangjiang Nuclear Power CO LTD	21.7092	112.2607	Yangjiang	Guangdong	pressurized water reactor
+China	Yangjiang nuclear power plant	2	1086	operating	CPR-1000	2015	NA	China General Nuclear Power CO LTD [34%]; Guangdong Nuclear Power Investment CO LTD [25%]; CLP Nuclear Power (Yangjiang) CO LTD [17%]; Guangdong Energy Group CO LTD [17%]; CGN Phase I Industrial Investment Fund CO LTD [7%]	Yangjiang Nuclear Power CO LTD	21.7092	112.2607	Yangjiang	Guangdong	pressurized water reactor
+China	Yangjiang nuclear power plant	3	1086	operating	CPR-1000	2016	NA	China General Nuclear Power CO LTD [34%]; Guangdong Nuclear Power Investment CO LTD [25%]; CLP Nuclear Power (Yangjiang) CO LTD [17%]; Guangdong Energy Group CO LTD [17%]; CGN Phase I Industrial Investment Fund CO LTD [7%]	Yangjiang Nuclear Power CO LTD	21.7092	112.2607	Yangjiang	Guangdong	pressurized water reactor
+China	Yangjiang nuclear power plant	4	1086	operating	CPR-1000	2017	NA	China General Nuclear Power CO LTD [34%]; Guangdong Nuclear Power Investment CO LTD [25%]; CLP Nuclear Power (Yangjiang) CO LTD [17%]; Guangdong Energy Group CO LTD [17%]; CGN Phase I Industrial Investment Fund CO LTD [7%]	Yangjiang Nuclear Power CO LTD	21.7092	112.2607	Yangjiang	Guangdong	pressurized water reactor
+China	Yangjiang nuclear power plant	5	1086	operating	ACPR-1000	2018	NA	China General Nuclear Power CO LTD [34%]; Guangdong Nuclear Power Investment CO LTD [25%]; CLP Nuclear Power (Yangjiang) CO LTD [17%]; Guangdong Energy Group CO LTD [17%]; CGN Phase I Industrial Investment Fund CO LTD [7%]	Yangjiang Nuclear Power CO LTD	21.7092	112.2607	Yangjiang	Guangdong	pressurized water reactor
+China	Yangjiang nuclear power plant	6	1086	operating	ACPR-1000	2019	NA	China General Nuclear Power CO LTD [34%]; Guangdong Nuclear Power Investment CO LTD [25%]; CLP Nuclear Power (Yangjiang) CO LTD [17%]; Guangdong Energy Group CO LTD [17%]; CGN Phase I Industrial Investment Fund CO LTD [7%]	Yangjiang Nuclear Power CO LTD	21.7092	112.2607	Yangjiang	Guangdong	pressurized water reactor
+China	Taishan nuclear power plant	1-1	1750	operating	EPR-1750	2018	NA	Taishan Nuclear Power Industry Investment CO LTD [47.5%]; EDF International [25%]; China General Nuclear Power CO LTD [12.5%]; Guangdong Nuclear Power Investment CO LTD [10%]; EDF (China) Investment LTD [5%]	Taishan Nuclear Power Joint Venture CO LTD	21.86101	112.9251	Jiangmen	Guangdong	pressurized water reactor
+China	Taishan nuclear power plant	1-2	1750	operating	EPR-1750	2019	NA	Taishan Nuclear Power Industry Investment CO LTD [47.5%]; EDF International [25%]; China General Nuclear Power CO LTD [12.5%]; Guangdong Nuclear Power Investment CO LTD [10%]; EDF (China) Investment LTD [5%]	Taishan Nuclear Power Joint Venture CO LTD	21.86101	112.9251	Jiangmen	Guangdong	pressurized water reactor
+China	Daya Bay nuclear power plant	1	984	operating	M310	1994	NA	Guandong Nuclear Power Joint Venture Company LTD	Daya Bay Nuclear Power Operations And Management CO LTD	22.59801	114.5434	Shenzhen	Guangdong	pressurized water reactor
+China	Daya Bay nuclear power plant	2	984	operating	M310	1994	NA	Guandong Nuclear Power Joint Venture Company LTD	Daya Bay Nuclear Power Operations And Management CO LTD	22.59801	114.5434	Shenzhen	Guangdong	pressurized water reactor
+China	Ling'ao nuclear power plant	1-1	990	operating	M310	2002	NA	CGN Power CO LTD [70%]; Guangdong Nuclear Power Investment CO LTD [30%]	Ling'ao Nuclear Power CO LTD	22.6056	114.5531	Shenzhen	Guangdong	pressurized water reactor
+China	Ling'ao nuclear power plant	1-2	990	operating	M310	2003	NA	CGN Power CO LTD [70%]; Guangdong Nuclear Power Investment CO LTD [30%]	Ling'ao Nuclear Power CO LTD	22.6056	114.5531	Shenzhen	Guangdong	pressurized water reactor
+China	Ling'ao nuclear power plant	2-3	1086	operating	CPR-1000	2010	NA	CGNPC Nuclear Power Investment CO LTD[45%]; Guangdong Nuclear Power Investment CO LTD[30%]; CGN Power CO LTD[25%]	Lingdong Nuclear Power CO LTD	22.6056	114.5531	Shenzhen	Guangdong	pressurized water reactor
+China	Ling'ao nuclear power plant	2-4	1086	operating	CPR-1000	2011	NA	CGNPC Nuclear Power Investment CO LTD[45%]; Guangdong Nuclear Power Investment CO LTD[30%]; CGN Power CO LTD[25%]	Lingdong Nuclear Power CO LTD	22.6056	114.5531	Shenzhen	Guangdong	pressurized water reactor
+China	China Experimental Fast Reactor (CEFR) nuclear power plant	NA	25	operating	BN-20	2011	NA	China National Nuclear CORP	China Institute Of Atomic Energy	39.7408	116.0303	Beijing Municipality	NA	other
+China	10MW High Temperature Gas-cooled Reactor Test Module (HTR-10) nuclear power plant	NA	10	operating	HTR-10	2013	NA	Institute of Nuclear and New Energy Technology	Institute of Nuclear and New Energy Technology	39.9977	116.3291	Beijing	NA	other
+China	Fuqing nuclear power plant	1	1089	operating	CNP-1000	2014	NA	China Nuclear Power CO LTD [51%]; Huadian New Energy Group CO LTD [39%]; Fujian Investment and Development Group CO LTD [10%]	Fujian Fuqing Nuclear Power CO LTD	25.4403	119.4426	Fuzhou	Fujian	pressurized water reactor
+China	Fuqing nuclear power plant	2	1089	operating	CNP-1000	2015	NA	China Nuclear Power CO LTD [51%]; Huadian New Energy Group CO LTD [39%]; Fujian Investment and Development Group CO LTD [10%]	Fujian Fuqing Nuclear Power CO LTD	25.4403	119.4426	Fuzhou	Fujian	pressurized water reactor
+China	Fuqing nuclear power plant	3	1089	operating	CNP-1000	2016	NA	China Nuclear Power CO LTD [51%]; Huadian New Energy Group CO LTD [39%]; Fujian Investment and Development Group CO LTD [10%]	Fujian Fuqing Nuclear Power CO LTD	25.4403	119.4426	Fuzhou	Fujian	pressurized water reactor
+China	Fuqing nuclear power plant	4	1089	operating	CNP-1000	2017	NA	China Nuclear Power CO LTD [51%]; Huadian New Energy Group CO LTD [39%]; Fujian Investment and Development Group CO LTD [10%]	Fujian Fuqing Nuclear Power CO LTD	25.4403	119.4426	Fuzhou	Fujian	pressurized water reactor
+China	Fuqing nuclear power plant	5	1150	operating	HPR-1000	2021	NA	China Nuclear Power CO LTD [51%]; Huadian New Energy Group CO LTD [39%]; Fujian Investment and Development Group CO LTD [10%]	Fujian Fuqing Nuclear Power CO LTD	25.4403	119.4426	Fuzhou	Fujian	pressurized water reactor
+China	Fuqing nuclear power plant	6	1150	operating	HPR-1000	2022	NA	China Nuclear Power CO LTD [51%]; Huadian New Energy Group CO LTD [39%]; Fujian Investment and Development Group CO LTD [10%]	Fujian Fuqing Nuclear Power CO LTD	25.4403	119.4426	Fuzhou	Fujian	pressurized water reactor
+China	Tianwan nuclear power plant	1-1	1060	operating	VVER V-428	2007	NA	China National Nuclear Power CO LTD [50%]; Shanghai Hexi Energy Investment CO LTD [30%]; Jiangsu Guoxin Group CO LTD [20%]	Jiangsu Nuclear Power CO LTD	34.6877	119.4616	Lianyungang	Jiangsu	pressurized water reactor
+China	Tianwan nuclear power plant	1-2	1060	operating	VVER V-428	2007	NA	China National Nuclear Power CO LTD [50%]; Shanghai Hexi Energy Investment CO LTD [30%]; Jiangsu Guoxin Group CO LTD [20%]	Jiangsu Nuclear Power CO LTD	34.6877	119.4616	Lianyungang	Jiangsu	pressurized water reactor
+China	Tianwan nuclear power plant	2-3	1126	operating	VVER V-428M	2018	NA	China National Nuclear Power CO LTD [50%]; Shanghai Hexi Energy Investment CO LTD [30%]; Jiangsu Guoxin Group CO LTD [20%]	Jiangsu Nuclear Power CO LTD	34.6877	119.4616	Lianyungang	Jiangsu	pressurized water reactor
+China	Tianwan nuclear power plant	2-4	1126	operating	VVER V-428M	2018	NA	China National Nuclear Power CO LTD [50%]; Shanghai Hexi Energy Investment CO LTD [30%]; Jiangsu Guoxin Group CO LTD [20%]	Jiangsu Nuclear Power CO LTD	34.6877	119.4616	Lianyungang	Jiangsu	pressurized water reactor
+China	Tianwan nuclear power plant	3-5	1118	operating	CNP-1000	2020	NA	China National Nuclear Power CO LTD [50%]; Shanghai Hexi Energy Investment CO LTD [30%]; Jiangsu Guoxin Group CO LTD [20%]	Jiangsu Nuclear Power CO LTD	34.6877	119.4616	Lianyungang	Jiangsu	pressurized water reactor
+China	Tianwan nuclear power plant	3-6	1118	operating	CNP-1000	2021	NA	China National Nuclear Power CO LTD [50%]; Shanghai Hexi Energy Investment CO LTD [30%]; Jiangsu Guoxin Group CO LTD [20%]	Jiangsu Nuclear Power CO LTD	34.6877	119.4616	Lianyungang	Jiangsu	pressurized water reactor
+China	Ningde nuclear power plant	1	1089	operating	CPR-1000	2013	NA	CGN Ninghe Investment CO LTD [46%]; Datang International Power Generation CO LTD [44%]; Fujian Funeng CO LTD [10%]	Fujian Ningde Nuclear Power CO LTD	27.1003	120.2515	Ningde	Fujian	pressurized water reactor
+China	Ningde nuclear power plant	2	1089	operating	CPR-1000	2014	NA	CGN Ninghe Investment CO LTD [46%]; Datang International Power Generation CO LTD [44%]; Fujian Funeng CO LTD [10%]	Fujian Ningde Nuclear Power CO LTD	27.1003	120.2515	Ningde	Fujian	pressurized water reactor
+China	Ningde nuclear power plant	3	1089	operating	CPR-1000	2015	NA	CGN Ninghe Investment CO LTD [46%]; Datang International Power Generation CO LTD [44%]; Fujian Funeng CO LTD [10%]	Fujian Ningde Nuclear Power CO LTD	27.1003	120.2515	Ningde	Fujian	pressurized water reactor
+China	Ningde nuclear power plant	4	1089	operating	CPR-1000	2016	NA	CGN Ninghe Investment CO LTD [46%]; Datang International Power Generation CO LTD [44%]; Fujian Funeng CO LTD [10%]	Fujian Ningde Nuclear Power CO LTD	27.1003	120.2515	Ningde	Fujian	pressurized water reactor
+Taiwan	Maanshan nuclear power plant	1	951	operating	WH 3LP (WE 312)	1984	NA	Taiwan Power CO	Taiwan Power CO	21.9589	120.7501	NA	Pingtung County	pressurized water reactor
+Taiwan	Maanshan nuclear power plant	2	951	operating	WH 3LP (WE 312)	1985	NA	Taiwan Power CO	Taiwan Power CO	21.9589	120.7501	NA	Pingtung County	pressurized water reactor
+China	Fangjiashan nuclear power plant	1	1089	operating	CPR-1000	2014	NA	China National Nuclear CORP	Qinshan Nuclear Power CO	30.7535	120.7589	Jiaxing	Zhejiang	pressurized water reactor
+China	Fangjiashan nuclear power plant	2	1089	operating	CPR-1000	2015	NA	China National Nuclear CORP	Qinshan Nuclear Power CO	30.7535	120.7589	Jiaxing	Zhejiang	pressurized water reactor
+China	Qinshan nuclear power plant	1-1	330	operating	CNP-300	1994	NA	China National Nuclear Power CO LTD [72%]; Zhejiang Zheneng Electric Power CO LTD [28%]	Qinshan Nuclear Power CO LTD	30.5255	120.9464	Jiaxing	Zhejiang	pressurized water reactor
+China	Qinshan nuclear power plant	2-1	650	operating	CNP-600	2002	NA	China National Nuclear Power CO LTD [50%]; Zhejiang Zheneng Electric Power CO LTD [20%]; Shenergy CO LTD [12%]; Jiangsu Guoxin Group CO LTD [10%]; Shanghai Hexi Energy Investment CO LTD [6%]; Anhui Wanneng CO LTD [2%]	Nuclear Power Qinshan Joint Venture CO LTD	30.5255	120.9464	Jiaxing	Zhejiang	pressurized water reactor
+China	Qinshan nuclear power plant	3-1	728	operating	CANDU 6	2002	NA	China National Nuclear Power CO LTD [51%]; Shanghai Hexi Energy Investment CO LTD [20%]; Shenergy CO LTD [10%]; Zhejiang Zheneng Electric Power CO LTD [10%]; Jiangsu Guoxin Group CO LTD [9%]	Third Qinshan Nuclear Power CO LTD	30.5255	120.9464	Jiaxing	Zhejiang	pressurized water reactor
+China	Qinshan nuclear power plant	3-2	728	operating	CANDU 6	2003	NA	China National Nuclear Power CO LTD [51%]; Shanghai Hexi Energy Investment CO LTD [20%]; Shenergy CO LTD [10%]; Zhejiang Zheneng Electric Power CO LTD [10%]; Jiangsu Guoxin Group CO LTD [9%]	Third Qinshan Nuclear Power CO LTD	30.5255	120.9464	Jiaxing	Zhejiang	pressurized water reactor
+China	Qinshan nuclear power plant	2-2	650	operating	CNP-600	2004	NA	China National Nuclear Power CO LTD [50%]; Zhejiang Zheneng Electric Power CO LTD [20%]; Shenergy CO LTD [12%]; Jiangsu Guoxin Group CO LTD [10%]; Shanghai Hexi Energy Investment CO LTD [6%]; Anhui Wanneng CO LTD [2%]	Nuclear Power Qinshan Joint Venture CO LTD	30.5255	120.9464	Jiaxing	Zhejiang	pressurized water reactor
+China	Qinshan nuclear power plant	2-3	660	operating	CNP-600	2010	NA	China National Nuclear Power CO LTD [50%]; Zhejiang Zheneng Electric Power CO LTD [20%]; Shenergy CO LTD [12%]; Jiangsu Guoxin Group CO LTD [10%]; Shanghai Hexi Energy Investment CO LTD [6%]; Anhui Wanneng CO LTD [2%]	Nuclear Power Qinshan Joint Venture CO LTD	30.5255	120.9464	Jiaxing	Zhejiang	pressurized water reactor
+China	Qinshan nuclear power plant	2-4	660	operating	CNP-600	2011	NA	China National Nuclear Power CO LTD [50%]; Zhejiang Zheneng Electric Power CO LTD [20%]; Shenergy CO LTD [12%]; Jiangsu Guoxin Group CO LTD [10%]; Shanghai Hexi Energy Investment CO LTD [6%]; Anhui Wanneng CO LTD [2%]	Nuclear Power Qinshan Joint Venture CO LTD	30.5255	120.9464	Jiaxing	Zhejiang	pressurized water reactor
+China	Haiyang nuclear power plant	1-1	1250	operating	AP-1000	2018	NA	State Power Investment Nuclear Energy CO LTD [65%]; Shandong Development Investment Holding Group CO LTD [10%]; Yantai Blue Sky Investment Holdings CO LTD [10%]; Huaneng Nuclear Power Development CO LTD [5%]; National Energy Investment Group CO LTD [5%]; China National Nuclear Power CO LTD [5%]	Shandong Nuclear Power CO LTD	36.77701	121.1585	Yantai	Shandong	pressurized water reactor
+China	Haiyang nuclear power plant	1-2	1250	operating	AP-1000	2019	NA	State Power Investment Nuclear Energy CO LTD [65%]; Shandong Development Investment Holding Group CO LTD [10%]; Yantai Blue Sky Investment Holdings CO LTD [10%]; Huaneng Nuclear Power Development CO LTD [5%]; National Energy Investment Group CO LTD [5%]; China National Nuclear Power CO LTD [5%]	Shandong Nuclear Power CO LTD	36.77701	121.1585	Yantai	Shandong	pressurized water reactor
+China	Hongyanhe nuclear power plant	1-1	1119	operating	CPR-1000	2013	NA	CGNPC Nuclear Power Investment CO LTD [45%]; State Power Investment Nuclear Energy CO LTD [45%]; Dalian Urban Construction Investment Group CO LTD [10%]	Liaoning Hongyanhe Nuclear Power CO LTD	39.7964	121.4774	Dalian	Liaoning	pressurized water reactor
+China	Hongyanhe nuclear power plant	1-2	1119	operating	CPR-1000	2014	NA	CGNPC Nuclear Power Investment CO LTD [45%]; State Power Investment Nuclear Energy CO LTD [45%]; Dalian Urban Construction Investment Group CO LTD [10%]	Liaoning Hongyanhe Nuclear Power CO LTD	39.7964	121.4774	Dalian	Liaoning	pressurized water reactor
+China	Hongyanhe nuclear power plant	1-3	1119	operating	CPR-1000	2015	NA	CGNPC Nuclear Power Investment CO LTD [45%]; State Power Investment Nuclear Energy CO LTD [45%]; Dalian Urban Construction Investment Group CO LTD [10%]	Liaoning Hongyanhe Nuclear Power CO LTD	39.7964	121.4774	Dalian	Liaoning	pressurized water reactor
+China	Hongyanhe nuclear power plant	1-4	1119	operating	CPR-1000	2016	NA	CGNPC Nuclear Power Investment CO LTD [45%]; State Power Investment Nuclear Energy CO LTD [45%]; Dalian Urban Construction Investment Group CO LTD [10%]	Liaoning Hongyanhe Nuclear Power CO LTD	39.7964	121.4774	Dalian	Liaoning	pressurized water reactor
+China	Hongyanhe nuclear power plant	2-5	1119	operating	ACPR-1000	2021	NA	CGNPC Nuclear Power Investment CO LTD [45%]; State Power Investment Nuclear Energy CO LTD [45%]; Dalian Urban Construction Investment Group CO LTD [10%]	Liaoning Hongyanhe Nuclear Power CO LTD	39.7964	121.4774	Dalian	Liaoning	pressurized water reactor
+China	Hongyanhe nuclear power plant	2-6	1119	operating	ACPR-1000	2022	NA	CGNPC Nuclear Power Investment CO LTD [45%]; State Power Investment Nuclear Energy CO LTD [45%]; Dalian Urban Construction Investment Group CO LTD [10%]	Liaoning Hongyanhe Nuclear Power CO LTD	39.7964	121.4774	Dalian	Liaoning	pressurized water reactor
+Taiwan	Jinshan nuclear power plant	1	636	retired	BWR-4 (Mark 1)	1978	2018	Taiwan Power CO	Taiwan Power CO	25.2821	121.5858	NA	NA	boiling water reactor
+Taiwan	Jinshan nuclear power plant	2	636	retired	BWR-4 (Mark 1)	1979	2019	Taiwan Power CO	Taiwan Power CO	25.2821	121.5858	NA	NA	boiling water reactor
+China	Sanmen nuclear power plant	1-1	1251	operating	AP-1000	2018	NA	China National Nuclear Power CO LTD [56%]; Zhejiang Zheneng Electric Power CO LTD [20%]; State Power Investment Nuclear Energy CO LTD [14%]; Huadian New Energy Group CORP LTD [10%]	Sanmen Nuclear Power CO LTD	29.0438	121.6274	Taizhou	Zhejiang	pressurized water reactor
+China	Sanmen nuclear power plant	1-2	1251	operating	AP-1000	2018	NA	China National Nuclear Power CO LTD [56%]; Zhejiang Zheneng Electric Power CO LTD [20%]; State Power Investment Nuclear Energy CO LTD [14%]; Huadian New Energy Group CORP LTD [10%]	Sanmen Nuclear Power CO LTD	29.0438	121.6274	Taizhou	Zhejiang	pressurized water reactor
+Taiwan	Kuosheng nuclear power plant	1	985	retired	BWR-6	1981	2021	Taiwan Power CO	Taiwan Power CO	25.2025	121.6629	NA	NA	boiling water reactor
+Taiwan	Kuosheng nuclear power plant	2	985	retired	BWR-6	1983	2023	Taiwan Power CO	Taiwan Power CO	25.2025	121.6629	NA	NA	boiling water reactor
+China	Shidao Bay nuclear power plant	1	211	operating	HTR-PM	2021	NA	China Huaneng Group	Huaneng Shandong Shidao Bay Nuclear Power CO LTD	36.9792	122.5317	Shidaowan	Shandong	other
+North Korea	Nyongbyon nuclear power plant	1	5	operating	MAGNOX	1985	NA	NA	NA	39.7974	125.7549	NA	North Pyongan	other
+South Korea	Hanbit nuclear power plant	1	1025	operating	WH F	1986	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.4105	126.4175	NA	NA	pressurized water reactor
+South Korea	Hanbit nuclear power plant	2	1024	operating	WH F	1987	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.4105	126.4175	NA	NA	pressurized water reactor
+South Korea	Hanbit nuclear power plant	3	1041	operating	OPR-1000	1995	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.4105	126.4175	NA	NA	pressurized water reactor
+South Korea	Hanbit nuclear power plant	4	1041	operating	OPR-1000	1996	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.4105	126.4175	NA	NA	pressurized water reactor
+South Korea	Hanbit nuclear power plant	5	1051	operating	OPR-1000	2002	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.4105	126.4175	NA	NA	pressurized water reactor
+South Korea	Hanbit nuclear power plant	6	1053	operating	OPR-1000	2002	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.4105	126.4175	NA	NA	pressurized water reactor
+South Korea	Kori nuclear power plant	1	607	retired	WH 60	1978	2017	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.3199	129.2948	NA	NA	pressurized water reactor
+South Korea	Kori nuclear power plant	2	681	operating	WH F	1983	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.3199	129.2948	NA	NA	pressurized water reactor
+South Korea	Kori nuclear power plant	3	1046	operating	WH F	1985	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.3199	129.2948	NA	NA	pressurized water reactor
+South Korea	Kori nuclear power plant	4	1046	operating	WH F	1986	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.3199	129.2948	NA	NA	pressurized water reactor
+South Korea	Shin-Kori nuclear power plant	1	1048	operating	OPR-1000	2011	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.3271	129.3017	NA	NA	pressurized water reactor
+South Korea	Shin-Kori nuclear power plant	2	1047	operating	OPR-1000	2012	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.3271	129.3017	NA	NA	pressurized water reactor
+South Korea	Saeul nuclear power plant	1	1488	operating	APR-1400	2016	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.3271	129.3017	NA	NA	pressurized water reactor
+South Korea	Saeul nuclear power plant	2	1491	operating	APR-1400	2019	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.3271	129.3017	NA	NA	pressurized water reactor
+South Korea	Hanul nuclear power plant	1	1014	operating	France CPI	1988	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	37.0931	129.38301	NA	NA	pressurized water reactor
+South Korea	Hanul nuclear power plant	2	1011	operating	France CPI	1989	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	37.0931	129.38301	NA	NA	pressurized water reactor
+South Korea	Hanul nuclear power plant	3	1051	operating	OPR-1000	1998	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	37.0931	129.38301	NA	NA	pressurized water reactor
+South Korea	Hanul nuclear power plant	4	1052	operating	OPR-1000	1999	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	37.0931	129.38301	NA	NA	pressurized water reactor
+South Korea	Hanul nuclear power plant	5	1049	operating	OPR-1000	2004	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	37.0931	129.38301	NA	NA	pressurized water reactor
+South Korea	Hanul nuclear power plant	6	1049	operating	OPR-1000	2005	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	37.0931	129.38301	NA	NA	pressurized water reactor
+South Korea	Shin-Hanul nuclear power plant	1	1455	operating	APR-1400	2022	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	37.0869	129.3881	NA	NA	pressurized water reactor
+South Korea	Wolsong nuclear power plant	1	683	retired	CANDU 6	1983	2019	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.7111	129.4743	NA	NA	pressurized heavy water reactor
+South Korea	Wolsong nuclear power plant	2	599	operating	CANDU 6	1997	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.7111	129.4743	NA	NA	pressurized heavy water reactor
+South Korea	Wolsong nuclear power plant	3	624	operating	CANDU 6	1998	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.7111	129.4743	NA	NA	pressurized heavy water reactor
+South Korea	Wolsong nuclear power plant	4	589	operating	CANDU 6	1999	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.7111	129.4743	NA	NA	pressurized heavy water reactor
+South Korea	Shin-Wolsong nuclear power plant	1	1048	operating	OPR-1000	2012	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.7221	129.4786	NA	NA	pressurized water reactor
+South Korea	Shin-Wolsong nuclear power plant	2	1048	operating	OPR-1000	2015	NA	Korea Hydro & Nuclear Power CO	Korea Hydro & Nuclear Power CO	35.7221	129.4786	NA	NA	pressurized water reactor
+Japan	Genkai nuclear power plant	1	559	retired	M (2-loop)	1975	2015	Kyushu Electric Power CO INC	Kyushu Electric Power CO INC	33.5152	129.83601	NA	NA	pressurized water reactor
+Japan	Genkai nuclear power plant	2	559	retired	M (2-loop)	1981	2019	Kyushu Electric Power CO INC	Kyushu Electric Power CO INC	33.5152	129.83601	NA	NA	pressurized water reactor
+Japan	Genkai nuclear power plant	3	1180	operating	M (4-loop)	1994	NA	Kyushu Electric Power CO INC	Kyushu Electric Power CO INC	33.5152	129.83601	NA	NA	pressurized water reactor
+Japan	Genkai nuclear power plant	4	1180	operating	M (4-loop)	1997	NA	Kyushu Electric Power CO INC	Kyushu Electric Power CO INC	33.5152	129.83601	NA	NA	pressurized water reactor
+Japan	Sendai nuclear power plant	1	890	operating	M (3-loop)	1984	NA	Kyushu Electric Power CO INC	Kyushu Electric Power CO INC	31.8335	130.1887	NA	NA	pressurized water reactor
+Japan	Sendai nuclear power plant	2	890	operating	M (3-loop)	1985	NA	Kyushu Electric Power CO INC	Kyushu Electric Power CO INC	31.8335	130.1887	NA	NA	pressurized water reactor
+Japan	Ikata nuclear power plant	1	566	retired	M (2-loop)	1977	2016	Shikoku Electric Power CO INC	Shikoku Electric Power CO INC	33.4909	132.3088	NA	NA	pressurized water reactor
+Japan	Ikata nuclear power plant	2	566	retired	M (2-loop)	1982	2018	Shikoku Electric Power CO INC	Shikoku Electric Power CO INC	33.4909	132.3088	NA	NA	pressurized water reactor
+Japan	Ikata nuclear power plant	3	890	operating	M (3-loop)	1994	NA	Shikoku Electric Power CO INC	Shikoku Electric Power CO INC	33.4909	132.3088	NA	NA	pressurized water reactor
+Japan	Shimane nuclear power plant	1	460	retired	BWR-3	1974	2015	Chugoku Electric Power CO	The Chugoku Electric Power CO INC	35.5383	132.9992	NA	NA	boiling water reactor
+Japan	Shimane nuclear power plant	2	820	mothballed	BWR-5	1989	NA	Chugoku Electric Power CO	Chugoku Electric Power CO	35.5383	132.9992	NA	NA	boiling water reactor
+Japan	Takahama nuclear power plant	1	826	operating	M (3-loop)	1974	NA	Kansai Electric Power CO	Kansai Electric Power CO	35.5223	135.5036	NA	NA	pressurized water reactor
+Japan	Takahama nuclear power plant	2	826	operating	M (3-loop)	1975	NA	Kansai Electric Power CO	Kansai Electric Power CO	35.5223	135.5036	NA	NA	pressurized water reactor
+Japan	Takahama nuclear power plant	3	870	operating	M (3-loop)	1985	NA	Kansai Electric Power CO	Kansai Electric Power CO	35.5223	135.5036	NA	NA	pressurized water reactor
+Japan	Takahama nuclear power plant	4	870	operating	M (3-loop)	1985	NA	Kansai Electric Power CO	Kansai Electric Power CO	35.5223	135.5036	NA	NA	pressurized water reactor
+Japan	Ohi nuclear power plant	1	1175	retired	WH 4LP	1979	2018	Kansai Electric Power CO	Kansai Electric Power CO	35.5424	135.6544	NA	NA	pressurized water reactor
+Japan	Ohi nuclear power plant	2	1175	retired	WH 4LP	1979	2018	Kansai Electric Power CO	Kansai Electric Power CO	35.5424	135.6544	NA	NA	pressurized water reactor
+Japan	Ohi nuclear power plant	3	1180	operating	M (4-loop)	1991	NA	Kansai Electric Power CO	Kansai Electric Power CO	35.5424	135.6544	NA	NA	pressurized water reactor
+Japan	Ohi nuclear power plant	4	1180	operating	M (4-loop)	1993	NA	Kansai Electric Power CO	Kansai Electric Power CO	35.5424	135.6544	NA	NA	pressurized water reactor
+Japan	Mihama nuclear power plant	1	340	retired	WH 2LP	1970	2015	Kansai Electric Power CO	Kansai Electric Power CO	35.7024	135.9634	NA	NA	pressurized water reactor
+Japan	Mihama nuclear power plant	2	500	retired	M (2-loop)	1972	2015	Kansai Electric Power CO	Kansai Electric Power CO	35.7024	135.9634	NA	NA	pressurized water reactor
+Japan	Mihama nuclear power plant	3	826	operating	M (3-loop)	1976	2036	Kansai Electric Power CO	Kansai Electric Power CO	35.7024	135.9634	NA	NA	pressurized water reactor
+Japan	Monju nuclear power plant	NA	280	retired	unknown	1995	2017	Japan Atomic Energy Agency	Japan Atomic Energy Agency	35.74001	135.9878	NA	NA	other
+Japan	Fugen nuclear power plant	NA	165	retired	ATR	1979	2003	Japan Atomic Energy Agency	Japan Atomic Energy Agency	35.7544	136.0191	NA	NA	other
+Japan	Tsuruga nuclear power plant	1	357	retired	BWR-2	1970	2015	Japan Atomic Power CO	Japan Atomic Power CO	35.7506	136.0197	NA	NA	boiling water reactor
+Japan	Tsuruga nuclear power plant	2	1160	mothballed	M (4-loop)	1987	NA	Japan Atomic Power CO	Japan Atomic Power CO	35.7506	136.0197	NA	NA	pressurized water reactor
+Japan	Shika nuclear power plant	1	540	mothballed	BWR-5	1993	NA	Hokuriku Electric Power CO	Hokuriku Electric Power CO	37.0609	136.7265	NA	NA	boiling water reactor
+Japan	Shika nuclear power plant	2	1206	mothballed	ABWR	2006	NA	Hokuriku Electric Power CO	Hokuriku Electric Power CO	37.0609	136.7265	NA	NA	boiling water reactor
+Japan	Hamaoka nuclear power plant	1	540	retired	BWR-4	1976	2009	Chubu Electric Power CO INC	Chubu Electric Power CO INC	34.6235	138.1421	NA	NA	boiling water reactor
+Japan	Hamaoka nuclear power plant	2	840	retired	BWR-4	1978	2009	Chubu Electric Power CO INC	Chubu Electric Power CO INC	34.6235	138.1421	NA	NA	boiling water reactor
+Japan	Hamaoka nuclear power plant	3	1100	mothballed	BWR-5	1987	NA	Chubu Electric Power CO INC	Chubu Electric Power CO INC	34.6235	138.1421	NA	NA	boiling water reactor
+Japan	Hamaoka nuclear power plant	4	1137	mothballed	BWR-5	1993	NA	Chubu Electric Power CO INC	Chubu Electric Power CO INC	34.6235	138.1421	NA	NA	boiling water reactor
+Japan	Hamaoka nuclear power plant	5	1380	mothballed	ABWR	2005	NA	Chubu Electric Power CO INC	Chubu Electric Power CO INC	34.6235	138.1421	NA	NA	boiling water reactor
+Japan	Kashiwazaki Kariwa nuclear power plant	1	1100	mothballed	BWR-5	1985	NA	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4259	138.5941	NA	NA	boiling water reactor
+Japan	Kashiwazaki Kariwa nuclear power plant	2	1100	mothballed	BWR-5	1990	NA	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4259	138.5941	NA	NA	boiling water reactor
+Japan	Kashiwazaki Kariwa nuclear power plant	5	1100	mothballed	BWR-5	1990	NA	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4259	138.5941	NA	NA	boiling water reactor
+Japan	Kashiwazaki Kariwa nuclear power plant	3	1100	mothballed	BWR-5	1993	NA	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4259	138.5941	NA	NA	boiling water reactor
+Japan	Kashiwazaki Kariwa nuclear power plant	4	1100	mothballed	BWR-5	1994	NA	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4259	138.5941	NA	NA	boiling water reactor
+Japan	Kashiwazaki Kariwa nuclear power plant	6	1356	mothballed	ABWR	1996	NA	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4259	138.5941	NA	NA	boiling water reactor
+Japan	Kashiwazaki Kariwa nuclear power plant	7	1356	mothballed	ABWR	1997	NA	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4259	138.5941	NA	NA	boiling water reactor
+Japan	Tomari nuclear power plant	1	579	mothballed	M (2-loop)	1989	NA	Hokkaido Electric Power CO INC	Hokkaido Electric Power CO INC	43.0367	140.5125	NA	NA	pressurized water reactor
+Japan	Tomari nuclear power plant	2	579	mothballed	M (2-loop)	1991	NA	Hokkaido Electric Power CO INC	Hokkaido Electric Power CO INC	43.0367	140.5125	NA	NA	pressurized water reactor
+Japan	Tomari nuclear power plant	3	912	mothballed	M (3-loop)	2009	NA	Hokkaido Electric Power CO INC	Hokkaido Electric Power CO INC	43.0367	140.5125	NA	NA	pressurized water reactor
+Japan	Tokai nuclear power plant	1	166	retired	MAGNOX	1966	1998	Japan Atomic Power CO	Japan Atomic Power CO	36.4215	140.6028	NA	NA	other
+Japan	Tokai nuclear power plant	2	1100	mothballed	BWR-5	1978	NA	Japan Atomic Power CO	Japan Atomic Power CO	36.4215	140.6028	NA	NA	boiling water reactor
+Japan	Japan Power Demonstration Reactor nuclear power plant	NA	13	retired	BWR-1	1965	1976	Japan Atomic Energy Agency	Japan Atomic Energy Agency	36.4568	140.6059	NA	NA	boiling water reactor
+Japan	Fukushima Daini nuclear power plant	1	1100	retired	BWR-5	1982	2019	Tokyo Electric Power CO	Tokyo Electric Power CO	37.3164	141.0265	NA	NA	boiling water reactor
+Japan	Fukushima Daini nuclear power plant	2	1100	retired	BWR-5	1984	2019	Tokyo Electric Power CO	Tokyo Electric Power CO	37.3164	141.0265	NA	NA	boiling water reactor
+Japan	Fukushima Daini nuclear power plant	3	1100	retired	BWR-5	1985	2019	Tokyo Electric Power CO	Tokyo Electric Power CO	37.3164	141.0265	NA	NA	boiling water reactor
+Japan	Fukushima Daini nuclear power plant	4	1100	retired	BWR-5	1987	2019	Tokyo Electric Power CO	Tokyo Electric Power CO	37.3164	141.0265	NA	NA	boiling water reactor
+Japan	Fukushima Daiichi nuclear power plant	1	460	retired	BWR-3	1971	2011	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4231	141.0331	NA	NA	boiling water reactor
+Japan	Fukushima Daiichi nuclear power plant	2	784	retired	BWR-4	1974	2011	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4231	141.0331	NA	NA	boiling water reactor
+Japan	Fukushima Daiichi nuclear power plant	3	784	retired	BWR-4	1976	2011	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4231	141.0331	NA	NA	boiling water reactor
+Japan	Fukushima Daiichi nuclear power plant	4	784	retired	BWR-4	1978	2011	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4231	141.0331	NA	NA	boiling water reactor
+Japan	Fukushima Daiichi nuclear power plant	5	784	retired	BWR-4	1978	2013	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4231	141.0331	NA	NA	boiling water reactor
+Japan	Fukushima Daiichi nuclear power plant	6	1100	retired	BWR-5	1979	2013	Tokyo Electric Power CO	Tokyo Electric Power CO	37.4231	141.0331	NA	NA	boiling water reactor
+Japan	Higashidori (Tohoku) nuclear power plant	1	1100	mothballed	BWR-5	2005	NA	Tohoku Electric Power CO INC	Tohoku Electric Power CO INC	41.188	141.3903	NA	NA	boiling water reactor
+Japan	Onagawa nuclear power plant	1	524	retired	BWR-4	1984	2018	Tohoku Electric Power CO INC	Tohoku Electric Power CO INC	38.3987	141.5003	NA	NA	boiling water reactor
+Japan	Onagawa nuclear power plant	2	825	mothballed	BWR-5	1995	NA	Tohoku Electric Power CO INC	Tohoku Electric Power CO INC	38.3987	141.5003	NA	NA	boiling water reactor
+Japan	Onagawa nuclear power plant	3	825	mothballed	BWR-5	2002	NA	Tohoku Electric Power CO INC	Tohoku Electric Power CO INC	38.3987	141.5003	NA	NA	boiling water reactor
+Russia	Bilibino nuclear power plant	1	12	retired	-EGP 6.00	1974	2019	Rosatom	Rosenergoatom	68.0503	166.5389	NA	Chukotka Autonomous Okrug	light water graphite reactor
+Russia	Bilibino nuclear power plant	2	12	operating	-EGP 6.00	1975	NA	Rosatom	Rosenergoatom	68.0503	166.5389	NA	Chukotka Autonomous Okrug	light water graphite reactor
+Russia	Bilibino nuclear power plant	3	12	operating	-EGP 6.00	1976	NA	Rosatom	Rosenergoatom	68.0503	166.5389	NA	Chukotka Autonomous Okrug	light water graphite reactor
+Russia	Bilibino nuclear power plant	4	12	operating	-EGP 6.00	1977	NA	Rosatom	Rosenergoatom	68.0503	166.5389	NA	Chukotka Autonomous Okrug	light water graphite reactor
+Russia	Akademik Lomonosov nuclear power plant	1	35	operating	KLT-40S 'Floating'	2020	NA	Rosatom	Rosenergoatom	69.7086	170.3011	NA	Chukotka Autonomous Okrug	pressurized water reactor
+Russia	Akademik Lomonosov nuclear power plant	2	35	operating	KLT-40S 'Floating'	2020	NA	Rosatom	Rosenergoatom	69.7086	170.3011	NA	Chukotka Autonomous Okrug	pressurized water reactor

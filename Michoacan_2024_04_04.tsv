@@ -1,0 +1,231 @@
+	Longitude	Latitude		DROP	Checkbox_1	DROP	Slider_1	DROP	DROP	DROP	Category_color	
+Infobox_1			Infobox_2				Infobox_3					
+Name	Longitude	Latitude	District	Municipali	Type_of_Community	Tenencia	Population	Other_Name	UT_Referen	BL_Referen	Language	
+Acahuato	-102.32963	19.150667	Apatzingán	Apatzingán	Pueblo	Yes	258	Santiago Acahuato | Acachuato	apa_04 | apa_07	EAP931/1/1/4 | EAP931/1/1/7	Spanish	
+Amatlán	-102.540589	19.160965	Apatzingán	Apatzingán	Pueblo	Yes	275	Santa Ana Amatlán	apa_05	EAP931/1/1/5	Spanish	
+Pinzándaro	-102.540819	19.109283	Apatzingán	Apatzingán	Pueblo	No	200	Pizándaro	apa_08	EAP931/1/1/8	"Historically Purépecha, but only Spanish spoken by 1864"	
+San Juan de los Plátanos	-102.438477	19.135634	Apatzingán	Apatzingán	Pueblo	Yes	237	NA	apa_03 | apa_05 | apa_09	EAP931/1/1/3 | EAP931/1/1/5 | EAP931/1/1/9	Spanish	
+Santa Ana Tetlama	-102.72698	19.08897	Apatzingán	Tepalcatepec	Congregación	No	357	NA	apa_04	EAP931/1/1/4	Spanish	
+Talpan	-102.667221	18.839751	Apatzingán	Tepalcatepec	Pueblo	Yes	168	Talpa | Jalpan | Jalpa	apa_09	EAP931/1/1/9	Spanish	
+Tomatlán	-102.604	18.772	Apatzingán	Tepalcatepec	Pueblo	Yes	510	NA	apa_06	EAP931/1/1/6	Spanish	
+Ario de Rosales	-101.70743	19.208997	Ario	Ario	Villa	No	3000	NA	ari_03 | zam_01	EAP931/1/2/3 | EAP931/1/14/2	"Historically Purépecha, but only Spanish spoken by 1864"	
+Churumuco	-101.647409	18.663328	Ario	Huacana	Pueblo	Yes	1500	NA	ari_01 | ari_02 | ari_04 | ari_05	EAP931/1/2/1 | EAP931/1/2/2 | EAP931/1/2/4 | EAP931/1/2/5	Spanish	
+La Huacana	-101.807198	18.963117	Ario	Huacana	Pueblo	No	1138	NA	ari_04	EAP931/1/2/4	Spanish	
+Sinagua	-101.841146	18.703584	Ario	Huacana	Pueblo	Yes	1045	NA	ari_04	EAP931/1/2/4	Spanish	
+Nuevo Urecho	-101.868158	19.166018	Ario	Nuevo Urecho	Pueblo	No	568	NA	ari_06	EAP931/1/2/6	Spanish	
+Maquilí	-103.533061	18.582785	Coalcomán	Coahuayana	Pueblo	Yes	500	NA	coa_01 | coa_02	EAP931/1/3/1 | EAP931/1/3/2	Spanish	
+Pómaro	-103.308161	18.339995	Coalcomán	Coahuayana	Pueblo	Yes	180	NA	coa_02	EAP931/1/3/2	"Historically Purépecha, but only Spanish spoken by 1864"	
+Coalcomán	-103.161204	18.779044	Coalcomán	Coalcomán	Pueblo	No	3000	NA	coa_03 | coa_04	EAP931/1/3/3 | EAP931/1/3/4	Spanish	
+Huitzontla	-103.404983	18.636902	Coalcomán	Coalcomán	Pueblo	Yes	70	San Juan Huitzontla	coa_02	EAP931/1/3/2	Spanish	
+Tepalcatepec	-102.8493	19.18666	Coalcomán	Coalcomán	Pueblo	Yes	1806	NA	apa_01 | apa_02 | apa_05	EAP931/1/1/1 | EAP931/1/1/2 | EAP931/1/1/5	Spanish	
+Charácuaro	-100.957688	18.464922	Huetamo	Huetamo	Rancho	No	57	NA	var_sn	EAP931/1/17/2	Spanish	
+Cútzio	-100.9	18.65	Huetamo	Huetamo	Pueblo	Yes	581	Cutzeo	hue_01 | var_sn	EAP931/1/4/1 | EAP931/1/17/2	"Spanish dominant, but some Purépecha"	
+Huetamo	-100.897001	18.629263	Huetamo	Huetamo	Villa	No	3274	Huetamo de Nuñez	hue_01 | hue_02 | hue_04 | hue_06 | hue_07 | hue_08 | var_sn	EAP931/1/4/1 | EAP931/1/4/2 | EAP931/1/4/4 | EAP931/1/4/6 | EAP931/1/4/7 | EAP931/1/4/8 | EAP931/1/17/2	"Historically Purépecha, but only Spanish spoken by 1864"	
+Purechucho	-100.888432	18.58227	Huetamo	Huetamo	Pueblo	Yes	581	Puruchucho	hue_05 | hue_06	EAP931/1/4/5 | EAP931/1/4/6	Spanish	
+San Agustín	-100.986856	18.464269	Huetamo	Huetamo	Pueblo	Yes	120	NA	hue_07	EAP931/1/4/7	Spanish	
+Tiquicheo	-100.737305	18.903008	Huetamo	Huetamo	Pueblo	Yes	517	NA	hue_06 | hue_07	EAP931/1/4/6 | EAP931/1/4/7	Spanish	
+Pungarabato	-100.669649	18.358199	Huetamo	Pungarabato	Pueblo	No	1554	NA	hue_03 | hue_04 | hue_05 | hue_07 | hue_09	EAP931/1/4/3 | EAP931/1/4/4 | EAP931/1/4/5 | EAP931/1/4/7 | EAP931/1/4/9	Purépecha and Nahua	
+Tanganhuato	-100.611783	18.286083	Huetamo	Pungarabato	Pueblo	Yes	685	Tanganguato	hue_03	EAP931/1/4/3	Spanish	
+Tlapehuala	-100.5379	18.24101	Huetamo	Pungarabato	Pueblo	Yes	1201	NA	hue_02 | hue_06	EAP931/1/4/2	Spanish	
+Zirándaro	-100.977488	18.47531	Huetamo	Zirándaro	Pueblo	No	3274	Ziréndaro	hue_06 | zin_20	EAP931/1/4/6 | EAP931/1/15/20	"Historically Purépecha, but only Spanish spoken by 1864"	
+Huarachita	-102.596555	20.020404	Jiquilpán	Huarachita	Pueblo	No	1912	Guarachita	jiq_03 | jiq_04 | jiq_08 | jiq_09	EAP931/1/5/3 | EAP931/1/5/4 | EAP931/1/5/8 | EAP931/1/5/9	Spanish	
+Jiquilpán	-102.718436	19.994873	Jiquilpán	Jiquilpán	Pueblo	No	6250	Jiquilpán de Juarez	jiq_07 | jiq_09	EAP931/1/5/6 | EAP931/1/5/8	Spanish	
+Tototlán	-102.679722	19.98681	Jiquilpán	Jiquilpán	Pueblo	Yes	900	NA	jiq_03	EAP931/1/5/3	Spanish	
+Cojumatlán	-102.851817	20.118578	Jiquilpán	Sahuayo	Pueblo	Yes	2246	NA	jiq_04 | jiq_09	EAP931/1/5/4 | EAP931/1/5/9	Spanish	
+Sahuayo	-102.715747	20.058585	Jiquilpán	Sahuayo	Pueblo	No	6518	Sahuallo	jiq_01 | jiq_07	EAP931/1/5/1 | EAP931/1/5/6	"Historically Purépecha, but only Spanish spoken by 1864"	
+San Pedro Caro	-102.653908	20.115531	Jiquilpán	Sahuayo	Pueblo	Yes	649	NA	jiq_03 | jiq_05 | jiq_08 | jiq_09 | jiq_10 | jiq_sn_2	EAP931/1/5/3 | EAP931/1/5/5 | EAP931/1/5/7 | EAP931/1/5/8 | EAP931/1/5/9 | EAP931/1/5/11	Spanish	
+Atapan	-102.423535	19.65087	Jiquilpán	Tingüindin	Pueblo	Yes	809	NA	jiq_02	EAP931/1/5/2	Spanish	
+San Ángel	-102.539703	19.864756	Jiquilpán	Tingüindin	Pueblo	Yes	1150	NA	jiq_03	EAP931/1/5/3	Spanish	
+Tacáscuaro	-102.547419	19.730093	Jiquilpán	Tingüindin	Pueblo	Yes	1500	Tacátzcuaro	jiq_09 | zam_09	EAP931/1/5/8 | EAP931/1/14/9	Spanish	
+Tingüindin	-102.481198	19.739208	Jiquilpán	Tingüindin	Pueblo	No	3350	Tingüindin de Argándare	jiq_03 | jiq_04 | jiq_07 | jiq_09 | jiq_10	EAP931/1/5/3 | EAP931/1/5/4 | EAP931/1/5/7 | EAP931/1/5/9 | EAP931/1/5/10	"Historically Purépecha, but only Spanish spoken by 1864"	
+Tocumbo	-102.52323	19.701773	Jiquilpán	Tingüindin	Rancho	No	950	NA	jiq_09	EAP931/1/5/8	Spanish	
+Churintzio	-102.064686	20.150557	La Piedad	La Piedad	Pueblo	Yes	2000	NA	lap_05	EAP931/1/6/5	Spanish	
+El fuerte	-102.067086	20.372151	La Piedad	La Piedad	Hacienda	No	460	NA	lap_04 | zam_14	EAP931/1/6/4 | EAP931/1/14/14	Spanish	
+La Piedad	-102.030504	20.342392	La Piedad	La Piedad	Ciudad	No	10000	La Piedad de Rivas	lap_04	EAP931/1/6/4	"Spanish dominant, but some Purépecha"	
+Río Grande	-102.006111	20.345082	La Piedad	La Piedad	Rancho	No	261	NA	lap_04 | lap_05	EAP931/1/6/4 | EAP931/1/6/5	Spanish	
+San Cristóbal	-102.090772	20.380782	La Piedad	La Piedad	Rancho	No	1110	NA	lap_04	EAP931/1/6/4	Spanish	
+Ticuitaco	-102.0025	20.1627	La Piedad	La Piedad	Rancho	No	0	NA	lap_03	EAP931/1/6/3	Spanish	
+Numarán	-101.949877	20.255801	La Piedad	Numarán	Pueblo	No	1800	NA	lap_06	EAP931/1/6/6	Spanish	
+Penjamillo	-101.934438	20.1041	La Piedad	Penjamillo	Pueblo	No	4000	NA	lap_06	EAP931/1/6/6	Spanish	
+Tanhuato	-102.331134	20.285516	La Piedad	Tanhuato	Pueblo	No	3502	NA	lap_06	EAP931/1/6/6	Spanish	
+Yurécuaro	-102.283823	20.336059	La Piedad	Yurécuaro	Pueblo	No	2500	NA	lap_01 | lap_02 | lap_04 | lap_05 | lap_07	EAP931/1/6/1 | EAP931/1/6/2 | EAP931/1/6/4 | EAP931/1/6/5 | EAP931/1/6/7	Spanish	
+Aporo	-100.410678	19.670213	Maravatío	Irimbo	Pueblo	Yes	836	NA	mar_01	EAP931/1/7/1	Spanish	
+Barrio de San Miguel	-100.542852	19.941525	Maravatío	Irimbo	Barrio	No	179	San Miguel Maravatío	mar_06	EAP931/1/7/6	Spanish	
+Chupio	-100.433924	19.671249	Maravatío	Irimbo	Rancho	No	0	NA	mar_04	EAP931/1/7/4	Spanish	
+Epúnguio	-100.438585	19.699917	Maravatío	Irimbo	Pueblo	Yes	541	NA	mar_01	EAP931/1/7/1	Spanish	
+Tzintzingareo	-100.485238	19.763762	Maravatío	Irimbo	Pueblo	Yes	633	Sinsingareo	mar_04	EAP931/1/7/4	Spanish	
+Maravatío	-100.444427	19.891131	Maravatío	Maravatío	Villa	Yes	4050	Maravatío el Alto	mar_03 | mar_04 | mar_06 | mar_07 | var_sn	EAP931/1/7/3 | EAP931/1/7/4 | EAP931/1/7/6 | EAP931/1/7/7 | EAP931/1/17/2	Spanish	
+San Miguel Curahuango	-100.45097	19.882291	Maravatío	Maravatío	Pueblo	Yes	941	San Juan Curahaungo	mar_02 | mar_06 | mar_07	EAP931/1/7/2 | EAP931/1/7/6 | EAP931/1/7/7	Spanish	
+San Miguel el Alto	-100.422404	19.675865	Maravatío	Maravatío	Pueblo	Yes	427	NA	mar_01 | mar_03 | mar_05 | mar_08 | maruru_09	EAP931/1/7/1 | EAP931/1/7/3 | EAP931/1/7/5 | EAP931/1/7/8 | EAP931/1/17/1	Spanish	
+Tlalpujahua de Rayón	-100.173018	19.805602	Maravatío	Maravatío	Pueblo	No	2000	NA	mar_03 | mar_04 | mar_05 | mar_06 | mar_07 | mar_08	EAP931/1/7/3 | EAP931/1/7/4 | EAP931/1/7/5 | EAP931/1/7/6 | EAP931/1/7/7 | EAP931/1/7/8	Mazahua	
+Tungareo	-100.365948	19.908995	Maravatío	Maravatío	Pueblo	Yes	317	Tangareo | Jungareo	mar_02	EAP931/1/7/2	Spanish	
+Tupátaro	-100.2833333	19.85	Maravatío	Maravatío	Pueblo	Yes	1142	Tupítaro	mar_02 | mar_03 | mar_05 | pat_08 | pat_09 | pat_18	EAP931/1/7/2 | EAP931/1/7/3 | EAP931/1/7/5 | EAP931/1/9/8 | EAP931/1/9/9 | EAP931/1/9/20	Spanish	
+Urepetío	-100.538508	19.952277	Maravatío	Maravatío	Pueblo	No	567	Uripitio	mar_01 | mar_04	EAP931/1/7/1 | EAP931/1/7/4	Spanish	
+San Lorenzo	-100.169306	19.791903	Maravatío	Tlalpujahua	Pueblo	Yes	210	NA	mar_01 | mar_04 | mar_05	EAP931/1/7/1 | EAP931/1/7/4 | EAP931/1/7/5	Spanish	
+Santa María	-100.199531	19.786249	Maravatío	Tlalpujahua	Pueblo	Yes	652	NA	mar_01 | mar_04 | mar_05 | maruru_09	EAP931/1/7/1 | EAP931/1/7/4 | EAP931/1/7/5 | EAP931/1/17/1	Spanish	
+Tarimangacho	-100.222222	19.805833	Maravatío	Tlalpujahua	Pueblo	No	678	San Pedro Tarimangacho | San Pedro Tarímbaro	mar_07	EAP931/1/7/7 | EAP931/1/17/1	Mazahua	
+Tlacopetec	-100.1166667	19.86666667	Maravatío	Tlalpujahua	Pueblo	Yes	867	San Miguel Tlacopetec | Tlacotepeé	mar_04 | mar_06 | maruru_09	EAP931/1/7/4 | EAP931/1/7/6 | EAP931/1/17/1	Spanish	
+Tlalpujahuilla	-100.163816	19.790525	Maravatío	Tlalpujahua	Pueblo	Yes	985	San Juan Tlalpujahuilla	mar_03	EAP931/1/7/3	Spanish	
+Acuitzio	-101.333205	19.495853	Morelia	Acuitzio	Pueblo	No	2069	Acuitzio del Canje | Acutzio	mor_32 | mor_34 | mor_36 | tac_01 | tac_03 | tac_07	EAP931/1/8/32 | EAP931/1/8/34 | EAP931/1/8/36 | EAP931/1/11/1 | EAP931/1/11/3 | EAP931/1/11/7	Spanish	
+Atécuaro	-101.189064	19.582774	Morelia	Acuitzio	Pueblo	Yes	467	NA	mor_22	EAP931/1/8/22	Spanish	
+Etúcuaro	-101.215468	19.41939	Morelia	Acuitzio	Pueblo	Yes	519	San Francisco Etúcuaro	mor_20 | zam_14	EAP931/1/8/20 | EAP931/1/14/14	"Historically Purépecha, but only Spanish spoken by 1864"	
+Santiago Undaméo	-101.2848	19.595151	Morelia	Acuitzio	Pueblo	Yes	608	NA	mor_34	EAP931/1/8/34	Spanish	
+Chucándiro	-101.333797	19.900077	Morelia	Chucándiro	Pueblo	No	2750	NA	mor_02 | mor_16	EAP931/1/8/2 | EAP931/1/8/16	"Spanish dominant, but some Purépecha"	
+Capacho	-101.231171	19.964568	Morelia	Cuitzeo	Pueblo	Yes	675	San Marcos Capacho	mor_18 | mor_23	EAP931/1/8/18 | EAP931/1/8/23	Spanish	
+Huandacareo	-101.276099	19.991359	Morelia	Cuitzeo	Pueblo	Yes	1837	NA	mor_02	EAP931/1/8/2	Spanish	
+San Agustín	-101.073266	19.962668	Morelia	Cuitzeo	Pueblo	Yes	1000	NA	mor_03 | mor_12 | mor_18 | mor_20 | mor_21 | mor_22	EAP931/1/8/3 | EAP931/1/8/12 | EAP931/1/8/18 | EAP931/1/8/20 | EAP931/1/8/21 | EAP931/1/8/22	Spanish	
+Capula	-101.393333	19.673611	Morelia	Morelia	Pueblo	Yes	1516	Santiago Capula	mor_07 | mor_09 | mor_11 | mor_13 | mor_14 | mor_15 | mor_17 | mor_19 | mor_25 | mor_28 | mor_29 | mor_30 | mor_31	EAP931/1/8/7 | EAP931/1/8/9 | EAP931/1/8/11 | EAP931/1/8/13 | EAP931/1/8/14 | EAP931/1/8/15 | EAP931/1/8/17 | EAP931/1/8/19 | EAP931/1/8/25 | EAP931/1/8/28 | EAP931/1/8/29 | EAP931/1/8/30 | EAP931/1/8/31	"Purépecha dominant, but some Spanish"	
+Charo	-101.044722	19.746111	Morelia	Morelia	Villa	Yes	1528	Charro	mor_10 | mor_26 | mor_27	EAP931/1/8/10 | EAP931/1/8/26 | EAP931/1/8/27	Matlaltzinca and Purépecha	
+Chiquimitío	-101.251944	19.794722	Morelia	Morelia	Pueblo	Yes	609	San Franciso Chiquimitío	mor_05	EAP931/1/8/5	Spanish	
+Ichaqueo	-101.14	19.572222	Morelia	Morelia	Pueblo	Yes	159	Ychaqueo	mor_18 | mor_20	EAP931/1/8/18 | EAP931/1/8/20	Spanish	
+Jesús del Monte	-101.15227	19.651514	Morelia	Morelia	Pueblo	Yes	54	NA	mor_18 | mor_24 | mor_35 | mor_37	EAP931/1/8/18 | EAP931/1/8/24 | EAP931/1/8/35 | EAP931/1/8/37	Matlaltzinca	
+San Miguel del Monte	-101.134167	19.620278	Morelia	Morelia	Pueblo	Yes	425	NA	mor_24	EAP931/1/8/24	Matlaltzinca	
+Santa María de los Altos	-101.178818	19.675598	Morelia	Morelia	Pueblo	Yes	233	Santa María	mor_12	EAP931/1/8/12	"Spanish dominant, but some Purépecha"	
+Santiaguito	-101.192107	19.718328	Morelia	Morelia	Rancho	No	157	NA	mor_21	EAP931/1/8/21	Spanish	
+Quiroga	-101.522873	19.665565	Morelia	Quiroga	Villa	No	3393	Cocupao | San Diego Cocupao	mor_01 | mor_03 | mor_04 | pat_06 | pat_17	EAP931/1/8/1 | EAP931/1/8/3 | EAP931/1/8/4 | EAP931/1/9/6 | EAP931/1/9/18	Spanish	
+San Gerónimo Purenchécuaro	-101.6123	19.679236	Morelia	Quiroga	Pueblo	Yes	1260	NA	mor_01 | mor_03 | mor_04 | mor_05	EAP931/1/8/1 | EAP931/1/8/3 | EAP931/1/8/4	Only Purépecha	
+Santa Fe de la Laguna	-101.554875	19.67257	Morelia	Quiroga	Pueblo	Yes	1974	NA	mor_01 | mor_05 | pat_13 | pat_14	EAP931/1/8/1 | EAP931/1/8/5 | EAP931/1/9/13 | EAP931/1/9/14	Only Purépecha	
+Tzintzuntzan	-101.578308	19.628474	Morelia	Quiroga	Ciudad	No	1340	Zintzuntzan	mor_08 | pat_06	EAP931/1/8/8 | EAP931/1/9/6	"Purépecha dominant, but some Spanish"	
+Ziróndaro	-101.632385	19.669177	Morelia	Quiroga	Pueblo	Yes	1510	San Andrés Ziróndaro	mor_03 | mor_05 | mor_12 | mor_13 | mor_17 | mor_31 | mor_32	EAP931/1/8/3 | EAP931/1/8/5 | EAP931/1/8/12 | EAP931/1/8/13 | EAP931/1/8/17 | EAP931/1/8/31 | EAP931/1/8/32	Spanish	
+Huacao	-101.022784	20.043345	Morelia	Santa Ana Maya	Pueblo	Yes	1328	NA	mor_05 | mor_09 | mor_12 | mor_18 | mor_21	EAP931/1/8/5 | EAP931/1/8/9 | EAP931/1/8/12 | EAP931/1/8/18 | EAP931/1/8/21	Spanish	
+Santa Ana Maya	-101.021888	20.006895	Morelia	Santa Ana Maya	Pueblo	No	2968	NA	mor_04 | mor_05	EAP931/1/8/4 | EAP931/1/8/5	Spanish	
+Tarímbaro	-101.175769	19.794712	Morelia	Tarímbaro	Pueblo	No	2408	San Miguel Tarímbaro	mor_06 | mor_34	EAP931/1/8/6 | EAP931/1/8/34	"Historically Purépecha, but only Spanish spoken by 1864"	
+Arocutín	-101.695642	19.556357	Pátzcuaro	Pátzcuaro	Pueblo	Yes	144	NA	pat_04	EAP931/1/9/4	Spanish	
+Cuanajo	-101.509673	19.485356	Pátzcuaro	Pátzcuaro	Pueblo	Yes	1414	NA	mor_33 | pat_05 | pat_07 | pat_08 | pat_09 | pat_10 | pat_11 | pat_16	EAP931/1/8/33 | EAP931/1/9/5 | EAP931/1/9/7 | EAP931/1/9/8 | EAP931/1/9/9 | EAP931/1/9/10 | EAP931/1/9/11 | EAP931/1/9/16	Spanish	
+Cucuchuchó	-101.631111	19.582746	Pátzcuaro	Pátzcuaro	Pueblo	Yes	195	San Miguel Cucuchuchó	pat_02 | pat_06 | pat_09	EAP931/1/9/2 | EAP931/1/9/6 | EAP931/1/9/9	Spanish	
+Erongarícuaro	-101.721097	19.588812	Pátzcuaro	Pátzcuaro	Pueblo	No	134	NA	pat_02 | pat_09 | zac_01	EAP931/1/9/2 | EAP931/1/9/9 | EAP931/1/13/1	"Spanish dominant, but some Purépecha"	
+Huecorio	-101.63329	19.538345	Pátzcuaro	Pátzcuaro	Pueblo	Yes	339	NA	pat_10	EAP931/1/9/10	Spanish	
+Jarácuaro	-101.677846	19.560578	Pátzcuaro	Pátzcuaro	Pueblo	Yes	851	Xarácuaro	pat_05 | pat_10 | pat_14	EAP931/1/9/5 | EAP931/1/9/10 | EAP931/1/9/14	Spanish	
+Pichátaro	-101.807374	19.572886	Pátzcuaro	Pátzcuaro	Pueblo	Yes	1592	NA	pat_01 | pat_02 | pat_04 | pat_09 | uru_15 | uru_20 | uru_21	EAP931/1/9/1 | EAP931/1/9/2 | EAP931/1/9/4 | EAP931/1/9/9 | EAP931/1/12/13 | EAP931/1/12/18 | EAP931/1/12/19	"Purépecha dominant, but some Spanish"	
+Puácuaro	-101.674189	19.602799	Pátzcuaro	Pátzcuaro	Pueblo	Yes	352	NA	mor_35_bis	EAP931/1/8/36	Spanish	
+San Bartolo Pareo	-101.679605	19.528187	Pátzcuaro	Pátzcuaro	Pueblo	Yes	277	NA	mor_35_bis | pat_14	EAP931/1/8/36 | EAP931/1/9/14	Spanish	
+San Pedro Pareo	-101.670416	19.532452	Pátzcuaro	Pátzcuaro	Pueblo	Yes	417	NA	mor_35_bis	EAP931/1/8/36	Spanish	
+Santa Ana Chapitiro	-101.652502	19.526296	Pátzcuaro	Pátzcuaro	Pueblo	Yes	0	NA	pat_15	EAP931/1/9/15	Spanish	
+Tócuaro	-101.694633	19.539349	Pátzcuaro	Pátzcuaro	Pueblo	Yes	163	San Andrés Tócuaro	mor_35_bis | pat_04	EAP931/1/8/36 | EAP931/1/9/4	Spanish	
+Tzentzénguaro	-101.642526	19.53398	Pátzcuaro	Pátzcuaro	Pueblo	Yes	340	Zencenguaro	pat_11 | pat_16	EAP931/1/9/11 | EAP931/1/9/16	Spanish	
+Zurumútaro	-101.586888	19.547175	Pátzcuaro	Pátzcuaro	Pueblo	Yes	442	Soromutaro	pat_02	EAP931/1/9/2	Spanish	
+Huiramángaro	-101.764886	19.513201	Pátzcuaro	Santa Clara	Pueblo	Yes	563	NA	mor_33	EAP931/1/8/33	Spanish	
+Opopeo	-101.60515	19.411633	Pátzcuaro	Santa Clara	Pueblo	Yes	1290	Santa María Opopeo	mor_33 | pat_03 | pat_04 | zac_06	EAP931/1/8/33 | EAP931/1/9/3 | EAP931/1/9/4 | EAP931/1/13/6	Spanish	
+San Juan Tumbio	-101.766842	19.505456	Pátzcuaro	Santa Clara	Pueblo	Yes	569	NA	pat_01	EAP931/1/9/1	Spanish	
+Santa Clara de Portugal	-101.639981	19.405799	Pátzcuaro	Santa Clara	Villa	No	3139	NA	pat_03	EAP931/1/9/3	Spanish	
+Zirahuén	-101.7317	19.45334	Pátzcuaro	Santa Clara	Pueblo	Yes	835	NA	pat_01 | pat_07 | pat_10	EAP931/1/9/1 | EAP931/1/9/7 | EAP931/1/9/10	"Purépecha dominant, but some Spanish"	
+Naranja	-101.759475	19.777085	Pátzcuaro	Zacapú	Pueblo	No	1036	NA	pat_08 | pat_09 | zac_03	EAP931/1/9/8 | EAP931/1/9/9 | EAP931/1/13/3	Spanish	
+Tarejero	-101.715645	19.81941	Pátzcuaro	Zacapú	Pueblo	No	707	Tarepero | Taejero	pat_17 | zac_06	EAP931/1/9/18 | EAP931/1/13/6	Spanish	
+Tiríndaro	-101.7435	19.771211	Pátzcuaro	Zacapú	Pueblo	No	1025	NA	pat_09 | zac_01 | zac_03	EAP931/1/9/9 | EAP931/1/13/1 | EAP931/1/13/3	"Purépecha dominant, but some Spanish"	
+Zacapú	-101.791575	19.813963	Pátzcuaro	Zacapú	Pueblo	No	3547	Zacapú de Mier | Tzacapu	pat_02 | pat_04 | pat_07 | pat_10 | pat_16b | pat_17b | pat_18b | zac_01 | zac_02 | zac_03 | zac_04 | zac_05	EAP931/1/9/1 | EAP931/1/9/5 | EAP931/1/9/7 | EAP931/1/9/10 | EAP931/1/9/17 | EAP931/1/9/19 | EAP931/1/9/21 | EAP931/1/13/1 | EAP931/1/13/2 | EAP931/1/13/3 | EAP931/1/13/4 | EAP931/1/13/5	"Spanish dominant, but some Purépecha"	
+Angamacutiro	-101.711135	20.149976	Puruándiro	Angamacutiro	Villa	No	2026	NA	pur_03	EAP931/1/10/2	"Spanish dominant, but some Purépecha"	
+Azajo	-101.686586	19.706659	Puruándiro	Coeneo	Pueblo	No	630	Santiago Azajo	pur_02 | pur_03 | pur_04	EAP931/1/10/1 | EAP931/1/10/2 | EAP931/1/10/3	Spanish	
+Coeneo	-101.5847	19.82195	Puruándiro	Coeneo	Villa	No	1590	NA	pur_02	EAP931/1/10/1	Spanish	
+Comanja	-101.690804	19.74696	Puruándiro	Coeneo	Pueblo	Yes	480	NA	pur_02 | pur_04	EAP931/1/10/1 | EAP931/1/10/3	Spanish	
+Huango	-101.468241	19.978105	Puruándiro	Huango	Villa	No	2656	Villa Morelos	pur_04	EAP931/1/10/3	"Spanish dominant, but some Purépecha"	
+Tumbastátiro	-101.35139	19.997827	Puruándiro	Huango	Ciudad	No	895	NA	pur_03 | pur_04	EAP931/1/10/2 | EAP931/1/10/3	Spanish	
+Huaniqueo	-101.505107	19.898439	Puruándiro	Huaniqueo	Villa	No	1956	NA	pur_03	EAP931/1/10/2	"Spanish dominant, but some Purépecha"	
+Tendeparacua	-101.431129	19.896523	Puruándiro	Huaniqueo	Ciudad	No	1265	Tendaparácua	pur_01	EAP931/1/10/4	Spanish	
+Teremendo	-101.480792	19.785046	Puruándiro	Huaniqueo	Pueblo	Yes	1973	NA	pur_03	EAP931/1/10/2	"Purépecha dominant, but some Spanish"	
+Epejan	-101.807661	20.083404	Puruándiro	Panindicuaro	Hacienda	No	400	NA	pur_01 | pur_03	EAP931/1/10/4 | EAP931/1/10/2	Spanish	
+Panindícuaro	-101.760957	19.985176	Puruándiro	Panindicuaro	Villa	No	286	NA	pur_02	EAP931/1/10/1	Spanish	
+Puruándiro	-101.50937	20.091896	Puruándiro	Puruándiro	Ciudad	No	7163	Puruándiro de Calderón	pur_02	EAP931/1/10/1	"Spanish dominant, but some Purépecha"	
+Carácuaro	-101.124944	19.01966	Tacámbaro	Carácuaro	Pueblo	No	368	Cacacuaro	tac_04	EAP931/1/11/4	"Historically Purépecha, but only Spanish spoken by 1864"	
+Nocupétaro	-101.161869	19.043919	Tacámbaro	Carácuaro	Pueblo	Yes	270	NA	tac_04	EAP931/1/11/4	Spanish	
+Purunguéo	-100.821062	19.02329	Tacámbaro	Carácuaro	Pueblo	Yes	154	NA	tac_04	EAP931/1/11/4	"Spanish dominant, but some Purépecha"	
+Tacámbaro	-101.458241	19.235018	Tacámbaro	Tacámbaro	Ciudad	No	3600	Tacámbaro de Codallos	mor_36 | tac_01 | tac_02 | tac_03 | tac_04 | tac_05 | tac_06 | tac_07	EAP931/1/8/36 | EAP931/1/11/1 | EAP931/1/11/2 | EAP931/1/11/3 | EAP931/1/11/4 | EAP931/1/11/5 | EAP931/1/11/6 | EAP931/1/11/7	"Historically Purépecha, but only Spanish spoken by 1864"	
+Turicato	-101.418995	19.054019	Tacámbaro	Tacámbaro	Pueblo	No	300	NA	mor_20	EAP931/1/8/20	"Historically Purépecha, but only Spanish spoken by 1864"	
+Cucucho	-102.189437	19.693235	Uruapan	Charapan	Pueblo	Yes	415	San Bartolo Cucucho | Cocucho	uru_03 | uru_20	EAP931/1/12/2 | EAP931/1/12/18	Spanish	
+Pamatácuaro	-102.346476	19.68975	Uruapan	Charapan	Pueblo	Yes	680	NA	uru_03 | uru_20 | uru_22	EAP931/1/12/2 | EAP931/1/12/18 | EAP931/1/12/20	Spanish	
+San Felipe	-102.182327	19.617758	Uruapan	Charapan	Pueblo	Yes	675	NA	uru_08 | uru_20	EAP931/1/12/7 | EAP931/1/12/18	Spanish	
+Cherán	-101.953684	19.685363	Uruapan	Cherán	Pueblo	No	1951	San Francisco Cherán	pat_12 | uru_15 | uru_20 | uru_22	EAP931/1/9/12 | EAP931/1/12/13 | EAP931/1/12/18 | EAP931/1/12/20	Spanish	
+Cherán-Atzicurin	-102.016116	19.70131	Uruapan	Cherán	Pueblo	No	720	Cheranatzicurin	uru_12 | uru_15 | uru_16 | uru_20 | uru_22	EAP931/1/12/10 | EAP931/1/12/13 | EAP931/1/12/14 | EAP931/1/12/18 | EAP931/1/12/20	Spanish	
+Los Reyes	-102.472419	19.590419	Uruapan	Los Reyes	Villa	No	1637	Los Reyes de Salgado	uru_22	EAP931/1/12/20	Spanish	
+San Gabriel	-102.462674	19.587434	Uruapan	Los Reyes	Pueblo	Yes	336	NA	uru_11	EAP931/1/12/9	Spanish	
+Comachuén	-101.904325	19.571323	Uruapan	Nahuatzen	Pueblo	Yes	510	NA	uru_20 | uru_21	EAP931/1/12/18 | EAP931/1/12/19	Spanish	
+Nahuátzen	-101.917041	19.655061	Uruapan	Nahuatzen	Pueblo	No	2517	NA	uru_03 | uru_04 | uru_12	EAP931/1/12/2 | EAP931/1/12/3 | EAP931/1/12/10	Only Purépecha	
+Sevina	-101.90057	19.62898	Uruapan	Nahuatzen	Pueblo	Yes	706	Sebina	uru_03 | maruru_09	EAP931/1/12/2 | EAP931/1/17/1	Spanish	
+Turícuaro	-101.937469	19.570853	Uruapan	Nahuatzen	Pueblo	Yes	488	NA	uru_20 | uru_22	EAP931/1/12/18 | EAP931/1/12/20	Spanish	
+Aranza	-102.023654	19.664182	Uruapan	Paracho	Pueblo	Yes	490	NA	uru_12 | uru_20 | uru_22	EAP931/1/12/10 | EAP931/1/12/18 | EAP931/1/12/20	Spanish	
+Nurío	-102.129572	19.656557	Uruapan	Paracho	Villa	Yes	740	NA	uru_08 | uru_19	EAP931/1/12/7 | EAP931/1/12/17	Spanish	
+Paracho	-102.048973	19.647449	Uruapan	Paracho	Pueblo	No	2515	NA	uru_12 | uru_17 | uru_22	EAP931/1/12/10 | EAP931/1/12/15 | EAP931/1/12/20	"Purépecha dominant, but some Spanish"	
+Pomacuarán	-102.102858	19.621983	Uruapan	Paracho	Pueblo	Yes	330	Pamacuarán	uru_03 | uru_19 | uru_20	EAP931/1/12/2 | EAP931/1/12/17 | EAP931/1/12/18	Spanish	
+Quincéo	-101.999772	19.594703	Uruapan	Paracho	Pueblo	Yes	282	NA	uru_17 | uru_20 | uru_22	EAP931/1/12/15 | EAP931/1/12/20	Spanish	
+Tanaco	-102.081706	19.737124	Uruapan	Paracho	Pueblo	Yes	0	Santa Cruz Tanaco	uru_12 | uru_20	EAP931/1/12/10 | EAP931/1/12/18	Spanish	
+Urapicho	-102.111188	19.682633	Uruapan	Paracho	Pueblo	Yes	294	Urupicho	mor_21 | uru_12 | uru_20 | uru_22	EAP931/1/8/21 | EAP931/1/12/10 | EAP931/1/12/18 | EAP931/1/12/20	Spanish	
+Barrio de San Antonio	-102.251717	19.649748	Uruapan	Parangaricutiro	Barrio	No	0	NA	pat_12	EAP931/1/9/12	Spanish	
+Corupo	-102.234792	19.609121	Uruapan	Parangaricutiro	Pueblo	No	1061	NA	uru_19	EAP931/1/12/17	Spanish	
+Parangaricutiro	-102.285587	19.618021	Uruapan	Parangaricutiro	Pueblo	Yes	1579	NA	uru_18 | uru_20 | uru_23	EAP931/1/12/16 | EAP931/1/12/18 | EAP931/1/12/21	"Purépecha dominant, but some Spanish"	
+Paricutín	-102.247384	19.533284	Uruapan	Parangaricutiro	Pueblo	Yes	527	NA	uru_18 | uru_20 | uru_23	EAP931/1/12/16 | EAP931/1/12/18 | EAP931/1/12/21	Spanish	
+Sicuicho	-102.333142	19.663088	Uruapan	Parangaricutiro	Pueblo	Yes	975	Jicuicho	uru_03 | uru_19 | uru_20	EAP931/1/12/2 | EAP931/1/12/17 | EAP931/1/12/18	Spanish	
+Zacán	-102.287589	19.566014	Uruapan	Parangaricutiro	Pueblo	No	831	NA	uru_18	EAP931/1/12/16	Spanish	
+Zirosto	-102.324419	19.535118	Uruapan	Parangaricutiro	Pueblo	No	991	Jirosto | Sirosto	uru_20 | uru_22	EAP931/1/12/18 | EAP931/1/12/20	"Purépecha dominant, but some Spanish"	
+Peribán	-102.413966	19.520101	Uruapan	Peribán	Villa	No	1450	NA	uru_03 | uru_16 | uru_17 | uru_19 | maruru_09	EAP931/1/12/2 | EAP931/1/12/14 | EAP931/1/12/15 | EAP931/1/12/17 | EAP931/1/17/1	"Historically Purépecha, but only Spanish spoken by 1864"	
+San Francisco	-102.398441	19.556013	Uruapan	Peribán	Pueblo	No	554	San Francisco Periban	uru_17 | uru_18 | maruru_09	EAP931/1/12/15 | EAP931/1/12/16 | EAP931/1/17/1	Spanish	
+Apo	-102.411261	19.427219	Uruapan	Tancítaro	Pueblo	No	1066	NA	uru_13 | uru_20	EAP931/1/12/11 | EAP931/1/12/18	Spanish	
+Apundaro	-102.428589	19.351266	Uruapan	Tancítaro	Pueblo	No	300	NA	uru_02 | uru_05 | uru_07 | uru_14	EAP931/1/12/1 | EAP931/1/12/4 | EAP931/1/12/6 | EAP931/1/12/12	Spanish	
+Pareo	-102.452188	19.332594	Uruapan	Tancítaro	Rancho	No	602	NA	uru_05 | uru_14	EAP931/1/12/4 | EAP931/1/12/12	Spanish	
+Tancítaro	-102.36264	19.338429	Uruapan	Tancítaro	Villa	No	2034	Tanzitaro	uru_02 | uru_03 | uru_05 | uru_06 | uru_07 | uru_09 | uru_11 | uru_13 | uru_14	EAP931/1/12/1 | EAP931/1/12/2 | EAP931/1/12/4 | EAP931/1/12/5 | EAP931/1/12/6 | EAP931/1/12/8 | EAP931/1/12/9 | EAP931/1/12/11 | EAP931/1/12/12	"Spanish dominant, but some Purépecha"	
+Ziracuaretiro	-101.923423	19.433709	Uruapan	Taretan	Pueblo	Yes	726	Jiracuaretiro	uru_03 | uru_19 | uru_22	EAP931/1/12/2 | EAP931/1/12/17 | EAP931/1/12/20	Spanish	
+San Ángel	-101.889118	19.446639	Uruapan	Tingambato	Pueblo	Yes	802	NA	pat_12 | uru_08	EAP931/1/9/12 | EAP931/1/12/7	Spanish	
+Tingambato	-101.853275	19.50109	Uruapan	Tingambato	Pueblo	Yes	1941	NA	uru_16 | uru_17 | uru_18 | uru_23	EAP931/1/12/14 | EAP931/1/12/15 | EAP931/1/12/16 | EAP931/1/12/21	"Spanish dominant, but some Purépecha"	
+Arantepacua	-101.968602	19.595802	Uruapan	Uruapan	Pueblo	Yes	558	Arentepacua	uru_16 | uru_18 | uru_20	EAP931/1/12/14 | EAP931/1/12/16 | EAP931/1/12/18	Spanish	
+Barrio de San Juan Evangelista	-102.075237	19.411446	Uruapan	Uruapan	Barrio	No	0	NA	uru_15 | maruru_09	EAP931/1/12/13 | EAP931/1/17/1	Spanish	
+Barrio de San Pedro	-102.071798	19.417888	Uruapan	Uruapan	Barrio	No	0	NA	uru_11 | uru_13 | uru_22	EAP931/1/12/9 | EAP931/1/12/15 | EAP931/1/12/20	Spanish	
+Barrio de Santiago	-102.069321	19.42399	Uruapan	Uruapan	Barrio	No	0	NA	uru_11 | uru_15	EAP931/1/12/9 | EAP931/1/12/13	Spanish	
+Capácuaro	-102.051841	19.547413	Uruapan	Uruapan	Pueblo	Yes	553	NA	uru_16 | uru_17 | uru_20	EAP931/1/12/14 | EAP931/1/12/15 | EAP931/1/12/18	"Spanish dominant, but some Purépecha"	
+Jicalán	-102.068331	19.391096	Uruapan	Uruapan	Pueblo	No	415	Jicatán	uru_08	EAP931/1/12/7	Spanish	
+Jucutacato	-102.07924	19.377714	Uruapan	Uruapan	Pueblo	Yes	802	NA	uru_03 | uru_22 | maruru_09	EAP931/1/12/2 | EAP931/1/12/20 | EAP931/1/17/1	Spanish	
+Río Cupatitzio	-102.066881	19.415	Uruapan	Uruapan	Pueblo	No	0	NA	uru_15	EAP931/1/12/13	Spanish	
+San Lorenzo	-102.109339	19.527709	Uruapan	Uruapan	Pueblo	Yes	570	NA	uru_16 | uru_17 | uru_20	EAP931/1/12/14 | EAP931/1/12/15 | EAP931/1/12/18	Spanish	
+Tarecuato	-102.463964	19.839862	Zamora	Chavinda	Pueblo	Yes	2111	San Francisco Tarecuato | Tarecuaro | Terecuato| Jarecuato	zam_14	EAP931/1/14/14	"Purépecha dominant, but some Spanish"	
+Acachuén	-102.092718	19.846925	Zamora	Chilchota	Pueblo	Yes	500	NA	zam_12	EAP931/1/14/12	Spanish	
+Carapán	-102.036557	19.860181	Zamora	Chilchota	Pueblo	Yes	1869	NA	zam_02 | zam_14	EAP931/1/14/2 | EAP931/1/14/14	Spanish	
+Chilchota	-102.120512	19.847091	Zamora	Chilchota	Pueblo	No	3000	NA	zam_01 | zam_04 | zam_10 | zam_13	EAP931/1/14/1 | EAP931/1/14/4 | EAP931/1/14/10 | EAP931/1/14/13	"Spanish dominant, but some Purépecha"	
+Huansito	-102.06755	19.848374	Zamora	Chilchota	Pueblo	No	759	Huáncito | Huantzito	zam_07	EAP931/1/14/7	Spanish	
+Ichán	-102.053537	19.854807	Zamora	Chilchota	Pueblo	Yes	680	Ychán	zam_06	EAP931/1/14/6	Spanish	
+Santo Tomás	-102.085075	19.844288	Zamora	Chilchota	Pueblo	Yes	318	Santo Tomás de Chilchota	zam_01	EAP931/1/14/1	Spanish	
+Tacuro	-102.051097	19.856591	Zamora	Chilchota	Pueblo	Yes	586	San María Tacuro | Tocuro | Tacuaro	zam_06	EAP931/1/14/6	Spanish	
+Tanaquillo	-102.097709	19.845452	Zamora	Chilchota	NA	Yes	322	NA	zam_07 | zam_14	EAP931/1/14/7 | EAP931/1/14/14	Spanish	
+Urén	-102.105056	19.846037	Zamora	Chilchota	Pueblo	Yes	278	NA	zam_06	EAP931/1/14/6	Spanish	
+Valle de Guadalupe	-102.140107	19.90982	Zamora	Chilchota	Rancho	No	300	NA	zam_02 | zam_06 | zam_10	EAP931/1/14/2 | EAP931/1/14/6 | EAP931/1/14/10	Spanish	
+Zopoco	-102.073219	19.839286	Zamora	Chilchota	Pueblo	Yes	600	Zapoco	zam_01 | zam_06	EAP931/1/14/1 | EAP931/1/14/6	Spanish	
+Ixtlán	-102.394797	20.168948	Zamora	Ixtlán	Pueblo	No	2058	Iztlan	zam_03 | zam_08	EAP931/1/14/3 | EAP931/1/14/8	Spanish	
+Pajacuarán	-102.566232	20.119089	Zamora	Ixtlán	Pueblo	Yes	1600	NA	zam_05 | zam_08 | zam_11	EAP931/1/14/5 | EAP931/1/14/8 | EAP931/1/14/11	Spanish	
+Jacona	-102.416667	19.933333	Zamora	Jacona	Pueblo	No	3500	San Agustín Jacona	zam_12	EAP931/1/14/12	"Spanish dominant, but some Purépecha"	
+Tangamandapio	-102.419004	19.949335	Zamora	Santiago	Pueblo	No	2000	Santiago Tangamandapio | Tangamandapeo | Santiago Tagamdaphio	zam_03 | zam_05 | zam_12 | zam_14	EAP931/1/14/3 | EAP931/1/14/5 | EAP931/1/14/12 | EAP931/1/14/	Spanish	
+Ocumicho	-102.22105	19.79582	Zamora	Tangancícuaro	Pueblo	Yes	938	San José Ocumicho	zam_03 | zam_07 | zam_14	EAP931/1/14/3 | EAP931/1/14/7 | EAP931/1/14/14	Spanish	
+Patambán	-102.291394	19.80259	Zamora	Tangancícuaro	Pueblo	Yes	2000	NA	zam_09 | zam_14	EAP931/1/14/9 | EAP931/1/14/14	"Purépecha dominant, but some Spanish"	
+Puentecillos	-102.133333	19.916667	Zamora	Tangancícuaro	Rancho	Yes	277	Puntecillos | Puentecillas	zam_06	EAP931/1/14/6	Spanish	
+San Antonio	-102.137306	19.93327	Zamora	Tangancícuaro	Hacienda	Yes	1144	NA	zam_06	EAP931/1/14/6	Spanish	
+San José	-102.227566	19.82273	Zamora	Tangancícuaro	Hacienda	Yes	30	San José de Gracia	zam_01 | zam_08	EAP931/1/14/1 | EAP931/1/14/8	Spanish	
+Tangancícuaro	-102.205936	19.887043	Zamora	Tangancícuaro	Villa	No	2602	Tangancícuaro de Arista | Tangaricuaro | Tanganiciquaro	zam_08	EAP931/1/14/8	Spanish	
+Santa Mónica Ario	-102.348138	20.026511	Zamora	Zamora	Pueblo	Yes	880	NA	zam_12	EAP931/1/14/12	Spanish	
+Copuyo	-100.931612	19.496176	Zinapécuaro	Indaparapeo	Pueblo	Yes	130	Copullo	zin_07 | zin_11	EAP931/1/15/7 | EAP931/1/15/11	Spanish	
+Indaparapeo	-100.969073	19.787671	Zinapécuaro	Indaparapeo	Pueblo	No	1900	NA	zin_04 | zin_05 | zin_14 | zin_16	EAP931/1/15/4 | EAP931/1/15/5 | EAP931/1/15/14 | EAP931/1/15/16	"Historically Purépecha, but only Spanish spoken by 1864"	
+la Soledad	-100.894341	19.662613	Zinapécuaro	Indaparapeo	Rancho	No	30	de la Soledad	apa_08 | mor_32 | zin_05 | zin_06 | zin_13 | zin_14	EAP931/1/1/8 | EAP931/1/8/32 | EAP931/1/15/5 | EAP931/1/15/6 | EAP931/1/15/13 | EAP931/1/15/14	Spanish	
+Patámbaro	-100.907501	19.578677	Zinapécuaro	Indaparapeo	Pueblo	Yes	120	NA	zin_03	EAP931/1/15/3	Spanish	
+Tzitzio	-100.924725	19.585825	Zinapécuaro	Indaparapeo	Pueblo	Yes	150	Zitzio	zin_03 | zin_05 | zin_06 | zin_17 | zin_18 | zin_sn	EAP931/1/15/3 | EAP931/1/15/5 | EAP931/1/15/6 | EAP931/1/15/17 | EAP931/1/15/18 | EAP931/1/15/21	"Purépecha dominant, but some Spanish"	
+Chapatuato	-100.57181	19.59542	Zinapécuaro	Tajimaroa	Pueblo	Yes	511	San Sebastian Chapatuato | San Pedro Chapatuato	zin_06	EAP931/1/15/6	Spanish	
+Cuchipitío	-100.669982	19.699221	Zinapécuaro	Tajimaroa	Rancho	No	132	NA	zin_08	EAP931/1/15/8	Spanish	
+Huarirapeo	-100.624565	19.676643	Zinapécuaro	Tajimaroa	Pueblo	Yes	190	San Lucas Huarirapeo	zin_01 | zin_15	EAP931/1/15/1 | EAP931/1/15/15	Spanish	
+San Bartolo Cuitareo	-100.6	19.616667	Zinapécuaro	Tajimaroa	Pueblo	Yes	787	NA	zin_10 | zin_19 | zin_20 | zit_03	EAP931/1/15/10 | EAP931/1/15/19 | EAP931/1/15/20 | EAP931/1/16/3	Spanish	
+San Pedro Caratacuaro	-100.606318	19.719257	Zinapécuaro	Tajimaroa	Pueblo	Yes	156	San Matías Catarácuaro | San Matías Cataracua | San Pedro Catarácuaro | Caratacuaro | Catacuaro	zin_04 | zin_11	EAP931/1/15/4 | EAP931/1/15/11	Spanish	
+San Ildefonso	-100.618309	19.931409	Zinapécuaro	Ucareo	Pueblo	Yes	186	San Ydelfonso	zin_02 | zin_11 | zit_03	EAP931/1/15/2 | EAP931/1/15/11 | EAP931/1/16/3	Spanish	
+Santiagio Puriatzicuaro	-100.588725	19.884642	Zinapécuaro	Ucareo	Pueblo	Yes	776	Santiago Puriacícuaro| Puriatzicuaro	mar_07 | zin_12	EAP931/1/7/7 | EAP931/1/17/12	Spanish	
+Ucareo	-100.685954	19.898501	Zinapécuaro	Ucareo	Pueblo	Yes	1412	NA	zin_09 | zin_16 | zit_03	EAP931/1/15/9 | EAP931/1/15/16 | EAP931/1/16/3	"Historically Purépecha, but only Spanish spoken by 1864"	
+Coro	-100.874306	19.894711	Zinapécuaro	Zinapécuaro	Pueblo	Yes	372	NA	zin_11	EAP931/1/15/11	Spanish	
+Jeráhuaro	-100.643752	19.880075	Zinapécuaro	Zinapécuaro	Pueblo	Yes	1390	Geráhuaro | Guerahuaro	zin_19 | zit_01	EAP931/1/15/19 | EAP931/1/16/1	Spanish	
+Queréndaro	-100.8906	19.809535	Zinapécuaro	Zinapécuaro	Pueblo	Yes	630	San Lorenzo Queréndaro | Queretaro	zin_07 | zin_08 | zin_12 | zin_15	EAP931/1/15/7 | EAP931/1/15/8 | EAP931/1/15/12	Spanish	
+Taimeo	-100.799263	19.844442	Zinapécuaro	Zinapécuaro	Pueblo	Yes	546	NA	mor_32 | zin_11 | zin_12	EAP931/1/8/32 | EAP931/1/16/11 | EAP931/1/16/12	Spanish	
+Jungapeo	-100.494831	19.459154	Zitácuaro	Jungapeo	Pueblo	No	1453	NA	zit_07	EAP931/1/16/7	Spanish	
+Copándaro	-100.35099	19.288331	Zitácuaro	Susupuato	Pueblo	Yes	284	Cupandaro	zit_06	EAP931/1/16/6	"Historically Purépecha, but only Spanish spoken by 1864"	
+Tuzantla	-100.57288	19.207928	Zitácuaro	Tuzantla	Pueblo	No	681	NA	zit_02	EAP931/1/16/2	"Historically Purépecha, but only Spanish spoken by 1864"	
+Carpinteros	-100.318333	19.490556	Zitácuaro	Zitácuaro	Rancho	No	240	NA	zit_07	EAP931/1/16/7	Spanish	
+Curungueo	-100.343401	19.46459	Zitácuaro	Zitácuaro	Pueblo	No	628	San Francisco Curungueo	zit_04	EAP931/1/16/4	Spanish	
+San Andrés Jilotepec	-100.327014	19.420961	Zitácuaro	Zitácuaro	Pueblo	No	1101	NA	zit_05	EAP931/1/16/5	Spanish	
+San Bartolo	-100.260367	19.506345	Zitácuaro	Zitácuaro	Pueblo	No	0	NA	zit_07 | zit_08	EAP931/1/16/7 | EAP931/1/16/8	Spanish	
+San Bartolomé del Monte	-100.261028	19.479324	Zitácuaro	Zitácuaro	Pueblo	Yes	647	San Bartolomé	zit_06 | zit_08	EAP931/1/16/6 | EAP931/1/16/8	Spanish	
+San Cristóbal	-100.354588	19.556973	Zitácuaro	Zitácuaro	Pueblo	No	0	NA	zit_06	EAP931/1/16/6	Spanish	
+San Felipe	-100.37384	19.490156	Zitácuaro	Zitácuaro	Pueblo	Yes	0	NA	zit_02 | zin_04 | zin_05 | var_sn	EAP931/1/16/2 | EAP931/1/16/4 | EAP931/1/16/5 | EAP931/1/17/2	Spanish	
+San Francisco el Nuevo	-100.273476	19.634832	Zitácuaro	Zitácuaro	Pueblo	Yes	436	NA	zit_02 | zit_07 | zit_08	EAP931/1/16/2 | EAP931/1/16/7 | EAP931/1/16/8	Spanish	
+San Mateo del Rincón	-100.2341	19.495	Zitácuaro	Zitácuaro	Pueblo	Yes	3381	San Mateo	zit_05	EAP931/1/16/5	Spanish	
+San Miguel Chichimequillas	-100.368174	19.415213	Zitácuaro	Zitácuaro	Pueblo	Yes	856	NA	zit_04 | zit_06	EAP931/1/16/4 | EAP931/1/16/6	Spanish	
+Santa Isabel Enandío	-100.427612	19.332136	Zitácuaro	Zitácuaro	Pueblo	No	600	NA	zit_07	EAP931/1/16/7	Spanish	
+Santa María Aputzio	-100.346888	19.341826	Zitácuaro	Zitácuaro	Pueblo	No	848	NA	zit_02	EAP931/1/16/2	Spanish	
+Zitácuaro	-100.357332	19.436124	Zitácuaro	Zitácuaro	Ciudad	No	3948	San Juan Zitácuaro	zit_06	EAP931/1/16/6	Mazahua and Otomí	
